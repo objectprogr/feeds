@@ -1,6 +1,6 @@
-[gov]
-title = "gov"
-url = "https://gov.pl"
-entrySelector = "#Aktualnosci > ul li"
+[govBazaWiedzy]
+title = "gov - baza wiedzy"
+url = "https://www.gov.pl/web/baza-wiedzy"
+entrySelector = "#Najnowsze-artykuly > ul li"
 titleSelector = ".title"
-linkSelector = "div a"
+linkSelector = "li a"
