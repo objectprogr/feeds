@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://objectprogr.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-07-12T10:14:18.808Z</updated>
+    <id>https://gov.pl</id>
+    <title>gov</title>
+    <updated>2021-07-12T10:14:18.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://gov.pl/img/icons/favicon-16x16.png</icon>
     <entry>
-        <title type="html"><![CDATA[Premier Matusz Morawiecki: Polski Ład ma podnieść poziom życia Polaków (gov)]]></title>
-        <id>https://objectprogr.github.io/feeds/all.xml</id>
-        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Premier Matusz Morawiecki: Polski Ład ma podnieść poziom życia Polaków]]></title>
+        <id>https://gov.pl</id>
+        <link href="https://gov.pl"/>
         <updated>2021-07-12T10:14:18.739Z</updated>
         <content type="html"><![CDATA[<a href="/web/premier/premier-matusz-morawiecki-polski-lad-ma-podniesc-poziom-zycia-polakow">
 <picture aria-hidden="true">
@@ -35,9 +36,9 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ruszyła możliwość szczepienia drugą dawką w dowolnym punkcie oraz loteria dla zaszczepionych (gov)]]></title>
-        <id>https://objectprogr.github.io/feeds/all.xml</id>
-        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Ruszyła możliwość szczepienia drugą dawką w dowolnym punkcie oraz loteria dla zaszczepionych]]></title>
+        <id>https://gov.pl</id>
+        <link href="https://gov.pl"/>
         <updated>2021-07-12T10:14:18.739Z</updated>
         <content type="html"><![CDATA[<a href="/web/szczepimysie/ruszyla-mozliwosc-szczepienia-druga-dawka-w-dowolnym-punkcie-oraz-loteria-dla-zaszczepionych">
 <picture aria-hidden="true">
@@ -63,9 +64,9 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bezpieczne wakacje z portalem turystyka.gov.pl – tutaj znajdziesz najważniejsze informacje o usługach turystycznych (gov)]]></title>
-        <id>https://objectprogr.github.io/feeds/all.xml</id>
-        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Bezpieczne wakacje z portalem turystyka.gov.pl – tutaj znajdziesz najważniejsze informacje o usługach turystycznych]]></title>
+        <id>https://gov.pl</id>
+        <link href="https://gov.pl"/>
         <updated>2021-07-12T10:14:18.742Z</updated>
         <content type="html"><![CDATA[<a href="/web/rozwoj-praca-technologia/bezpieczne-wakacje-z-portalem-turystykagovpl--tutaj-znajdziesz-najwazniejsze-informacje-o-uslugach-turystycznych">
 <picture aria-hidden="true">
@@ -91,9 +92,9 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finansowanie mikro, małych i średnich przedsiębiorstw w postpandemicznej rzeczywistości (gov)]]></title>
-        <id>https://objectprogr.github.io/feeds/all.xml</id>
-        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Finansowanie mikro, małych i średnich przedsiębiorstw w postpandemicznej rzeczywistości]]></title>
+        <id>https://gov.pl</id>
+        <link href="https://gov.pl"/>
         <updated>2021-07-12T10:14:18.743Z</updated>
         <content type="html"><![CDATA[<a href="/web/fundusze-regiony/finansowanie-mikro-malych-i-srednich-przedsiebiorstw-w-postpandemicznej-rzeczywistosci">
 <picture aria-hidden="true">
@@ -119,9 +120,9 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Więcej ziemi dla rolników – dotrzymujemy słowa. Realizujemy program Polskiego Ładu. (gov)]]></title>
-        <id>https://objectprogr.github.io/feeds/all.xml</id>
-        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Więcej ziemi dla rolników – dotrzymujemy słowa. Realizujemy program Polskiego Ładu.]]></title>
+        <id>https://gov.pl</id>
+        <link href="https://gov.pl"/>
         <updated>2021-07-12T10:14:18.744Z</updated>
         <content type="html"><![CDATA[<a href="/web/rolnictwo/wiecej-ziemi-dla-rolnikow--dotrzymujemy-slowa-realizujemy-program-polskiego-ladu">
 <picture aria-hidden="true">
@@ -148,9 +149,9 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Żołnierze – sportowcy ruszają na Igrzyska Olimpijskie do Tokio (gov)]]></title>
-        <id>https://objectprogr.github.io/feeds/all.xml</id>
-        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Żołnierze – sportowcy ruszają na Igrzyska Olimpijskie do Tokio]]></title>
+        <id>https://gov.pl</id>
+        <link href="https://gov.pl"/>
         <updated>2021-07-12T10:14:18.745Z</updated>
         <content type="html"><![CDATA[<a href="/web/obrona-narodowa/zolnierze--sportowcy-ruszaja-na-olimpiade-do-tokyo">
 <picture aria-hidden="true">
@@ -176,9 +177,9 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sejm przyjął ustawę o zmianie ustawy o gospodarce nieruchomościami (gov)]]></title>
-        <id>https://objectprogr.github.io/feeds/all.xml</id>
-        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <title type="html"><![CDATA[Sejm przyjął ustawę o zmianie ustawy o gospodarce nieruchomościami]]></title>
+        <id>https://gov.pl</id>
+        <link href="https://gov.pl"/>
         <updated>2021-07-12T10:14:18.746Z</updated>
         <content type="html"><![CDATA[<a href="/web/rozwoj-praca-technologia/sejm-przyjal-ustawe-o-zmianie-ustawy-o-gospodarce-nieruchomosciami">
 <picture aria-hidden="true">
