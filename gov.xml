@@ -2,36 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gov.pl</id>
     <title>gov</title>
-    <updated>2021-07-12T12:26:59.109Z</updated>
+    <updated>2021-07-12T16:59:51.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://gov.pl/img/icons/favicon-16x16.png</icon>
     <entry>
-        <title type="html"><![CDATA[Premier Matusz Morawiecki: Polski Ład ma podnieść poziom życia Polaków]]></title>
+        <title type="html"><![CDATA[Premier: W Zgierzu jak w soczewce skupiają się programy Polskiego Ładu]]></title>
         <id>https://gov.pl</id>
         <link href="https://gov.pl"/>
-        <updated>2021-07-12T12:26:58.954Z</updated>
-        <content type="html"><![CDATA[<a href="/web/premier/premier-matusz-morawiecki-polski-lad-ma-podniesc-poziom-zycia-polakow">
+        <updated>2021-07-12T16:59:51.829Z</updated>
+        <content type="html"><![CDATA[<a href="/web/premier/premier-w-zgierzu-jak-w-soczewce-skupiaja-sie-programy-polskiego-ladu2">
 <picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/9694be37-879b-4861-b30d-4a8fbbb8ff06/resolution/700x295 700w,
-/photo/format/9694be37-879b-4861-b30d-4a8fbbb8ff06/resolution/1044x440 1044w,
-/photo/format/9694be37-879b-4861-b30d-4a8fbbb8ff06/resolution/1328x560 1328w">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/c9e2cb8a-ab9d-47d7-8d41-ec7771007c00/resolution/700x295 700w,
+/photo/format/c9e2cb8a-ab9d-47d7-8d41-ec7771007c00/resolution/1044x440 1044w,
+/photo/format/c9e2cb8a-ab9d-47d7-8d41-ec7771007c00/resolution/1328x560 1328w">
 <source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 48rem,
 (min-width: 80rem) 51vw,
 (min-width: 62.5rem) 29.625rem,
-(min-width: 43.75rem) 47vw" srcset="/photo/format/9694be37-879b-4861-b30d-4a8fbbb8ff06/resolution/1460x616 1460w,
-/photo/format/9694be37-879b-4861-b30d-4a8fbbb8ff06/resolution/950x401 950w,
-/photo/format/9694be37-879b-4861-b30d-4a8fbbb8ff06/resolution/729x308 729w,
-/photo/format/9694be37-879b-4861-b30d-4a8fbbb8ff06/resolution/700x295 700w,
-/photo/format/9694be37-879b-4861-b30d-4a8fbbb8ff06/resolution/525x221 525w">
-<img alt="Premier siedzi wśród dzieci." src="/photo/format/9694be37-879b-4861-b30d-4a8fbbb8ff06/resolution/1920x810">
+(min-width: 43.75rem) 47vw" srcset="/photo/format/c9e2cb8a-ab9d-47d7-8d41-ec7771007c00/resolution/1460x616 1460w,
+/photo/format/c9e2cb8a-ab9d-47d7-8d41-ec7771007c00/resolution/950x401 950w,
+/photo/format/c9e2cb8a-ab9d-47d7-8d41-ec7771007c00/resolution/729x308 729w,
+/photo/format/c9e2cb8a-ab9d-47d7-8d41-ec7771007c00/resolution/700x295 700w,
+/photo/format/c9e2cb8a-ab9d-47d7-8d41-ec7771007c00/resolution/525x221 525w">
+<img alt="Premier ogląda inwestycję." src="/photo/format/c9e2cb8a-ab9d-47d7-8d41-ec7771007c00/resolution/1920x810">
 </picture>
 <div>
 <div class="event">
 <span class="date">
-08.07.2021
+10.07.2021
 </span>
 </div>
-<div class="title">Premier Matusz Morawiecki: Polski Ład ma podnieść poziom życia Polaków</div>
+<div class="title">Premier: W Zgierzu jak w soczewce skupiają się programy Polskiego Ładu</div>
 </div>
 </a>]]></content>
     </entry>
@@ -39,7 +39,7 @@
         <title type="html"><![CDATA[Ruszyła możliwość szczepienia drugą dawką w dowolnym punkcie oraz loteria dla zaszczepionych]]></title>
         <id>https://gov.pl</id>
         <link href="https://gov.pl"/>
-        <updated>2021-07-12T12:26:58.955Z</updated>
+        <updated>2021-07-12T16:59:51.832Z</updated>
         <content type="html"><![CDATA[<a href="/web/szczepimysie/ruszyla-mozliwosc-szczepienia-druga-dawka-w-dowolnym-punkcie-oraz-loteria-dla-zaszczepionych">
 <picture aria-hidden="true">
 <source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/514b28d5-7039-4cf1-9565-6a9ab6ebf05f/resolution/700x295 700w,
@@ -64,143 +64,144 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bezpieczne wakacje z portalem turystyka.gov.pl – tutaj znajdziesz najważniejsze informacje o usługach turystycznych]]></title>
+        <title type="html"><![CDATA[MSZ i MZ o nowych zasadach bezpiecznego podróżowania]]></title>
         <id>https://gov.pl</id>
         <link href="https://gov.pl"/>
-        <updated>2021-07-12T12:26:58.961Z</updated>
-        <content type="html"><![CDATA[<a href="/web/rozwoj-praca-technologia/bezpieczne-wakacje-z-portalem-turystykagovpl--tutaj-znajdziesz-najwazniejsze-informacje-o-uslugach-turystycznych">
+        <updated>2021-07-12T16:59:51.834Z</updated>
+        <content type="html"><![CDATA[<a href="/web/dyplomacja/msz-i-mz-o-nowych-zasadach-bezpiecznego-podrozowania">
 <picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/d1d31228-cccb-4775-bd6d-9e5d052933d0/resolution/700x295 700w,
-/photo/format/d1d31228-cccb-4775-bd6d-9e5d052933d0/resolution/1044x440 1044w,
-/photo/format/d1d31228-cccb-4775-bd6d-9e5d052933d0/resolution/1328x560 1328w">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/685753a1-3f5c-43af-aad8-0fb8b8942035/resolution/700x295 700w,
+/photo/format/685753a1-3f5c-43af-aad8-0fb8b8942035/resolution/1044x440 1044w,
+/photo/format/685753a1-3f5c-43af-aad8-0fb8b8942035/resolution/1328x560 1328w">
 <source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.6875rem,
 (min-width: 80rem) 23.6vw,
 (min-width: 62.5rem) 29.625rem,
-(min-width: 43.75rem) 47vw" srcset="/photo/format/d1d31228-cccb-4775-bd6d-9e5d052933d0/resolution/950x401 950w,
-/photo/format/d1d31228-cccb-4775-bd6d-9e5d052933d0/resolution/700x295 700w,
-/photo/format/d1d31228-cccb-4775-bd6d-9e5d052933d0/resolution/525x221 525w">
-<img alt="Wicepremier, minister rozwoju, pracy i technologii Jarosław Gowin stojący przy mównicy z mikrofonem, po jego prawej stronie ekran telewizora z wyświetloną grafiką przedstawiającą dwóch turystów w górach z plecakami i napisem TurystykApp - najlepsza droga do odkrywania usług turystycznych w Polsce." src="/photo/format/d1d31228-cccb-4775-bd6d-9e5d052933d0/resolution/1920x810">
+(min-width: 43.75rem) 47vw" srcset="/photo/format/685753a1-3f5c-43af-aad8-0fb8b8942035/resolution/950x401 950w,
+/photo/format/685753a1-3f5c-43af-aad8-0fb8b8942035/resolution/700x295 700w,
+/photo/format/685753a1-3f5c-43af-aad8-0fb8b8942035/resolution/525x221 525w">
+<img alt="2021.07.10 Warszawa . Minister Piotr Wawrzyk . Minister zdrowia Maciej Milkowski . Konferencja prasowa nt obostrzen COVID .
+Fot. Tymon Markowski / MSZ" src="/photo/format/685753a1-3f5c-43af-aad8-0fb8b8942035/resolution/1920x810">
 </picture>
 <div>
 <div class="event">
 <span class="date">
-07.07.2021
+10.07.2021
 </span>
 </div>
-<div class="title">Bezpieczne wakacje z portalem turystyka.gov.pl – tutaj znajdziesz najważniejsze informacje o usługach turystycznych</div>
+<div class="title">MSZ i MZ o nowych zasadach bezpiecznego podróżowania</div>
 </div>
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finansowanie mikro, małych i średnich przedsiębiorstw w postpandemicznej rzeczywistości]]></title>
+        <title type="html"><![CDATA[Obchody Narodowego Dnia Pamięci Ofiar Ludobójstwa na Wołyniu]]></title>
         <id>https://gov.pl</id>
         <link href="https://gov.pl"/>
-        <updated>2021-07-12T12:26:58.962Z</updated>
-        <content type="html"><![CDATA[<a href="/web/fundusze-regiony/finansowanie-mikro-malych-i-srednich-przedsiebiorstw-w-postpandemicznej-rzeczywistosci">
+        <updated>2021-07-12T16:59:51.835Z</updated>
+        <content type="html"><![CDATA[<a href="/web/kulturaisport/obchody-narodowego-dnia-pamieci-ofiar-ludobojstwa-na-wolyniu">
 <picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/6132e31f-782f-490b-bdea-e3a0c884a093/resolution/700x295 700w,
-/photo/format/6132e31f-782f-490b-bdea-e3a0c884a093/resolution/1044x440 1044w,
-/photo/format/6132e31f-782f-490b-bdea-e3a0c884a093/resolution/1328x560 1328w">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/9e8ddc91-4616-4245-af99-46d6b55d2929/resolution/700x295 700w,
+/photo/format/9e8ddc91-4616-4245-af99-46d6b55d2929/resolution/1044x440 1044w,
+/photo/format/9e8ddc91-4616-4245-af99-46d6b55d2929/resolution/1328x560 1328w">
 <source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.6875rem,
 (min-width: 80rem) 23.6vw,
 (min-width: 62.5rem) 29.625rem,
-(min-width: 43.75rem) 47vw" srcset="/photo/format/6132e31f-782f-490b-bdea-e3a0c884a093/resolution/950x401 950w,
-/photo/format/6132e31f-782f-490b-bdea-e3a0c884a093/resolution/700x295 700w,
-/photo/format/6132e31f-782f-490b-bdea-e3a0c884a093/resolution/525x221 525w">
-<img alt="Na zdjęciu wiceminister funduszy i polityki regionalnej Małgorzata Jarosińska-Jedynak siedząca przy biurku i trzymająca w ręce dokumenty" src="/photo/format/6132e31f-782f-490b-bdea-e3a0c884a093/resolution/1920x810">
+(min-width: 43.75rem) 47vw" srcset="/photo/format/9e8ddc91-4616-4245-af99-46d6b55d2929/resolution/950x401 950w,
+/photo/format/9e8ddc91-4616-4245-af99-46d6b55d2929/resolution/700x295 700w,
+/photo/format/9e8ddc91-4616-4245-af99-46d6b55d2929/resolution/525x221 525w">
+<img alt="Obchody Narodowego Dnia Pamięci Ofiar Ludobójstwa na Wołyniu fot. PAP/Paweł Supernak
+" src="/photo/format/9e8ddc91-4616-4245-af99-46d6b55d2929/resolution/1920x810">
 </picture>
 <div>
 <div class="event">
 <span class="date">
-08.07.2021
+12.07.2021
 </span>
 </div>
-<div class="title">Finansowanie mikro, małych i średnich przedsiębiorstw w postpandemicznej rzeczywistości</div>
+<div class="title">Obchody Narodowego Dnia Pamięci Ofiar Ludobójstwa na Wołyniu</div>
 </div>
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Więcej ziemi dla rolników – dotrzymujemy słowa. Realizujemy program Polskiego Ładu.]]></title>
+        <title type="html"><![CDATA[Terytorialsi rosną w siłę! Kolejnych 700 ochotników dołącza do brygad]]></title>
         <id>https://gov.pl</id>
         <link href="https://gov.pl"/>
-        <updated>2021-07-12T12:26:58.963Z</updated>
-        <content type="html"><![CDATA[<a href="/web/rolnictwo/wiecej-ziemi-dla-rolnikow--dotrzymujemy-slowa-realizujemy-program-polskiego-ladu">
+        <updated>2021-07-12T16:59:51.838Z</updated>
+        <content type="html"><![CDATA[<a href="/web/obrona-narodowa/terytorialsi-rosna-w-sile-kolejnych-700-ochotnikow-dolacza-do-brygad">
 <picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/6d68814f-b960-4dea-aa96-a163c48d5da8/resolution/700x295 700w,
-/photo/format/6d68814f-b960-4dea-aa96-a163c48d5da8/resolution/1044x440 1044w,
-/photo/format/6d68814f-b960-4dea-aa96-a163c48d5da8/resolution/1328x560 1328w">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/b3add328-457c-4a17-9296-c56fb7f4fbc7/resolution/700x295 700w,
+/photo/format/b3add328-457c-4a17-9296-c56fb7f4fbc7/resolution/1044x440 1044w,
+/photo/format/b3add328-457c-4a17-9296-c56fb7f4fbc7/resolution/1328x560 1328w">
 <source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.6875rem,
 (min-width: 80rem) 23.6vw,
 (min-width: 62.5rem) 29.625rem,
-(min-width: 43.75rem) 47vw" srcset="/photo/format/6d68814f-b960-4dea-aa96-a163c48d5da8/resolution/950x401 950w,
-/photo/format/6d68814f-b960-4dea-aa96-a163c48d5da8/resolution/700x295 700w,
-/photo/format/6d68814f-b960-4dea-aa96-a163c48d5da8/resolution/525x221 525w">
-<img alt="Minister Grzegorz Puda podczas wystąpienia" src="/photo/format/6d68814f-b960-4dea-aa96-a163c48d5da8/resolution/1920x810">
+(min-width: 43.75rem) 47vw" srcset="/photo/format/b3add328-457c-4a17-9296-c56fb7f4fbc7/resolution/950x401 950w,
+/photo/format/b3add328-457c-4a17-9296-c56fb7f4fbc7/resolution/700x295 700w,
+/photo/format/b3add328-457c-4a17-9296-c56fb7f4fbc7/resolution/525x221 525w">
+<img alt="Przysięga żołnierzy WOT " src="/photo/format/b3add328-457c-4a17-9296-c56fb7f4fbc7/resolution/1920x810">
 </picture>
 <div>
 <div class="event">
 <span class="date">
-08.07.2021
+10.07.2021
 </span>
-<span class="location">Warszawa</span>
 </div>
-<div class="title">Więcej ziemi dla rolników – dotrzymujemy słowa. Realizujemy program Polskiego Ładu.</div>
+<div class="title">Terytorialsi rosną w siłę! Kolejnych 700 ochotników dołącza do brygad</div>
 </div>
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Żołnierze – sportowcy ruszają na Igrzyska Olimpijskie do Tokio]]></title>
+        <title type="html"><![CDATA[Przyszłość usług społecznych]]></title>
         <id>https://gov.pl</id>
         <link href="https://gov.pl"/>
-        <updated>2021-07-12T12:26:58.965Z</updated>
-        <content type="html"><![CDATA[<a href="/web/obrona-narodowa/zolnierze--sportowcy-ruszaja-na-olimpiade-do-tokyo">
+        <updated>2021-07-12T16:59:51.840Z</updated>
+        <content type="html"><![CDATA[<a href="/web/rodzina/przyszlosc-uslug-spolecznych">
 <picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/cf0d9030-f117-442f-ac2e-651af9e10a34/resolution/700x295 700w,
-/photo/format/cf0d9030-f117-442f-ac2e-651af9e10a34/resolution/1044x440 1044w,
-/photo/format/cf0d9030-f117-442f-ac2e-651af9e10a34/resolution/1328x560 1328w">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/5e81f069-e9ba-4ced-86ee-807baf87e66b/resolution/700x295 700w,
+/photo/format/5e81f069-e9ba-4ced-86ee-807baf87e66b/resolution/1044x440 1044w,
+/photo/format/5e81f069-e9ba-4ced-86ee-807baf87e66b/resolution/1328x560 1328w">
 <source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.6875rem,
 (min-width: 80rem) 23.6vw,
 (min-width: 62.5rem) 29.625rem,
-(min-width: 43.75rem) 47vw" srcset="/photo/format/cf0d9030-f117-442f-ac2e-651af9e10a34/resolution/950x401 950w,
-/photo/format/cf0d9030-f117-442f-ac2e-651af9e10a34/resolution/700x295 700w,
-/photo/format/cf0d9030-f117-442f-ac2e-651af9e10a34/resolution/525x221 525w">
-<img alt="sport olimpiada" src="/photo/format/cf0d9030-f117-442f-ac2e-651af9e10a34/resolution/1920x810">
+(min-width: 43.75rem) 47vw" srcset="/photo/format/5e81f069-e9ba-4ced-86ee-807baf87e66b/resolution/950x401 950w,
+/photo/format/5e81f069-e9ba-4ced-86ee-807baf87e66b/resolution/700x295 700w,
+/photo/format/5e81f069-e9ba-4ced-86ee-807baf87e66b/resolution/525x221 525w">
+<img alt="Zbliżenie na postać minister Maląg. Na pierwszym planie dość niewyraźna postać prezydenta Dudy. Oboje siedzą przy stole. Na którym widać butelki z wodą, szklankę, złożone okulary." src="/photo/format/5e81f069-e9ba-4ced-86ee-807baf87e66b/resolution/1920x810">
 </picture>
 <div>
 <div class="event">
 <span class="date">
-08.07.2021
+12.07.2021
 </span>
 </div>
-<div class="title">Żołnierze – sportowcy ruszają na Igrzyska Olimpijskie do Tokio</div>
+<div class="title">Przyszłość usług społecznych</div>
 </div>
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sejm przyjął ustawę o zmianie ustawy o gospodarce nieruchomościami]]></title>
+        <title type="html"><![CDATA[Wicepremier Sasin zapewnia: NABE zagwarantuje bezpieczeństwo energetyczne]]></title>
         <id>https://gov.pl</id>
         <link href="https://gov.pl"/>
-        <updated>2021-07-12T12:26:58.967Z</updated>
-        <content type="html"><![CDATA[<a href="/web/rozwoj-praca-technologia/sejm-przyjal-ustawe-o-zmianie-ustawy-o-gospodarce-nieruchomosciami">
+        <updated>2021-07-12T16:59:51.841Z</updated>
+        <content type="html"><![CDATA[<a href="/web/aktywa-panstwowe/wicepremier-sasin-zapewnia-nabe-zagwarantuje-bezpieczenstwo-energetyczne">
 <picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/b47e35be-b8b1-4153-a91d-5e4ab0da1541/resolution/700x295 700w,
-/photo/format/b47e35be-b8b1-4153-a91d-5e4ab0da1541/resolution/1044x440 1044w,
-/photo/format/b47e35be-b8b1-4153-a91d-5e4ab0da1541/resolution/1328x560 1328w">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/d28b7da1-e7db-4325-a528-b211bab4dc05/resolution/700x295 700w,
+/photo/format/d28b7da1-e7db-4325-a528-b211bab4dc05/resolution/1044x440 1044w,
+/photo/format/d28b7da1-e7db-4325-a528-b211bab4dc05/resolution/1328x560 1328w">
 <source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.6875rem,
 (min-width: 80rem) 23.6vw,
 (min-width: 62.5rem) 29.625rem,
-(min-width: 43.75rem) 47vw" srcset="/photo/format/b47e35be-b8b1-4153-a91d-5e4ab0da1541/resolution/950x401 950w,
-/photo/format/b47e35be-b8b1-4153-a91d-5e4ab0da1541/resolution/700x295 700w,
-/photo/format/b47e35be-b8b1-4153-a91d-5e4ab0da1541/resolution/525x221 525w">
-<img alt="Image of human hand with pen over documents at workplace" src="/photo/format/b47e35be-b8b1-4153-a91d-5e4ab0da1541/resolution/1920x810">
+(min-width: 43.75rem) 47vw" srcset="/photo/format/d28b7da1-e7db-4325-a528-b211bab4dc05/resolution/950x401 950w,
+/photo/format/d28b7da1-e7db-4325-a528-b211bab4dc05/resolution/700x295 700w,
+/photo/format/d28b7da1-e7db-4325-a528-b211bab4dc05/resolution/525x221 525w">
+<img alt="Trzy liście paproci na hałdzie węgla" src="/photo/format/d28b7da1-e7db-4325-a528-b211bab4dc05/resolution/1920x810">
 </picture>
 <div>
 <div class="event">
 <span class="date">
-08.07.2021
+12.07.2021
 </span>
 </div>
-<div class="title">Sejm przyjął ustawę o zmianie ustawy o gospodarce nieruchomościami</div>
+<div class="title">Wicepremier Sasin zapewnia: NABE zagwarantuje bezpieczeństwo energetyczne</div>
 </div>
 </a>]]></content>
     </entry>
