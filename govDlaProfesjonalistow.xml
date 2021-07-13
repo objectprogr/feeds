@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gov.pl/web/baza-wiedzy/dla-profesjonalistow</id>
     <title>Dla profesjonalistow</title>
-    <updated>2021-07-13T11:36:01.710Z</updated>
+    <updated>2021-07-13T12:37:48.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gov.pl/img/icons/favicon-16x16.png</icon>
     <entry>
@@ -10,62 +10,206 @@
         <id>https://www.gov.pl/web/baza-wiedzy/rekomendacje-cyberbezpieczenstwa-dla-sektora-wodno-kanalizacyjnego---r-cyber-12021-</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/rekomendacje-cyberbezpieczenstwa-dla-sektora-wodno-kanalizacyjnego---r-cyber-12021-"/>
         <updated>2021-07-13T11:36:00.557Z</updated>
-        <content type="html"><![CDATA[Zestaw zaleceń bezpieczeństwa podnoszących odporność przemysłowych systemów sterowania w obiektach świadczących usługi wodno-kanalizacyjne (Luty 2021 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/rekomendacje-cyberbezpieczenstwa-dla-sektora-wodno-kanalizacyjnego---r-cyber-12021-">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/4c7f74cc-807f-41c2-b569-a5d106d5674a/resolution/700x295 700w,
+/photo/format/4c7f74cc-807f-41c2-b569-a5d106d5674a/resolution/1044x440 1044w,
+/photo/format/4c7f74cc-807f-41c2-b569-a5d106d5674a/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/4c7f74cc-807f-41c2-b569-a5d106d5674a/resolution/700x295 700w,
+/photo/format/4c7f74cc-807f-41c2-b569-a5d106d5674a/resolution/525x221 525w">
+<img alt="rury" src="/photo/format/4c7f74cc-807f-41c2-b569-a5d106d5674a/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Rekomendacje cyberbezpieczeństwa dla sektora wodno-kanalizacyjnego - R-CYBER-1/2021</div>
+<div class="intro">Zestaw zaleceń bezpieczeństwa podnoszących odporność przemysłowych systemów sterowania w obiektach świadczących usługi wodno-kanalizacyjne (Luty 2021 r.)</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Przedsiębiorco, zadbaj o bezpieczeństwo]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/przedsiebiorco-zadbaj-o-bezpieczenstwo</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/przedsiebiorco-zadbaj-o-bezpieczenstwo"/>
         <updated>2021-07-13T11:36:00.568Z</updated>
-        <content type="html"><![CDATA[Niezależnie od tego, czym się zajmujesz i ile osób zatrudniasz, jeśli w swojej firmie wykorzystujesz choćby jeden komputer lub używasz poczty elektronicznej - musisz pamiętać o cyberbezpieczeństwie. O czym konkretnie? Podpowiadamy. (Listopad 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/przedsiebiorco-zadbaj-o-bezpieczenstwo">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/99e4a49d-8f88-4db6-bed1-13c4470654f6/resolution/700x295 700w,
+/photo/format/99e4a49d-8f88-4db6-bed1-13c4470654f6/resolution/1044x440 1044w,
+/photo/format/99e4a49d-8f88-4db6-bed1-13c4470654f6/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/99e4a49d-8f88-4db6-bed1-13c4470654f6/resolution/700x295 700w,
+/photo/format/99e4a49d-8f88-4db6-bed1-13c4470654f6/resolution/525x221 525w">
+<img alt="Grafika kobiety i mężczyzny z laptopem w tle fragment smartfona z podłączeniem USB" src="/photo/format/99e4a49d-8f88-4db6-bed1-13c4470654f6/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Przedsiębiorco, zadbaj o bezpieczeństwo</div>
+<div class="intro">Niezależnie od tego, czym się zajmujesz i ile osób zatrudniasz, jeśli w swojej firmie wykorzystujesz choćby jeden komputer lub używasz poczty elektronicznej - musisz pamiętać o cyberbezpieczeństwie. O czym konkretnie? Podpowiadamy. (Listopad 2020 r.) </div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Szablony sprawozdań z audytu dla operatorów usług kluczowych]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/szablony-audytu-dla-operatorow-uslug-kluczowych</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/szablony-audytu-dla-operatorow-uslug-kluczowych"/>
         <updated>2021-07-13T11:36:00.569Z</updated>
-        <content type="html"><![CDATA[Wzory szablonów sprawozdań z audytu bezpieczeństwa systemu informacyjnego zgodne z ustawą o krajowym systemie cyberbezpieczeństwa (Październik 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/szablony-audytu-dla-operatorow-uslug-kluczowych">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/a3bd92e7-5ea9-4cfe-b01f-035f1a61f035/resolution/700x295 700w,
+/photo/format/a3bd92e7-5ea9-4cfe-b01f-035f1a61f035/resolution/1044x440 1044w,
+/photo/format/a3bd92e7-5ea9-4cfe-b01f-035f1a61f035/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/a3bd92e7-5ea9-4cfe-b01f-035f1a61f035/resolution/700x295 700w,
+/photo/format/a3bd92e7-5ea9-4cfe-b01f-035f1a61f035/resolution/525x221 525w">
+<img alt="Dłoń z długopisem nad kartką papieru" src="/photo/format/a3bd92e7-5ea9-4cfe-b01f-035f1a61f035/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Szablony sprawozdań z audytu dla operatorów usług kluczowych</div>
+<div class="intro">Wzory szablonów sprawozdań z audytu bezpieczeństwa systemu informacyjnego zgodne z ustawą o krajowym systemie cyberbezpieczeństwa (Październik 2020 r.)</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wprowadzenie podstawowych zasad zabezpieczeń na stacji roboczej z systemem Windows 10]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/wprowadzenie-podstawowych-zasad-zabezpieczen-na-stacji-roboczej-z-systemem-windows-10</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/wprowadzenie-podstawowych-zasad-zabezpieczen-na-stacji-roboczej-z-systemem-windows-10"/>
         <updated>2021-07-13T11:36:00.570Z</updated>
-        <content type="html"><![CDATA[Komputery stacjonarne, czy służbowe laptopy coraz częściej narażone są na incydenty bezpieczeństwa (Maj 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/wprowadzenie-podstawowych-zasad-zabezpieczen-na-stacji-roboczej-z-systemem-windows-10">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/700x295 700w,
+/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/1044x440 1044w,
+/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/700x295 700w,
+/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/525x221 525w">
+<img alt="Dłonie na klawiaturze laptopa, wyświetlacz czarny." src="/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Wprowadzenie podstawowych zasad zabezpieczeń na stacji roboczej z systemem Windows 10</div>
+<div class="intro">Komputery stacjonarne, czy służbowe laptopy coraz częściej narażone są na incydenty bezpieczeństwa (Maj 2020 r.)</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Praca zdalna - razem, ale osobno]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/praca-zdalna---razem-ale-osobno</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/praca-zdalna---razem-ale-osobno"/>
         <updated>2021-07-13T11:36:00.571Z</updated>
-        <content type="html"><![CDATA[Praca zdalna to nie urlop czy wypoczynek, ale praca. Tyle, że w domu (Maj 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/praca-zdalna---razem-ale-osobno">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/e63b0ed2-63c7-4a51-85d2-c3affee13c7c/resolution/700x295 700w,
+/photo/format/e63b0ed2-63c7-4a51-85d2-c3affee13c7c/resolution/1044x440 1044w,
+/photo/format/e63b0ed2-63c7-4a51-85d2-c3affee13c7c/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/e63b0ed2-63c7-4a51-85d2-c3affee13c7c/resolution/700x295 700w,
+/photo/format/e63b0ed2-63c7-4a51-85d2-c3affee13c7c/resolution/525x221 525w">
+<img alt="Laptop na biurku z krzesłem drewnianym." src="/photo/format/e63b0ed2-63c7-4a51-85d2-c3affee13c7c/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Praca zdalna - razem, ale osobno </div>
+<div class="intro">Praca zdalna to nie urlop czy wypoczynek, ale praca. Tyle, że w domu (Maj 2020 r.)</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zaawansowane metody tworzenia, stosowania i przechowywania bezpiecznych haseł]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/zaawansowane-metody-tworzenia-stosowania-i-przechowywania-bezpiecznych-hasel</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/zaawansowane-metody-tworzenia-stosowania-i-przechowywania-bezpiecznych-hasel"/>
         <updated>2021-07-13T11:36:00.572Z</updated>
-        <content type="html"><![CDATA[Dodatkowe porady dla bardziej zaawansowanych (Maj 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/zaawansowane-metody-tworzenia-stosowania-i-przechowywania-bezpiecznych-hasel">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/d41f3d09-df21-4440-a409-cf684e4c54be/resolution/700x295 700w,
+/photo/format/d41f3d09-df21-4440-a409-cf684e4c54be/resolution/1044x440 1044w,
+/photo/format/d41f3d09-df21-4440-a409-cf684e4c54be/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/d41f3d09-df21-4440-a409-cf684e4c54be/resolution/700x295 700w,
+/photo/format/d41f3d09-df21-4440-a409-cf684e4c54be/resolution/525x221 525w">
+<img alt="Częściowy widok klawiatury komputerowej podświetlonej na niebiesko. " src="/photo/format/d41f3d09-df21-4440-a409-cf684e4c54be/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Zaawansowane metody tworzenia, stosowania i przechowywania bezpiecznych haseł</div>
+<div class="intro">Dodatkowe porady dla bardziej zaawansowanych (Maj 2020 r.)</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Poradnik dla nauczycieli – PR-EDU-01]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/poradnik-dla-nauczycieli--pr-edu-01--bezpieczne-korzystanie-z-platform-do-zdalnej-edukacji-kwiecien-2020</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/poradnik-dla-nauczycieli--pr-edu-01--bezpieczne-korzystanie-z-platform-do-zdalnej-edukacji-kwiecien-2020"/>
         <updated>2021-07-13T11:36:00.574Z</updated>
-        <content type="html"><![CDATA[Bezpieczne korzystanie z platform do zdalnej edukacji (Kwiecień 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/poradnik-dla-nauczycieli--pr-edu-01--bezpieczne-korzystanie-z-platform-do-zdalnej-edukacji-kwiecien-2020">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/f692948e-6f71-44ed-9f82-58eccda6504c/resolution/700x295 700w,
+/photo/format/f692948e-6f71-44ed-9f82-58eccda6504c/resolution/1044x440 1044w,
+/photo/format/f692948e-6f71-44ed-9f82-58eccda6504c/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/f692948e-6f71-44ed-9f82-58eccda6504c/resolution/700x295 700w,
+/photo/format/f692948e-6f71-44ed-9f82-58eccda6504c/resolution/525x221 525w">
+<img alt="Dłonie wskazujące na ekran laptopa." src="/photo/format/f692948e-6f71-44ed-9f82-58eccda6504c/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Poradnik dla nauczycieli – PR-EDU-01 </div>
+<div class="intro">Bezpieczne korzystanie z platform do zdalnej edukacji (Kwiecień 2020 r.)</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Poradnik – zgłaszanie incydentów cyberbezpieczeństwa przez podmioty sektora ochrony zdrowia]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/poradnik--zglaszanie-incydentow-cyberbezpieczenstwa-przez-podmioty-sektora-ochrony-zdrowia-kwiecien-2020-r</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/poradnik--zglaszanie-incydentow-cyberbezpieczenstwa-przez-podmioty-sektora-ochrony-zdrowia-kwiecien-2020-r"/>
         <updated>2021-07-13T11:36:00.576Z</updated>
-        <content type="html"><![CDATA[Poradnik informujący krok po kroku w jaki sposób i gdzie należy zgłaszać incydenty cyberbezpieczeństwa (Kwiecień 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/poradnik--zglaszanie-incydentow-cyberbezpieczenstwa-przez-podmioty-sektora-ochrony-zdrowia-kwiecien-2020-r">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/de106f32-cdf2-42f3-82c9-e6e00e88323b/resolution/700x295 700w,
+/photo/format/de106f32-cdf2-42f3-82c9-e6e00e88323b/resolution/1044x440 1044w,
+/photo/format/de106f32-cdf2-42f3-82c9-e6e00e88323b/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/de106f32-cdf2-42f3-82c9-e6e00e88323b/resolution/700x295 700w,
+/photo/format/de106f32-cdf2-42f3-82c9-e6e00e88323b/resolution/525x221 525w">
+<img alt="Lekarz w medycznej szacie ze stetoskopem" src="/photo/format/de106f32-cdf2-42f3-82c9-e6e00e88323b/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Poradnik – zgłaszanie incydentów cyberbezpieczeństwa przez podmioty sektora ochrony zdrowia</div>
+<div class="intro">Poradnik informujący krok po kroku w jaki sposób i gdzie należy zgłaszać incydenty cyberbezpieczeństwa (Kwiecień 2020 r.)</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Poradnik – rekomendacje cyberbezpieczeństwa dla podmiotów sektora ochrony zdrowia]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/poradnik---rekomendacje-cyberbezpieczenstwa-dla-podmiotow-sektora-ochrony-zdrowia-kwiecien-2020-r</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/poradnik---rekomendacje-cyberbezpieczenstwa-dla-podmiotow-sektora-ochrony-zdrowia-kwiecien-2020-r"/>
         <updated>2021-07-13T11:36:00.578Z</updated>
-        <content type="html"><![CDATA[Zestaw rekomendowanych minimalnych środków przeciwdziałających skutkom incydentu cyberbezpieczeństwa (Kwiecień 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/poradnik---rekomendacje-cyberbezpieczenstwa-dla-podmiotow-sektora-ochrony-zdrowia-kwiecien-2020-r">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/ce380dc7-d612-4584-9a16-aa1d320b77ac/resolution/700x295 700w,
+/photo/format/ce380dc7-d612-4584-9a16-aa1d320b77ac/resolution/1044x440 1044w,
+/photo/format/ce380dc7-d612-4584-9a16-aa1d320b77ac/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/ce380dc7-d612-4584-9a16-aa1d320b77ac/resolution/700x295 700w,
+/photo/format/ce380dc7-d612-4584-9a16-aa1d320b77ac/resolution/525x221 525w">
+<img alt="Lekarz w masce ze stetoskopem " src="/photo/format/ce380dc7-d612-4584-9a16-aa1d320b77ac/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Poradnik – rekomendacje cyberbezpieczeństwa dla podmiotów sektora ochrony zdrowia</div>
+<div class="intro">Zestaw rekomendowanych minimalnych środków przeciwdziałających skutkom incydentu cyberbezpieczeństwa (Kwiecień 2020 r.)</div>
+</div>
+</a>]]></content>
     </entry>
 </feed>

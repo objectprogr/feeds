@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczenstwo</id>
     <title>Cyberhigiena - dla kazdego</title>
-    <updated>2021-07-13T11:36:01.725Z</updated>
+    <updated>2021-07-13T12:37:48.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gov.pl/img/icons/favicon-16x16.png</icon>
     <entry>
@@ -10,69 +10,229 @@
         <id>https://www.gov.pl/web/baza-wiedzy/bezpieczni-w-mediach-spolecznosciowych--praktyczne-wskazowki</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/bezpieczni-w-mediach-spolecznosciowych--praktyczne-wskazowki"/>
         <updated>2021-07-13T11:36:01.556Z</updated>
-        <content type="html"><![CDATA[W poradniku znajdują się wskazówki jak unikać włamań na konta w mediach społecznościowych oraz inne porady dotyczące cyberbezpieczeństwa. (Styczeń 2021 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/bezpieczni-w-mediach-spolecznosciowych--praktyczne-wskazowki">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/594100a3-c709-47f7-946f-d420d6aa8ec9/resolution/700x295 700w,
+/photo/format/594100a3-c709-47f7-946f-d420d6aa8ec9/resolution/1044x440 1044w,
+/photo/format/594100a3-c709-47f7-946f-d420d6aa8ec9/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/594100a3-c709-47f7-946f-d420d6aa8ec9/resolution/700x295 700w,
+/photo/format/594100a3-c709-47f7-946f-d420d6aa8ec9/resolution/525x221 525w">
+<img alt="kobieta ze smartphonem" src="/photo/format/594100a3-c709-47f7-946f-d420d6aa8ec9/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Bezpieczni w mediach społecznościowych – poradnik</div>
+<div class="intro"> W poradniku znajdują się wskazówki jak unikać włamań na konta w mediach społecznościowych oraz inne porady dotyczące cyberbezpieczeństwa. (Styczeń 2021 r.)</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Media społecznościowe. Jak bezpiecznie z nich korzystać?]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/media-spolecznosciowe-jak-bezpiecznie-z-nich-korzystac</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/media-spolecznosciowe-jak-bezpiecznie-z-nich-korzystac"/>
         <updated>2021-07-13T11:36:01.558Z</updated>
-        <content type="html"><![CDATA[Aby zarządzać swoimi cyfrowymi śladami, użyj ustawień prywatności na różnych platformach społecznościowych.]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/media-spolecznosciowe-jak-bezpiecznie-z-nich-korzystac">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/fcf8991e-a52a-4066-9103-6ef98b43e5a3/resolution/700x295 700w,
+/photo/format/fcf8991e-a52a-4066-9103-6ef98b43e5a3/resolution/1044x440 1044w,
+/photo/format/fcf8991e-a52a-4066-9103-6ef98b43e5a3/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/fcf8991e-a52a-4066-9103-6ef98b43e5a3/resolution/700x295 700w,
+/photo/format/fcf8991e-a52a-4066-9103-6ef98b43e5a3/resolution/525x221 525w">
+<img alt="smartfon wokół niego ikonki sc" src="/photo/format/fcf8991e-a52a-4066-9103-6ef98b43e5a3/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Media społecznościowe. Jak bezpiecznie z nich korzystać?</div>
+<div class="intro">Aby zarządzać swoimi cyfrowymi śladami, użyj ustawień prywatności na różnych platformach społecznościowych.</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Korzystanie z urządzeń mobilnych]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/korzystanie-z-urzadzen-mobilnych</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/korzystanie-z-urzadzen-mobilnych"/>
         <updated>2021-07-13T11:36:01.564Z</updated>
-        <content type="html"><![CDATA[Smartfony, laptopy, tablety – towarzyszą nam dzisiaj praktycznie na każdym kroku. Dlatego warto jest zadbać o bezpieczeństwo danych podczas korzystania z tych urządzeń.]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/korzystanie-z-urzadzen-mobilnych">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/c365b378-1452-4e98-bff5-1710b6bba521/resolution/700x295 700w,
+/photo/format/c365b378-1452-4e98-bff5-1710b6bba521/resolution/1044x440 1044w,
+/photo/format/c365b378-1452-4e98-bff5-1710b6bba521/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/c365b378-1452-4e98-bff5-1710b6bba521/resolution/700x295 700w,
+/photo/format/c365b378-1452-4e98-bff5-1710b6bba521/resolution/525x221 525w">
+<img alt="Dłonie nad klawiaturą laptopa." src="/photo/format/c365b378-1452-4e98-bff5-1710b6bba521/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Korzystanie z urządzeń mobilnych</div>
+<div class="intro">Smartfony, laptopy, tablety – towarzyszą nam dzisiaj praktycznie na każdym kroku. Dlatego warto jest zadbać o bezpieczeństwo danych podczas korzystania z tych urządzeń.</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Czym jest PHISHING i jak nie dać się nabrać na podejrzane wiadomości e-mail oraz SMS-y?]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/czym-jest-phishing-i-jak-nie-dac-sie-nabrac-na-podejrzane-widomosci-e-mail-oraz-sms-y</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/czym-jest-phishing-i-jak-nie-dac-sie-nabrac-na-podejrzane-widomosci-e-mail-oraz-sms-y"/>
         <updated>2021-07-13T11:36:01.564Z</updated>
-        <content type="html"><![CDATA[Do oszustw w cyberprzestrzeni wykorzystywane są przede wszystkim ataki typu phishing!]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/czym-jest-phishing-i-jak-nie-dac-sie-nabrac-na-podejrzane-widomosci-e-mail-oraz-sms-y">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/9d470c0e-b478-48b1-8e8f-cff69db16a9e/resolution/700x295 700w,
+/photo/format/9d470c0e-b478-48b1-8e8f-cff69db16a9e/resolution/1044x440 1044w,
+/photo/format/9d470c0e-b478-48b1-8e8f-cff69db16a9e/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/9d470c0e-b478-48b1-8e8f-cff69db16a9e/resolution/700x295 700w,
+/photo/format/9d470c0e-b478-48b1-8e8f-cff69db16a9e/resolution/525x221 525w">
+<img alt="Twarz w okularach i białej masce" src="/photo/format/9d470c0e-b478-48b1-8e8f-cff69db16a9e/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Czym jest PHISHING i jak nie dać się nabrać na podejrzane wiadomości e-mail oraz SMS-y?</div>
+<div class="intro">Do oszustw w cyberprzestrzeni wykorzystywane są przede wszystkim ataki typu phishing! </div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jak utworzyć bezpieczne hasło - wskazówki.]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/jak-tworzyc-bezpieczne-hasla</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/jak-tworzyc-bezpieczne-hasla"/>
         <updated>2021-07-13T11:36:01.565Z</updated>
-        <content type="html"><![CDATA[Hasła są jednym z podstawowych sposobów, w jaki możemy udowodnić, kim jesteśmy. Używanie silnych haseł jest niezbędne aby chronić swoją tożsamość oraz informacje.]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/jak-tworzyc-bezpieczne-hasla">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/f692948e-6f71-44ed-9f82-58eccda6504c/resolution/700x295 700w,
+/photo/format/f692948e-6f71-44ed-9f82-58eccda6504c/resolution/1044x440 1044w,
+/photo/format/f692948e-6f71-44ed-9f82-58eccda6504c/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/f692948e-6f71-44ed-9f82-58eccda6504c/resolution/700x295 700w,
+/photo/format/f692948e-6f71-44ed-9f82-58eccda6504c/resolution/525x221 525w">
+<img alt="Dłonie wskazujące na ekran laptopa." src="/photo/format/f692948e-6f71-44ed-9f82-58eccda6504c/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Jak utworzyć bezpieczne hasło - wskazówki. </div>
+<div class="intro">Hasła są jednym z podstawowych sposobów, w jaki możemy udowodnić, kim jesteśmy. Używanie silnych haseł jest niezbędne aby chronić swoją tożsamość oraz informacje.</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Konfigurowanie uwierzytelniania dwuskładnikowego (2FA)]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/konfigurowanie-uwierzytelniania-dwuskladnikowego-2fa</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/konfigurowanie-uwierzytelniania-dwuskladnikowego-2fa"/>
         <updated>2021-07-13T11:36:01.565Z</updated>
-        <content type="html"><![CDATA[Uwierzytelnienie dwuskładnikowe (ang. Two Factor Authenticaton, 2FA) może pomóc chronić twoje konta internetowe.]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/konfigurowanie-uwierzytelniania-dwuskladnikowego-2fa">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/ed10c755-190f-4f4f-b733-8aee20393669/resolution/700x295 700w,
+/photo/format/ed10c755-190f-4f4f-b733-8aee20393669/resolution/1044x440 1044w,
+/photo/format/ed10c755-190f-4f4f-b733-8aee20393669/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/ed10c755-190f-4f4f-b733-8aee20393669/resolution/700x295 700w,
+/photo/format/ed10c755-190f-4f4f-b733-8aee20393669/resolution/525x221 525w">
+<img alt="Metalowe drzwi od sejfu" src="/photo/format/ed10c755-190f-4f4f-b733-8aee20393669/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Konfigurowanie uwierzytelniania dwuskładnikowego (2FA)</div>
+<div class="intro">Uwierzytelnienie dwuskładnikowe (ang. Two Factor Authenticaton, 2FA) może pomóc chronić twoje konta internetowe.</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zakupy online - jak nie dać się oszukać?]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/zakupy-online---jak-nie-dac-sie-oszukac</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/zakupy-online---jak-nie-dac-sie-oszukac"/>
         <updated>2021-07-13T11:36:01.566Z</updated>
-        <content type="html"><![CDATA[Chcesz, żeby zakupy on-line były nie tylko szybkie i wygodne, ale także bezpieczne? Poznaj podstawowe zasady bezpiecznych zakupów.]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/zakupy-online---jak-nie-dac-sie-oszukac">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/f936ad74-8754-43a0-8243-4a222d4a4247/resolution/700x295 700w,
+/photo/format/f936ad74-8754-43a0-8243-4a222d4a4247/resolution/1044x440 1044w,
+/photo/format/f936ad74-8754-43a0-8243-4a222d4a4247/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/f936ad74-8754-43a0-8243-4a222d4a4247/resolution/700x295 700w,
+/photo/format/f936ad74-8754-43a0-8243-4a222d4a4247/resolution/525x221 525w">
+<img alt="Dłoń z kartą płatniczą nad klawiaturą laptopa." src="/photo/format/f936ad74-8754-43a0-8243-4a222d4a4247/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Zakupy online - jak nie dać się oszukać?</div>
+<div class="intro">Chcesz, żeby zakupy on-line były nie tylko szybkie i wygodne, ale także bezpieczne? Poznaj podstawowe zasady bezpiecznych zakupów.</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[E-usługi publiczne]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/e-uslugi-publiczne</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/e-uslugi-publiczne"/>
         <updated>2021-07-13T11:36:01.568Z</updated>
-        <content type="html"><![CDATA[Polscy obywatele mogą korzystać z kilkuset e-usług publicznych zlokalizowanych na różnych platformach i portalach rządowych.]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/e-uslugi-publiczne">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/e2ae43b9-165e-44e2-a32b-4cd27f264bb9/resolution/700x295 700w,
+/photo/format/e2ae43b9-165e-44e2-a32b-4cd27f264bb9/resolution/1044x440 1044w,
+/photo/format/e2ae43b9-165e-44e2-a32b-4cd27f264bb9/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/e2ae43b9-165e-44e2-a32b-4cd27f264bb9/resolution/700x295 700w,
+/photo/format/e2ae43b9-165e-44e2-a32b-4cd27f264bb9/resolution/525x221 525w">
+<img alt="Kosz sklepowy na kółkach" src="/photo/format/e2ae43b9-165e-44e2-a32b-4cd27f264bb9/resolution/1920x810">
+</picture>
+<div>
+<div class="title">E-usługi publiczne</div>
+<div class="intro">Polscy obywatele mogą korzystać z kilkuset e-usług publicznych zlokalizowanych na różnych platformach i portalach rządowych.</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zgłaszanie nielegalnych treści]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/zglaszanie-nielegalnych-tresci</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/zglaszanie-nielegalnych-tresci"/>
         <updated>2021-07-13T11:36:01.569Z</updated>
-        <content type="html"><![CDATA[Reaguj, gdy widzisz niestosowne treści w sieci. Zespół Dyzurnet.pl podejmuje działania na rzecz tworzenia bezpiecznego Internetu.]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/zglaszanie-nielegalnych-tresci">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/bfb72fc0-7f1f-4e02-9e00-f3f23c78900a/resolution/700x295 700w,
+/photo/format/bfb72fc0-7f1f-4e02-9e00-f3f23c78900a/resolution/1044x440 1044w,
+/photo/format/bfb72fc0-7f1f-4e02-9e00-f3f23c78900a/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/bfb72fc0-7f1f-4e02-9e00-f3f23c78900a/resolution/700x295 700w,
+/photo/format/bfb72fc0-7f1f-4e02-9e00-f3f23c78900a/resolution/525x221 525w">
+<img alt="Czarno białe zdjęcie dłoni" src="/photo/format/bfb72fc0-7f1f-4e02-9e00-f3f23c78900a/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Zgłaszanie nielegalnych treści</div>
+<div class="intro">Reaguj, gdy widzisz niestosowne treści w sieci. Zespół Dyzurnet.pl podejmuje działania na rzecz tworzenia bezpiecznego Internetu. </div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rozpoznawanie nieprawdziwych informacji]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/rozpoznawanie-nieprawdziwych-informacji</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/rozpoznawanie-nieprawdziwych-informacji"/>
         <updated>2021-07-13T11:36:01.570Z</updated>
-        <content type="html"><![CDATA[Fake newsy – wpisy, wiadomości, kanały informacyjne, w których przekazywane dane okazują się nieprawdziwe lub przeinaczone.]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/rozpoznawanie-nieprawdziwych-informacji">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/e4c59d47-2dec-4431-8435-dabb4415a83f/resolution/700x295 700w,
+/photo/format/e4c59d47-2dec-4431-8435-dabb4415a83f/resolution/1044x440 1044w,
+/photo/format/e4c59d47-2dec-4431-8435-dabb4415a83f/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/e4c59d47-2dec-4431-8435-dabb4415a83f/resolution/700x295 700w,
+/photo/format/e4c59d47-2dec-4431-8435-dabb4415a83f/resolution/525x221 525w">
+<img alt="Mężczyzna z opaską na oczach trzymający płonącą gazetę." src="/photo/format/e4c59d47-2dec-4431-8435-dabb4415a83f/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Rozpoznawanie nieprawdziwych informacji</div>
+<div class="intro">Fake newsy – wpisy, wiadomości, kanały informacyjne, w których przekazywane dane okazują się nieprawdziwe lub przeinaczone.</div>
+</div>
+</a>]]></content>
     </entry>
 </feed>

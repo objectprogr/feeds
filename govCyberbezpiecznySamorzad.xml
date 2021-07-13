@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad</id>
     <title>Cyberbezpieczny samorzad</title>
-    <updated>2021-07-13T11:36:01.705Z</updated>
+    <updated>2021-07-13T12:37:48.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gov.pl/img/icons/favicon-16x16.png</icon>
     <entry>
@@ -10,48 +10,160 @@
         <id>https://www.gov.pl/web/baza-wiedzy/wszystko-o-portalu-samorzadgovpl</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/wszystko-o-portalu-samorzadgovpl"/>
         <updated>2021-07-13T11:36:01.477Z</updated>
-        <content type="html"><![CDATA[Krok po kroku, jak przystąpić do projektu (Grudzień 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/wszystko-o-portalu-samorzadgovpl">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/29cd3ebf-6791-4127-a4d3-8e0d4ddfc918/resolution/700x295 700w,
+/photo/format/29cd3ebf-6791-4127-a4d3-8e0d4ddfc918/resolution/1044x440 1044w,
+/photo/format/29cd3ebf-6791-4127-a4d3-8e0d4ddfc918/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/29cd3ebf-6791-4127-a4d3-8e0d4ddfc918/resolution/700x295 700w,
+/photo/format/29cd3ebf-6791-4127-a4d3-8e0d4ddfc918/resolution/525x221 525w">
+<img alt="Laptop z wyświetlającą się stroną internetową, z boku profil mężczyzny" src="/photo/format/29cd3ebf-6791-4127-a4d3-8e0d4ddfc918/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06</div>
+<div class="intro">Krok po kroku, jak przystąpić do projektu (Grudzień 2020 r.)</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cyberbezpieczne usługi chmurowe dla administracji publicznej - Poradnik PRCyber-05]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczne-uslugi-chmurowe-dla-administracji-publicznej---poradnik-prcyber-05</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/cyberbezpieczne-uslugi-chmurowe-dla-administracji-publicznej---poradnik-prcyber-05"/>
         <updated>2021-07-13T11:36:01.477Z</updated>
-        <content type="html"><![CDATA[Środowisko informatyczne dostarczające usługi chmurowe oraz infrastrukturę IT za pośrednictwem Internetu (Listopad 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/cyberbezpieczne-uslugi-chmurowe-dla-administracji-publicznej---poradnik-prcyber-05">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/0fc0bc47-cf98-4aa9-a8a4-0e56b2966be5/resolution/700x295 700w,
+/photo/format/0fc0bc47-cf98-4aa9-a8a4-0e56b2966be5/resolution/1044x440 1044w,
+/photo/format/0fc0bc47-cf98-4aa9-a8a4-0e56b2966be5/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/0fc0bc47-cf98-4aa9-a8a4-0e56b2966be5/resolution/700x295 700w,
+/photo/format/0fc0bc47-cf98-4aa9-a8a4-0e56b2966be5/resolution/525x221 525w">
+<img alt="Nocny widok Ziemi z kosmosu" src="/photo/format/0fc0bc47-cf98-4aa9-a8a4-0e56b2966be5/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Cyberbezpieczne usługi chmurowe dla administracji publicznej - Poradnik PRCyber-05</div>
+<div class="intro">Środowisko informatyczne dostarczające usługi chmurowe oraz infrastrukturę IT za pośrednictwem Internetu (Listopad 2020 r.)</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jak sobie radzić ze skutkami ataków typu ransomware? – Poradnik PRCyber-04]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/jak-sobie-radzic-ze-skutkami-atakow-typu-ransomware---poradnik--prcyber-04</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/jak-sobie-radzic-ze-skutkami-atakow-typu-ransomware---poradnik--prcyber-04"/>
         <updated>2021-07-13T11:36:01.477Z</updated>
-        <content type="html"><![CDATA[Ograniczenie skutków ataków typu ransomware (Sierpień 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/jak-sobie-radzic-ze-skutkami-atakow-typu-ransomware---poradnik--prcyber-04">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/a83243dc-131f-4035-bdbe-926868036d71/resolution/700x295 700w,
+/photo/format/a83243dc-131f-4035-bdbe-926868036d71/resolution/1044x440 1044w,
+/photo/format/a83243dc-131f-4035-bdbe-926868036d71/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/a83243dc-131f-4035-bdbe-926868036d71/resolution/700x295 700w,
+/photo/format/a83243dc-131f-4035-bdbe-926868036d71/resolution/525x221 525w">
+<img alt="Kolorowy ciąg znaków" src="/photo/format/a83243dc-131f-4035-bdbe-926868036d71/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Jak sobie radzić ze skutkami ataków typu ransomware? – Poradnik PRCyber-04</div>
+<div class="intro">Ograniczenie skutków ataków typu ransomware (Sierpień 2020 r.)</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jak zapobiegać atakom typu ransomware? – Poradnik PRCyber-03]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/jak-zapobiegac-atakom-typu-ransomware--poradnik-prcyber-03</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/jak-zapobiegac-atakom-typu-ransomware--poradnik-prcyber-03"/>
         <updated>2021-07-13T11:36:01.479Z</updated>
-        <content type="html"><![CDATA[Wskazówki dotyczące zabezpieczeń przed szkodliwym oprogramowaniem (Lipiec 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/jak-zapobiegac-atakom-typu-ransomware--poradnik-prcyber-03">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/8a4a92d2-b2ec-428a-b849-2f893b14ccb3/resolution/700x295 700w,
+/photo/format/8a4a92d2-b2ec-428a-b849-2f893b14ccb3/resolution/1044x440 1044w,
+/photo/format/8a4a92d2-b2ec-428a-b849-2f893b14ccb3/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/8a4a92d2-b2ec-428a-b849-2f893b14ccb3/resolution/700x295 700w,
+/photo/format/8a4a92d2-b2ec-428a-b849-2f893b14ccb3/resolution/525x221 525w">
+<img alt="Laptop z wyświetlana flagą piracką" src="/photo/format/8a4a92d2-b2ec-428a-b849-2f893b14ccb3/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Jak zapobiegać atakom typu ransomware? – Poradnik PRCyber-03</div>
+<div class="intro">Wskazówki dotyczące zabezpieczeń przed szkodliwym oprogramowaniem (Lipiec 2020 r.)</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ochrona informacji w cyberprzestrzeni - Poradnik PRCyber-01]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/poradnik--prcyber-01</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/poradnik--prcyber-01"/>
         <updated>2021-07-13T11:36:01.479Z</updated>
-        <content type="html"><![CDATA[Cyberbezpieczeństwo – jak chronić nasze informacje przed atakami w cyberprzestrzeni? (Maj 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/poradnik--prcyber-01">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/700x295 700w,
+/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/1044x440 1044w,
+/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/700x295 700w,
+/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/525x221 525w">
+<img alt="Dłonie na klawiaturze laptopa, wyświetlacz czarny." src="/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/1920x810">
+</picture>
+<div>
+<div class="title"> Ochrona informacji w cyberprzestrzeni - Poradnik PRCyber-01</div>
+<div class="intro">Cyberbezpieczeństwo – jak chronić nasze informacje przed atakami w cyberprzestrzeni? (Maj 2020 r.)</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zgłaszanie incydentów - Poradnik PRCyber-02]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/poradnik--prcyber-02</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/poradnik--prcyber-02"/>
         <updated>2021-07-13T11:36:01.479Z</updated>
-        <content type="html"><![CDATA[Zgłaszanie incydentów przez jednostki samorządu terytorialnego (Maj 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/poradnik--prcyber-02">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/f6d9eda4-8500-4d0b-b63f-d4edf2bc36f1/resolution/700x295 700w,
+/photo/format/f6d9eda4-8500-4d0b-b63f-d4edf2bc36f1/resolution/1044x440 1044w,
+/photo/format/f6d9eda4-8500-4d0b-b63f-d4edf2bc36f1/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/f6d9eda4-8500-4d0b-b63f-d4edf2bc36f1/resolution/700x295 700w,
+/photo/format/f6d9eda4-8500-4d0b-b63f-d4edf2bc36f1/resolution/525x221 525w">
+<img alt="Znak drogowy STOP" src="/photo/format/f6d9eda4-8500-4d0b-b63f-d4edf2bc36f1/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Zgłaszanie incydentów - Poradnik PRCyber-02</div>
+<div class="intro">Zgłaszanie incydentów przez jednostki samorządu terytorialnego (Maj 2020 r.)</div>
+</div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Subskrypcja cyberwiadomości]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/subskrypcja-cyber-wiadomosci</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/subskrypcja-cyber-wiadomosci"/>
         <updated>2021-07-13T11:36:01.481Z</updated>
-        <content type="html"><![CDATA[Formularz subskrypcji wiadomości z adresu CyberJST@mc.gov.pl (Czerwiec 2020 r.)]]></content>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/subskrypcja-cyber-wiadomosci">
+<picture aria-hidden="true">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/ed9e446a-62b2-4b4c-ab93-68dfd34e5c1f/resolution/700x295 700w,
+/photo/format/ed9e446a-62b2-4b4c-ab93-68dfd34e5c1f/resolution/1044x440 1044w,
+/photo/format/ed9e446a-62b2-4b4c-ab93-68dfd34e5c1f/resolution/1328x560 1328w">
+<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
+(min-width: 80rem) 23.5vw,
+(min-width: 62.5rem) 21.5rem,
+(min-width: 43.75rem) 34vw" srcset="/photo/format/ed9e446a-62b2-4b4c-ab93-68dfd34e5c1f/resolution/700x295 700w,
+/photo/format/ed9e446a-62b2-4b4c-ab93-68dfd34e5c1f/resolution/525x221 525w">
+<img alt="Dłoń z długopisem nad zeszytem i klawiaturą" src="/photo/format/ed9e446a-62b2-4b4c-ab93-68dfd34e5c1f/resolution/1920x810">
+</picture>
+<div>
+<div class="title">Subskrypcja cyberwiadomości</div>
+<div class="intro">Formularz subskrypcji wiadomości z adresu CyberJST@mc.gov.pl (Czerwiec 2020 r.)</div>
+</div>
+</a>]]></content>
     </entry>
 </feed>
