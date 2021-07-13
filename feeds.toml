@@ -2,5 +2,5 @@
 title = "gov"
 url = "https://www.gov.pl/web/baza-wiedzy"
 entrySelector = "#Najnowsze-artykuly > ul li"
-linkSelector = "ul li a"
 titleSelector = ".title"
+linkSelector = "li > a"
