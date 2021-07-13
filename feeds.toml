@@ -3,7 +3,7 @@ title = "gov"
 url = "https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad"
 entrySelector = ".art-prev > ul li"
 titleSelector = "div >.title"
-linkSelector = "li a"
+linkSelector = "a"
 contentSelector = ".intro"
 
 [funfacts]
