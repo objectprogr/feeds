@@ -4,7 +4,6 @@ url = "https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad"
 entrySelector = ".art-prev > ul li"
 titleSelector = "div >.title"
 linkSelector = "a"
-contentSelector = "picture"
 contentSelector = ".intro"
 
 [govCyberhigena]
