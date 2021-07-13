@@ -2,286 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-13T08:00:05.531Z</updated>
+    <updated>2021-07-13T10:04:37.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Bezpieczna poczta e-mail – to trzeba wiedzieć! (gov)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/bezpieczna-poczta-e-mail--to-trzeba-wiedziec</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/bezpieczna-poczta-e-mail--to-trzeba-wiedziec"/>
-        <updated>2021-07-13T08:00:05.359Z</updated>
-        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/bezpieczna-poczta-e-mail--to-trzeba-wiedziec">
+        <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T10:04:37.189Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/wszystko-o-portalu-samorzadgovpl">
 <picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/64fa58be-f857-41ca-b005-2a23f6779686/resolution/700x295 700w,
-/photo/format/64fa58be-f857-41ca-b005-2a23f6779686/resolution/1044x440 1044w,
-/photo/format/64fa58be-f857-41ca-b005-2a23f6779686/resolution/1328x560 1328w">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/29cd3ebf-6791-4127-a4d3-8e0d4ddfc918/resolution/700x295 700w,
+/photo/format/29cd3ebf-6791-4127-a4d3-8e0d4ddfc918/resolution/1044x440 1044w,
+/photo/format/29cd3ebf-6791-4127-a4d3-8e0d4ddfc918/resolution/1328x560 1328w">
 <source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
 (min-width: 80rem) 23.5vw,
 (min-width: 62.5rem) 21.5rem,
-(min-width: 43.75rem) 34vw" srcset="/photo/format/64fa58be-f857-41ca-b005-2a23f6779686/resolution/700x295 700w,
-/photo/format/64fa58be-f857-41ca-b005-2a23f6779686/resolution/525x221 525w">
-<img alt="bezpieczny e-mail" src="/photo/format/64fa58be-f857-41ca-b005-2a23f6779686/resolution/1920x810">
+(min-width: 43.75rem) 34vw" srcset="/photo/format/29cd3ebf-6791-4127-a4d3-8e0d4ddfc918/resolution/700x295 700w,
+/photo/format/29cd3ebf-6791-4127-a4d3-8e0d4ddfc918/resolution/525x221 525w">
+<img alt="Laptop z wyświetlającą się stroną internetową, z boku profil mężczyzny" src="/photo/format/29cd3ebf-6791-4127-a4d3-8e0d4ddfc918/resolution/1920x810">
 </picture>
 <div>
-<div class="event">
-<span class="date">
-12.07.2021
-</span>
-</div>
-<div class="title">Bezpieczna poczta e-mail – to trzeba wiedzieć!</div>
-<div class="intro">E-mail to jedna z najpopularniejszych form komunikacji internetowej. Adres poczty elektronicznej to także identyfikator, którego używamy w trakcie logowania do różnych serwisów online. Dlatego warto wiedzieć, jak zadbać o bezpieczeństwo swojej poczty. Podpowiadamy, jak to zrobić.</div>
+<div class="title">Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06</div>
+<div class="intro">Krok po kroku, jak przystąpić do projektu (Grudzień 2020 r.)</div>
 </div>
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cyberbezpieczne wakacje (gov)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczne-wakacje</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/cyberbezpieczne-wakacje"/>
-        <updated>2021-07-13T08:00:05.359Z</updated>
-        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/cyberbezpieczne-wakacje">
+        <title type="html"><![CDATA[Cyberbezpieczne usługi chmurowe dla administracji publicznej - Poradnik PRCyber-05 (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T10:04:37.193Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/cyberbezpieczne-uslugi-chmurowe-dla-administracji-publicznej---poradnik-prcyber-05">
 <picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/45a43f1b-9220-499d-b38e-5d8748ebf6e9/resolution/700x295 700w,
-/photo/format/45a43f1b-9220-499d-b38e-5d8748ebf6e9/resolution/1044x440 1044w,
-/photo/format/45a43f1b-9220-499d-b38e-5d8748ebf6e9/resolution/1328x560 1328w">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/0fc0bc47-cf98-4aa9-a8a4-0e56b2966be5/resolution/700x295 700w,
+/photo/format/0fc0bc47-cf98-4aa9-a8a4-0e56b2966be5/resolution/1044x440 1044w,
+/photo/format/0fc0bc47-cf98-4aa9-a8a4-0e56b2966be5/resolution/1328x560 1328w">
 <source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
 (min-width: 80rem) 23.5vw,
 (min-width: 62.5rem) 21.5rem,
-(min-width: 43.75rem) 34vw" srcset="/photo/format/45a43f1b-9220-499d-b38e-5d8748ebf6e9/resolution/700x295 700w,
-/photo/format/45a43f1b-9220-499d-b38e-5d8748ebf6e9/resolution/525x221 525w">
-<img alt="cyberbezpiecznewakacje" src="/photo/format/45a43f1b-9220-499d-b38e-5d8748ebf6e9/resolution/1920x810">
+(min-width: 43.75rem) 34vw" srcset="/photo/format/0fc0bc47-cf98-4aa9-a8a4-0e56b2966be5/resolution/700x295 700w,
+/photo/format/0fc0bc47-cf98-4aa9-a8a4-0e56b2966be5/resolution/525x221 525w">
+<img alt="Nocny widok Ziemi z kosmosu" src="/photo/format/0fc0bc47-cf98-4aa9-a8a4-0e56b2966be5/resolution/1920x810">
 </picture>
 <div>
-<div class="event">
-<span class="date">
-02.07.2021
-</span>
-</div>
-<div class="title">Cyberbezpieczne wakacje</div>
-<div class="intro">Smartfony, tablety, laptopy – nie zapominamy o nich pakując się na wakacje. A czy pamiętacie o dbaniu o bezpieczeństwo swojego sprzętu, w tym danych, które w nim przechowujecie? Podpowiadamy, jak to zrobić. Przed podróżą koniecznie przeczytajcie nasze wskazówki.</div>
+<div class="title">Cyberbezpieczne usługi chmurowe dla administracji publicznej - Poradnik PRCyber-05</div>
+<div class="intro">Środowisko informatyczne dostarczające usługi chmurowe oraz infrastrukturę IT za pośrednictwem Internetu (Listopad 2020 r.)</div>
 </div>
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Postaw na backup (gov)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/postaw-na-backup</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/postaw-na-backup"/>
-        <updated>2021-07-13T08:00:05.359Z</updated>
-        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/postaw-na-backup">
+        <title type="html"><![CDATA[Jak sobie radzić ze skutkami ataków typu ransomware? – Poradnik PRCyber-04 (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T10:04:37.194Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/jak-sobie-radzic-ze-skutkami-atakow-typu-ransomware---poradnik--prcyber-04">
 <picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/895f8e37-5c7c-4ddb-911f-679c4f0b4a05/resolution/700x295 700w,
-/photo/format/895f8e37-5c7c-4ddb-911f-679c4f0b4a05/resolution/1044x440 1044w,
-/photo/format/895f8e37-5c7c-4ddb-911f-679c4f0b4a05/resolution/1328x560 1328w">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/a83243dc-131f-4035-bdbe-926868036d71/resolution/700x295 700w,
+/photo/format/a83243dc-131f-4035-bdbe-926868036d71/resolution/1044x440 1044w,
+/photo/format/a83243dc-131f-4035-bdbe-926868036d71/resolution/1328x560 1328w">
 <source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
 (min-width: 80rem) 23.5vw,
 (min-width: 62.5rem) 21.5rem,
-(min-width: 43.75rem) 34vw" srcset="/photo/format/895f8e37-5c7c-4ddb-911f-679c4f0b4a05/resolution/700x295 700w,
-/photo/format/895f8e37-5c7c-4ddb-911f-679c4f0b4a05/resolution/525x221 525w">
-<img alt="backup" src="/photo/format/895f8e37-5c7c-4ddb-911f-679c4f0b4a05/resolution/1920x810">
+(min-width: 43.75rem) 34vw" srcset="/photo/format/a83243dc-131f-4035-bdbe-926868036d71/resolution/700x295 700w,
+/photo/format/a83243dc-131f-4035-bdbe-926868036d71/resolution/525x221 525w">
+<img alt="Kolorowy ciąg znaków" src="/photo/format/a83243dc-131f-4035-bdbe-926868036d71/resolution/1920x810">
 </picture>
 <div>
-<div class="event">
-<span class="date">
-14.06.2021
-</span>
-</div>
-<div class="title">Postaw na backup</div>
-<div class="intro">Przypadkowo usunięty dokument, złośliwe oprogramowanie lub uszkodzenie sprzętu – przyczyn utraty danych może być co najmniej kilka. W każdym przypadku konsekwencje są jednak takie same. Możesz ich uniknąć – rób kopie zapasowe.</div>
+<div class="title">Jak sobie radzić ze skutkami ataków typu ransomware? – Poradnik PRCyber-04</div>
+<div class="intro">Ograniczenie skutków ataków typu ransomware (Sierpień 2020 r.)</div>
 </div>
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jak zadbać o domowe wi-fi? (gov)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/jak-zadbac-o-domowe-wi-fi</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/jak-zadbac-o-domowe-wi-fi"/>
-        <updated>2021-07-13T08:00:05.360Z</updated>
-        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/jak-zadbac-o-domowe-wi-fi">
+        <title type="html"><![CDATA[Jak zapobiegać atakom typu ransomware? – Poradnik PRCyber-03 (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T10:04:37.194Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/jak-zapobiegac-atakom-typu-ransomware--poradnik-prcyber-03">
 <picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/b8fdd9c1-adbc-471d-9ca9-7fd40fca363b/resolution/700x295 700w,
-/photo/format/b8fdd9c1-adbc-471d-9ca9-7fd40fca363b/resolution/1044x440 1044w,
-/photo/format/b8fdd9c1-adbc-471d-9ca9-7fd40fca363b/resolution/1328x560 1328w">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/8a4a92d2-b2ec-428a-b849-2f893b14ccb3/resolution/700x295 700w,
+/photo/format/8a4a92d2-b2ec-428a-b849-2f893b14ccb3/resolution/1044x440 1044w,
+/photo/format/8a4a92d2-b2ec-428a-b849-2f893b14ccb3/resolution/1328x560 1328w">
 <source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
 (min-width: 80rem) 23.5vw,
 (min-width: 62.5rem) 21.5rem,
-(min-width: 43.75rem) 34vw" srcset="/photo/format/b8fdd9c1-adbc-471d-9ca9-7fd40fca363b/resolution/700x295 700w,
-/photo/format/b8fdd9c1-adbc-471d-9ca9-7fd40fca363b/resolution/525x221 525w">
-<img alt="domowe wifi" src="/photo/format/b8fdd9c1-adbc-471d-9ca9-7fd40fca363b/resolution/1920x810">
+(min-width: 43.75rem) 34vw" srcset="/photo/format/8a4a92d2-b2ec-428a-b849-2f893b14ccb3/resolution/700x295 700w,
+/photo/format/8a4a92d2-b2ec-428a-b849-2f893b14ccb3/resolution/525x221 525w">
+<img alt="Laptop z wyświetlana flagą piracką" src="/photo/format/8a4a92d2-b2ec-428a-b849-2f893b14ccb3/resolution/1920x810">
 </picture>
 <div>
-<div class="event">
-<span class="date">
-01.06.2021
-</span>
-</div>
-<div class="title">Jak zadbać o domowe wi-fi?</div>
-<div class="intro">Bezprzewodowy dostęp do internetu to przede wszystkim wygoda – również w domu. Jednak nawet tam możemy być narażeni na cyberzagrożenia. Podpowiadamy, jak tego uniknąć.</div>
+<div class="title">Jak zapobiegać atakom typu ransomware? – Poradnik PRCyber-03</div>
+<div class="intro">Wskazówki dotyczące zabezpieczeń przed szkodliwym oprogramowaniem (Lipiec 2020 r.)</div>
 </div>
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wspólnie dla cyberbezpieczeństwa (gov)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/wspolnie-dla-cyberbezpieczenstwa</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/wspolnie-dla-cyberbezpieczenstwa"/>
-        <updated>2021-07-13T08:00:05.362Z</updated>
-        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/wspolnie-dla-cyberbezpieczenstwa">
+        <title type="html"><![CDATA[Ochrona informacji w cyberprzestrzeni - Poradnik PRCyber-01 (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T10:04:37.194Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/poradnik--prcyber-01">
 <picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/b33b09f5-63d2-4d28-ade0-a82eb2d52319/resolution/700x295 700w,
-/photo/format/b33b09f5-63d2-4d28-ade0-a82eb2d52319/resolution/1044x440 1044w,
-/photo/format/b33b09f5-63d2-4d28-ade0-a82eb2d52319/resolution/1328x560 1328w">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/700x295 700w,
+/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/1044x440 1044w,
+/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/1328x560 1328w">
 <source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
 (min-width: 80rem) 23.5vw,
 (min-width: 62.5rem) 21.5rem,
-(min-width: 43.75rem) 34vw" srcset="/photo/format/b33b09f5-63d2-4d28-ade0-a82eb2d52319/resolution/700x295 700w,
-/photo/format/b33b09f5-63d2-4d28-ade0-a82eb2d52319/resolution/525x221 525w">
-<img alt="cybermadeinpoland" src="/photo/format/b33b09f5-63d2-4d28-ade0-a82eb2d52319/resolution/1920x810">
+(min-width: 43.75rem) 34vw" srcset="/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/700x295 700w,
+/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/525x221 525w">
+<img alt="Dłonie na klawiaturze laptopa, wyświetlacz czarny." src="/photo/format/074a3b05-1406-4578-9f1e-01d3f31bbe32/resolution/1920x810">
 </picture>
 <div>
-<div class="event">
-<span class="date">
-31.05.2021
-</span>
-</div>
-<div class="title">Wspólnie dla cyberbezpieczeństwa</div>
-<div class="intro">Podpisaliśmy kolejne porozumienie w ramach Programu Współpracy w Cyberbezpieczeństwie (PWCyber). Tym razem z Polskim Klastrem Cyberbezpieczeństwa #CyberMadeInPoland.</div>
+<div class="title"> Ochrona informacji w cyberprzestrzeni - Poradnik PRCyber-01</div>
+<div class="intro">Cyberbezpieczeństwo – jak chronić nasze informacje przed atakami w cyberprzestrzeni? (Maj 2020 r.)</div>
 </div>
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Korzystasz z internetu poza domem? Łącz się bezpiecznie! (gov)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/korzystasz-z-internetu-poza-domem-lacz-sie-bezpiecznie</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/korzystasz-z-internetu-poza-domem-lacz-sie-bezpiecznie"/>
-        <updated>2021-07-13T08:00:05.362Z</updated>
-        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/korzystasz-z-internetu-poza-domem-lacz-sie-bezpiecznie">
+        <title type="html"><![CDATA[Zgłaszanie incydentów - Poradnik PRCyber-02 (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T10:04:37.195Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/poradnik--prcyber-02">
 <picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/db01ff21-c866-484e-8652-83c4b6bbadd6/resolution/700x295 700w,
-/photo/format/db01ff21-c866-484e-8652-83c4b6bbadd6/resolution/1044x440 1044w,
-/photo/format/db01ff21-c866-484e-8652-83c4b6bbadd6/resolution/1328x560 1328w">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/f6d9eda4-8500-4d0b-b63f-d4edf2bc36f1/resolution/700x295 700w,
+/photo/format/f6d9eda4-8500-4d0b-b63f-d4edf2bc36f1/resolution/1044x440 1044w,
+/photo/format/f6d9eda4-8500-4d0b-b63f-d4edf2bc36f1/resolution/1328x560 1328w">
 <source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
 (min-width: 80rem) 23.5vw,
 (min-width: 62.5rem) 21.5rem,
-(min-width: 43.75rem) 34vw" srcset="/photo/format/db01ff21-c866-484e-8652-83c4b6bbadd6/resolution/700x295 700w,
-/photo/format/db01ff21-c866-484e-8652-83c4b6bbadd6/resolution/525x221 525w">
-<img alt="wifi" src="/photo/format/db01ff21-c866-484e-8652-83c4b6bbadd6/resolution/1920x810">
+(min-width: 43.75rem) 34vw" srcset="/photo/format/f6d9eda4-8500-4d0b-b63f-d4edf2bc36f1/resolution/700x295 700w,
+/photo/format/f6d9eda4-8500-4d0b-b63f-d4edf2bc36f1/resolution/525x221 525w">
+<img alt="Znak drogowy STOP" src="/photo/format/f6d9eda4-8500-4d0b-b63f-d4edf2bc36f1/resolution/1920x810">
 </picture>
 <div>
-<div class="event">
-<span class="date">
-27.05.2021
-</span>
-</div>
-<div class="title">Korzystasz z internetu poza domem? Łącz się bezpiecznie!</div>
-<div class="intro">Wielu z nas zdarza się korzystać z publicznych sieci wi-fi – w kawiarniach, hotelach, na dworcach czy w bibliotekach. To nie zawsze bezpieczne. Oto, na co zwracać uwagę.
-</div>
+<div class="title">Zgłaszanie incydentów - Poradnik PRCyber-02</div>
+<div class="intro">Zgłaszanie incydentów przez jednostki samorządu terytorialnego (Maj 2020 r.)</div>
 </div>
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wiedza z zakresu nowych technologii - darmowa platforma edukacyjna (gov)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/wiedza-z-zakresu-nowych-technologii---darmowa-platforma-edukacyjna</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/wiedza-z-zakresu-nowych-technologii---darmowa-platforma-edukacyjna"/>
-        <updated>2021-07-13T08:00:05.366Z</updated>
-        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/wiedza-z-zakresu-nowych-technologii---darmowa-platforma-edukacyjna">
+        <title type="html"><![CDATA[Subskrypcja cyberwiadomości (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T10:04:37.197Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/subskrypcja-cyber-wiadomosci">
 <picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/837a1c7a-2a7b-40af-9481-2e300297197e/resolution/700x295 700w,
-/photo/format/837a1c7a-2a7b-40af-9481-2e300297197e/resolution/1044x440 1044w,
-/photo/format/837a1c7a-2a7b-40af-9481-2e300297197e/resolution/1328x560 1328w">
+<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/ed9e446a-62b2-4b4c-ab93-68dfd34e5c1f/resolution/700x295 700w,
+/photo/format/ed9e446a-62b2-4b4c-ab93-68dfd34e5c1f/resolution/1044x440 1044w,
+/photo/format/ed9e446a-62b2-4b4c-ab93-68dfd34e5c1f/resolution/1328x560 1328w">
 <source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
 (min-width: 80rem) 23.5vw,
 (min-width: 62.5rem) 21.5rem,
-(min-width: 43.75rem) 34vw" srcset="/photo/format/837a1c7a-2a7b-40af-9481-2e300297197e/resolution/700x295 700w,
-/photo/format/837a1c7a-2a7b-40af-9481-2e300297197e/resolution/525x221 525w">
-<img alt="online platform" src="/photo/format/837a1c7a-2a7b-40af-9481-2e300297197e/resolution/1920x810">
+(min-width: 43.75rem) 34vw" srcset="/photo/format/ed9e446a-62b2-4b4c-ab93-68dfd34e5c1f/resolution/700x295 700w,
+/photo/format/ed9e446a-62b2-4b4c-ab93-68dfd34e5c1f/resolution/525x221 525w">
+<img alt="Dłoń z długopisem nad zeszytem i klawiaturą" src="/photo/format/ed9e446a-62b2-4b4c-ab93-68dfd34e5c1f/resolution/1920x810">
 </picture>
 <div>
-<div class="event">
-<span class="date">
-18.05.2021
-</span>
-</div>
-<div class="title">Wiedza z zakresu nowych technologii - darmowa platforma edukacyjna</div>
-<div class="intro">Zachęcamy do korzystania z bezpłatnych narzędzi edukacyjnych online oferowanych przez IBM – Partnera PWCyber</div>
-</div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17 maja obchodzimy Światowy Dzień Społeczeństwa Informacyjnego! (gov)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/17-maja-obchodzimy-swiatowy-dzien-spoleczenstwa-informacyjnego</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/17-maja-obchodzimy-swiatowy-dzien-spoleczenstwa-informacyjnego"/>
-        <updated>2021-07-13T08:00:05.366Z</updated>
-        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/17-maja-obchodzimy-swiatowy-dzien-spoleczenstwa-informacyjnego">
-<picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/9c5a1717-baa7-472c-bc0c-b6a959369300/resolution/700x295 700w,
-/photo/format/9c5a1717-baa7-472c-bc0c-b6a959369300/resolution/1044x440 1044w,
-/photo/format/9c5a1717-baa7-472c-bc0c-b6a959369300/resolution/1328x560 1328w">
-<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
-(min-width: 80rem) 23.5vw,
-(min-width: 62.5rem) 21.5rem,
-(min-width: 43.75rem) 34vw" srcset="/photo/format/9c5a1717-baa7-472c-bc0c-b6a959369300/resolution/700x295 700w,
-/photo/format/9c5a1717-baa7-472c-bc0c-b6a959369300/resolution/525x221 525w">
-<img alt="ŚDSI" src="/photo/format/9c5a1717-baa7-472c-bc0c-b6a959369300/resolution/1920x810">
-</picture>
-<div>
-<div class="event">
-<span class="date">
-17.05.2021
-</span>
-</div>
-<div class="title">17 maja obchodzimy Światowy Dzień Społeczeństwa Informacyjnego!</div>
-<div class="intro">W ramach obchodów zapraszamy na konferencję „POLSKA W TECHNOSFERZE PRZYSZŁOŚCI” 25 maja 2021 r.</div>
-</div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberGOV 2021 – zapraszamy! (gov)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/cybergov-2021--zapraszamy</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/cybergov-2021--zapraszamy"/>
-        <updated>2021-07-13T08:00:05.368Z</updated>
-        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/cybergov-2021--zapraszamy">
-<picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/bbc5e1e4-b106-4152-b75a-d31ec9db0285/resolution/700x295 700w,
-/photo/format/bbc5e1e4-b106-4152-b75a-d31ec9db0285/resolution/1044x440 1044w,
-/photo/format/bbc5e1e4-b106-4152-b75a-d31ec9db0285/resolution/1328x560 1328w">
-<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
-(min-width: 80rem) 23.5vw,
-(min-width: 62.5rem) 21.5rem,
-(min-width: 43.75rem) 34vw" srcset="/photo/format/bbc5e1e4-b106-4152-b75a-d31ec9db0285/resolution/700x295 700w,
-/photo/format/bbc5e1e4-b106-4152-b75a-d31ec9db0285/resolution/525x221 525w">
-<img alt="cybergov2021" src="/photo/format/bbc5e1e4-b106-4152-b75a-d31ec9db0285/resolution/1920x810">
-</picture>
-<div>
-<div class="event">
-<span class="date">
-17.05.2021
-</span>
-</div>
-<div class="title">CyberGOV 2021 – zapraszamy!</div>
-<div class="intro">Już 20 maja odbędzie jedna z najważniejszych konferencji poświęconych bezpieczeństwu informatycznemu w sektorze publicznym – CyberGOV 2021. Główny temat to cyberbezpieczeństwo instytucji sektora publicznego wobec przyspieszonej cyfryzacji usług.</div>
-</div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dzisiaj Światowy Dzień Hasła (gov)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/dzisiaj-swiatowy-dzien-hasla</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/dzisiaj-swiatowy-dzien-hasla"/>
-        <updated>2021-07-13T08:00:05.370Z</updated>
-        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/dzisiaj-swiatowy-dzien-hasla">
-<picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/f8027438-561d-4ef1-b3aa-db5870c2f848/resolution/700x295 700w,
-/photo/format/f8027438-561d-4ef1-b3aa-db5870c2f848/resolution/1044x440 1044w,
-/photo/format/f8027438-561d-4ef1-b3aa-db5870c2f848/resolution/1328x560 1328w">
-<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.875rem,
-(min-width: 80rem) 23.5vw,
-(min-width: 62.5rem) 21.5rem,
-(min-width: 43.75rem) 34vw" srcset="/photo/format/f8027438-561d-4ef1-b3aa-db5870c2f848/resolution/700x295 700w,
-/photo/format/f8027438-561d-4ef1-b3aa-db5870c2f848/resolution/525x221 525w">
-<img alt="Ludzie hasło" src="/photo/format/f8027438-561d-4ef1-b3aa-db5870c2f848/resolution/1920x810">
-</picture>
-<div>
-<div class="event">
-<span class="date">
-06.05.2021
-</span>
-</div>
-<div class="title">Dzisiaj Światowy Dzień Hasła</div>
-<div class="intro">Obchodzone corocznie w pierwszy czwartek maja święto, to idealny dzień na zapoznanie się z dobrymi praktykami dotyczącymi haseł </div>
+<div class="title">Subskrypcja cyberwiadomości</div>
+<div class="intro">Formularz subskrypcji wiadomości z adresu CyberJST@mc.gov.pl (Czerwiec 2020 r.)</div>
 </div>
 </a>]]></content>
     </entry>
