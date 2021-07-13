@@ -4,3 +4,10 @@ url = "https://www.gov.pl/web/baza-wiedzy"
 entrySelector = "#Najnowsze-artykuly > ul li"
 titleSelector = ".title"
 linkSelector = "li > a"
+
+[trzcianka]
+title = "trzcianka"
+url = "https://trzcianka.pl/aktualnosci/"
+entrySelector = ".sec-ppp-aktualnosci"
+titleSelector = "h3"
+linkSelector = "a"
