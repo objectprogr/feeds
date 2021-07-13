@@ -2,56 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad</id>
     <title>gov</title>
-    <updated>2021-07-13T10:05:32.423Z</updated>
+    <updated>2021-07-13T10:15:16.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gov.pl/img/icons/favicon-16x16.png</icon>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad"/>
-        <updated>2021-07-13T10:05:32.271Z</updated>
+        <updated>2021-07-13T10:15:15.799Z</updated>
         <content type="html"><![CDATA[Krok po kroku, jak przystąpić do projektu (Grudzień 2020 r.)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cyberbezpieczne usługi chmurowe dla administracji publicznej - Poradnik PRCyber-05]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad"/>
-        <updated>2021-07-13T10:05:32.274Z</updated>
+        <updated>2021-07-13T10:15:15.802Z</updated>
         <content type="html"><![CDATA[Środowisko informatyczne dostarczające usługi chmurowe oraz infrastrukturę IT za pośrednictwem Internetu (Listopad 2020 r.)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jak sobie radzić ze skutkami ataków typu ransomware? – Poradnik PRCyber-04]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad"/>
-        <updated>2021-07-13T10:05:32.275Z</updated>
+        <updated>2021-07-13T10:15:15.803Z</updated>
         <content type="html"><![CDATA[Ograniczenie skutków ataków typu ransomware (Sierpień 2020 r.)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jak zapobiegać atakom typu ransomware? – Poradnik PRCyber-03]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad"/>
-        <updated>2021-07-13T10:05:32.277Z</updated>
+        <updated>2021-07-13T10:15:15.807Z</updated>
         <content type="html"><![CDATA[Wskazówki dotyczące zabezpieczeń przed szkodliwym oprogramowaniem (Lipiec 2020 r.)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ochrona informacji w cyberprzestrzeni - Poradnik PRCyber-01]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad"/>
-        <updated>2021-07-13T10:05:32.281Z</updated>
+        <updated>2021-07-13T10:15:15.811Z</updated>
         <content type="html"><![CDATA[Cyberbezpieczeństwo – jak chronić nasze informacje przed atakami w cyberprzestrzeni? (Maj 2020 r.)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zgłaszanie incydentów - Poradnik PRCyber-02]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad"/>
-        <updated>2021-07-13T10:05:32.283Z</updated>
+        <updated>2021-07-13T10:15:15.816Z</updated>
         <content type="html"><![CDATA[Zgłaszanie incydentów przez jednostki samorządu terytorialnego (Maj 2020 r.)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Subskrypcja cyberwiadomości]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad"/>
-        <updated>2021-07-13T10:05:32.284Z</updated>
+        <updated>2021-07-13T10:15:15.819Z</updated>
         <content type="html"><![CDATA[Formularz subskrypcji wiadomości z adresu CyberJST@mc.gov.pl (Czerwiec 2020 r.)]]></content>
     </entry>
 </feed>
