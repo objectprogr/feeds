@@ -8,6 +8,6 @@ linkSelector = "li > a"
 [trzcianka]
 title = "trzcianka"
 url = "https://trzcianka.pl/aktualnosci/"
-entrySelector = ".sec-ppp-aktualnosci"
+entrySelector = ".sec-ppp-aktualnosci > .npp .c-col"
 titleSelector = "h3"
 linkSelector = "a"
