@@ -1,6 +1,6 @@
 [gov]
 title = "gov"
 url = "https://www.gov.pl/web/baza-wiedzy/aktualnosci"
-entrySelector = ".art-prev > ul"
-titleSelector = ".title"
-linkSelector = "li > a"
+entrySelector = ".art-prev > ul li"
+titleSelector = "div >.title"
+linkSelector = "ul > li > a"
