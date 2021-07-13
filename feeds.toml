@@ -1,13 +1,6 @@
 [gov]
 title = "gov"
-url = "https://www.gov.pl/web/baza-wiedzy"
-entrySelector = "#Najnowsze-artykuly > ul li"
+url = "https://www.gov.pl/web/baza-wiedzy/aktualnosci"
+entrySelector = ".art-prev > ul"
 titleSelector = ".title"
 linkSelector = "li > a"
-
-[trzcianka]
-title = "trzcianka"
-url = "https://trzcianka.pl/aktualnosci/"
-entrySelector = ".sec-ppp-aktualnosci > article"
-titleSelector = "h3"
-linkSelector = "a"
