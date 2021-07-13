@@ -4,7 +4,7 @@ url = "https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad"
 entrySelector = ".art-prev > ul li"
 titleSelector = "div >.title"
 linkSelector = "a"
-contentSelector = ".intro"
+contentSelector = ".intro picture"
 
 [govCyberhigena]
 title = "Cyberhigiena - dla kazdego"
@@ -12,7 +12,7 @@ url = "https://www.gov.pl/web/baza-wiedzy/cyberbezpieczenstwo"
 entrySelector = ".art-prev > ul li"
 titleSelector = "div >.title"
 linkSelector = "a"
-contentSelector = ".intro"
+contentSelector = ".intro picture"
 
 [govDlaProfesjonalistow]
 title = "Dla profesjonalistow"
@@ -20,4 +20,4 @@ url = "https://www.gov.pl/web/baza-wiedzy/dla-profesjonalistow"
 entrySelector = ".art-prev > ul li"
 titleSelector = "div >.title"
 linkSelector = "a"
-contentSelector = ".intro"
+contentSelector = ".intro picture"
