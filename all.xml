@@ -2,15 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-13T07:12:16.944Z</updated>
+    <updated>2021-07-13T07:51:01.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Bezpieczna poczta e-mail – to trzeba wiedzieć! (gov)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/bezpieczna-poczta-e-mail--to-trzeba-wiedziec</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/bezpieczna-poczta-e-mail--to-trzeba-wiedziec"/>
-        <updated>2021-07-13T07:12:16.824Z</updated>
-        <content type="html"><![CDATA[<li>
-<a href="/web/baza-wiedzy/bezpieczna-poczta-e-mail--to-trzeba-wiedziec">
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T07:51:01.621Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/bezpieczna-poczta-e-mail--to-trzeba-wiedziec">
 <picture aria-hidden="true">
 <source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/64fa58be-f857-41ca-b005-2a23f6779686/resolution/700x295 700w,
 /photo/format/64fa58be-f857-41ca-b005-2a23f6779686/resolution/1044x440 1044w,
@@ -31,10 +30,14 @@
 <div class="title">Bezpieczna poczta e-mail – to trzeba wiedzieć!</div>
 <div class="intro">E-mail to jedna z najpopularniejszych form komunikacji internetowej. Adres poczty elektronicznej to także identyfikator, którego używamy w trakcie logowania do różnych serwisów online. Dlatego warto wiedzieć, jak zadbać o bezpieczeństwo swojej poczty. Podpowiadamy, jak to zrobić.</div>
 </div>
-</a>
-</li>
-<li>
-<a href="/web/baza-wiedzy/cyberbezpieczne-wakacje">
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberbezpieczne wakacje (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T07:51:01.622Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/cyberbezpieczne-wakacje">
 <picture aria-hidden="true">
 <source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/45a43f1b-9220-499d-b38e-5d8748ebf6e9/resolution/700x295 700w,
 /photo/format/45a43f1b-9220-499d-b38e-5d8748ebf6e9/resolution/1044x440 1044w,
@@ -55,10 +58,14 @@
 <div class="title">Cyberbezpieczne wakacje</div>
 <div class="intro">Smartfony, tablety, laptopy – nie zapominamy o nich pakując się na wakacje. A czy pamiętacie o dbaniu o bezpieczeństwo swojego sprzętu, w tym danych, które w nim przechowujecie? Podpowiadamy, jak to zrobić. Przed podróżą koniecznie przeczytajcie nasze wskazówki.</div>
 </div>
-</a>
-</li>
-<li>
-<a href="/web/baza-wiedzy/postaw-na-backup">
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postaw na backup (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T07:51:01.622Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/postaw-na-backup">
 <picture aria-hidden="true">
 <source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/895f8e37-5c7c-4ddb-911f-679c4f0b4a05/resolution/700x295 700w,
 /photo/format/895f8e37-5c7c-4ddb-911f-679c4f0b4a05/resolution/1044x440 1044w,
@@ -79,10 +86,14 @@
 <div class="title">Postaw na backup</div>
 <div class="intro">Przypadkowo usunięty dokument, złośliwe oprogramowanie lub uszkodzenie sprzętu – przyczyn utraty danych może być co najmniej kilka. W każdym przypadku konsekwencje są jednak takie same. Możesz ich uniknąć – rób kopie zapasowe.</div>
 </div>
-</a>
-</li>
-<li>
-<a href="/web/baza-wiedzy/jak-zadbac-o-domowe-wi-fi">
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jak zadbać o domowe wi-fi? (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T07:51:01.623Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/jak-zadbac-o-domowe-wi-fi">
 <picture aria-hidden="true">
 <source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/b8fdd9c1-adbc-471d-9ca9-7fd40fca363b/resolution/700x295 700w,
 /photo/format/b8fdd9c1-adbc-471d-9ca9-7fd40fca363b/resolution/1044x440 1044w,
@@ -103,10 +114,14 @@
 <div class="title">Jak zadbać o domowe wi-fi?</div>
 <div class="intro">Bezprzewodowy dostęp do internetu to przede wszystkim wygoda – również w domu. Jednak nawet tam możemy być narażeni na cyberzagrożenia. Podpowiadamy, jak tego uniknąć.</div>
 </div>
-</a>
-</li>
-<li>
-<a href="/web/baza-wiedzy/wspolnie-dla-cyberbezpieczenstwa">
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wspólnie dla cyberbezpieczeństwa (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T07:51:01.623Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/wspolnie-dla-cyberbezpieczenstwa">
 <picture aria-hidden="true">
 <source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/b33b09f5-63d2-4d28-ade0-a82eb2d52319/resolution/700x295 700w,
 /photo/format/b33b09f5-63d2-4d28-ade0-a82eb2d52319/resolution/1044x440 1044w,
@@ -127,10 +142,14 @@
 <div class="title">Wspólnie dla cyberbezpieczeństwa</div>
 <div class="intro">Podpisaliśmy kolejne porozumienie w ramach Programu Współpracy w Cyberbezpieczeństwie (PWCyber). Tym razem z Polskim Klastrem Cyberbezpieczeństwa #CyberMadeInPoland.</div>
 </div>
-</a>
-</li>
-<li>
-<a href="/web/baza-wiedzy/korzystasz-z-internetu-poza-domem-lacz-sie-bezpiecznie">
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Korzystasz z internetu poza domem? Łącz się bezpiecznie! (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T07:51:01.625Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/korzystasz-z-internetu-poza-domem-lacz-sie-bezpiecznie">
 <picture aria-hidden="true">
 <source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/db01ff21-c866-484e-8652-83c4b6bbadd6/resolution/700x295 700w,
 /photo/format/db01ff21-c866-484e-8652-83c4b6bbadd6/resolution/1044x440 1044w,
@@ -152,10 +171,14 @@
 <div class="intro">Wielu z nas zdarza się korzystać z publicznych sieci wi-fi – w kawiarniach, hotelach, na dworcach czy w bibliotekach. To nie zawsze bezpieczne. Oto, na co zwracać uwagę.
 </div>
 </div>
-</a>
-</li>
-<li>
-<a href="/web/baza-wiedzy/wiedza-z-zakresu-nowych-technologii---darmowa-platforma-edukacyjna">
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wiedza z zakresu nowych technologii - darmowa platforma edukacyjna (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T07:51:01.626Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/wiedza-z-zakresu-nowych-technologii---darmowa-platforma-edukacyjna">
 <picture aria-hidden="true">
 <source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/837a1c7a-2a7b-40af-9481-2e300297197e/resolution/700x295 700w,
 /photo/format/837a1c7a-2a7b-40af-9481-2e300297197e/resolution/1044x440 1044w,
@@ -176,10 +199,14 @@
 <div class="title">Wiedza z zakresu nowych technologii - darmowa platforma edukacyjna</div>
 <div class="intro">Zachęcamy do korzystania z bezpłatnych narzędzi edukacyjnych online oferowanych przez IBM – Partnera PWCyber</div>
 </div>
-</a>
-</li>
-<li>
-<a href="/web/baza-wiedzy/17-maja-obchodzimy-swiatowy-dzien-spoleczenstwa-informacyjnego">
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17 maja obchodzimy Światowy Dzień Społeczeństwa Informacyjnego! (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T07:51:01.627Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/17-maja-obchodzimy-swiatowy-dzien-spoleczenstwa-informacyjnego">
 <picture aria-hidden="true">
 <source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/9c5a1717-baa7-472c-bc0c-b6a959369300/resolution/700x295 700w,
 /photo/format/9c5a1717-baa7-472c-bc0c-b6a959369300/resolution/1044x440 1044w,
@@ -200,10 +227,14 @@
 <div class="title">17 maja obchodzimy Światowy Dzień Społeczeństwa Informacyjnego!</div>
 <div class="intro">W ramach obchodów zapraszamy na konferencję „POLSKA W TECHNOSFERZE PRZYSZŁOŚCI” 25 maja 2021 r.</div>
 </div>
-</a>
-</li>
-<li>
-<a href="/web/baza-wiedzy/cybergov-2021--zapraszamy">
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CyberGOV 2021 – zapraszamy! (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T07:51:01.629Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/cybergov-2021--zapraszamy">
 <picture aria-hidden="true">
 <source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/bbc5e1e4-b106-4152-b75a-d31ec9db0285/resolution/700x295 700w,
 /photo/format/bbc5e1e4-b106-4152-b75a-d31ec9db0285/resolution/1044x440 1044w,
@@ -224,10 +255,14 @@
 <div class="title">CyberGOV 2021 – zapraszamy!</div>
 <div class="intro">Już 20 maja odbędzie jedna z najważniejszych konferencji poświęconych bezpieczeństwu informatycznemu w sektorze publicznym – CyberGOV 2021. Główny temat to cyberbezpieczeństwo instytucji sektora publicznego wobec przyspieszonej cyfryzacji usług.</div>
 </div>
-</a>
-</li>
-<li>
-<a href="/web/baza-wiedzy/dzisiaj-swiatowy-dzien-hasla">
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dzisiaj Światowy Dzień Hasła (gov)]]></title>
+        <id>https://objectprogr.github.io/feeds/all.xml</id>
+        <link href="https://objectprogr.github.io/feeds/all.xml"/>
+        <updated>2021-07-13T07:51:01.630Z</updated>
+        <content type="html"><![CDATA[<a href="/web/baza-wiedzy/dzisiaj-swiatowy-dzien-hasla">
 <picture aria-hidden="true">
 <source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/f8027438-561d-4ef1-b3aa-db5870c2f848/resolution/700x295 700w,
 /photo/format/f8027438-561d-4ef1-b3aa-db5870c2f848/resolution/1044x440 1044w,
@@ -248,7 +283,6 @@
 <div class="title">Dzisiaj Światowy Dzień Hasła</div>
 <div class="intro">Obchodzone corocznie w pierwszy czwartek maja święto, to idealny dzień na zapoznanie się z dobrymi praktykami dotyczącymi haseł </div>
 </div>
-</a>
-</li>]]></content>
+</a>]]></content>
     </entry>
 </feed>
