@@ -21,3 +21,11 @@ entrySelector = ".art-prev > ul li"
 titleSelector = "div >.title"
 linkSelector = "a"
 contentSelector = ".intro"
+
+[informatykZakladowy]
+title = "Informatyk zakladowu"
+url = "https://informatykzakladowy.pl/"
+entrySelector = "#site-content > article"
+titleSelector = "h2"
+linkSelector = "h2 a"
+contentSelector = ".entry-content"
