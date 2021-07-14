@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sekurak.pl/?cat=7,3</id>
+    <title>Sekurak</title>
+    <updated>2021-07-14T12:58:27.602Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Uwierzytelnianie/autoryzacja – co może pójść nie tak? Jak temu zapobiec?]]></title>
+        <id>https://sekurak.pl/uwierzytelnianie-autoryzacja-co-moze-pojsc-nie-tak-jak-temu-zapobiec/</id>
+        <link href="https://sekurak.pl/uwierzytelnianie-autoryzacja-co-moze-pojsc-nie-tak-jak-temu-zapobiec/"/>
+        <updated>2021-07-14T12:58:27.418Z</updated>
+        <content type="html"><![CDATA[Zapraszamy na nasze unikalne szkolenie dotyczące właśnie problemów z uwierzytelnianiem oraz autoryzacją. W trakcie całości zobaczycie przeszło 50 realnych przykładów luk bezpieczeństwa występujących w tych mechanizmach. Będzie o: resetowaniu hasła, technikach brute force, oczywistych (albo i nie ;) metodach całkowitego ominięcia uwierzytelniania czy aspektach związanych z 2FA. Nie zabraknie też…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wyciek ze sklepu Spreadshirt: dane adresowe, hasła, „dane bankowe”, …]]></title>
+        <id>https://sekurak.pl/wyciek-ze-sklepu-spreadshirt-dane-adresowe-hasla-dane-bankowe/</id>
+        <link href="https://sekurak.pl/wyciek-ze-sklepu-spreadshirt-dane-adresowe-hasla-dane-bankowe/"/>
+        <updated>2021-07-14T12:58:27.426Z</updated>
+        <content type="html"><![CDATA[Sklep Spreadshirt informuje o incydencie bezpieczeństwa, który dotyczy zarówno serwisu w wersji polskiej jak i międzynarodowej: Staliśmy się celem zorganizowanego cyberataku, który został przeprowadzony z zastosowaniem działań przestępczych. Nieznanym sprawcom udało się pokonać wysokie standardy bezpieczeństwa i uzyskać dostęp do wewnętrznych danych. Natychmiast podjęliśmy wszelkie niezbędne środki w celu ochrony…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraińskie służby zlikwidowały największą „plantację” koparek kryptowalut…]]></title>
+        <id>https://sekurak.pl/ukrainskie-sluzby-zlikwidowaly-najwieksza-plantacje-koparek-kryptowalut/</id>
+        <link href="https://sekurak.pl/ukrainskie-sluzby-zlikwidowaly-najwieksza-plantacje-koparek-kryptowalut/"/>
+        <updated>2021-07-14T12:58:27.426Z</updated>
+        <content type="html"><![CDATA[Z punktu widzenia funkcjonariuszy Służby Bezpieczeństwa Ukrainy (SBU) wszystko wskazywało na nielegalną plantację marihuany – duże zapotrzebowanie na prąd, liczniki energii elektrycznej, które nie pokazywały rzeczywistego zużycia energii, a także nietypowa lokalizacja – opuszczony magazyn, należący niegdyś do JSC Vinnytsiaoblenerho. Jak się jednak okazało, mieszkańcy Kijowa i Winnicy postawili na…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Najciemniej jest pod latarnią, czyli zdalne wykonanie kodu w Microsoft Defenderze (CVE-2021-31985)]]></title>
+        <id>https://sekurak.pl/najciemniej-jest-pod-latarnia-czyli-zdalne-wykonanie-kodu-w-microsoft-defenderze-cve-2021-31985/</id>
+        <link href="https://sekurak.pl/najciemniej-jest-pod-latarnia-czyli-zdalne-wykonanie-kodu-w-microsoft-defenderze-cve-2021-31985/"/>
+        <updated>2021-07-14T12:58:27.428Z</updated>
+        <content type="html"><![CDATA[Ten przypadek idealnie wpasowuje się w powiedzenie, że najciemniej jest pod latarnią. Badacz bezpieczeństwa Tavis Ormandy odkrył błąd pozwalający na zdalne wykonanie kodu we flagowym antywirusie Microsoft Defender: Według raportu słabym punktem Defendera jest kod do dekompresji i analizy tysięcy różnych formatów plików. Dlaczego? Bo antywirus wspiera setki rozmaitych formatów…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generowałeś automatycznie hasło w menadżerze haseł  od Kasperskiego? Lepiej je zmień…]]></title>
+        <id>https://sekurak.pl/generowales-automatycznie-haslo-w-menadzerze-hasel-od-kasperskiego-lepiej-je-zmien/</id>
+        <link href="https://sekurak.pl/generowales-automatycznie-haslo-w-menadzerze-hasel-od-kasperskiego-lepiej-je-zmien/"/>
+        <updated>2021-07-14T12:58:27.429Z</updated>
+        <content type="html"><![CDATA[Menedżer haseł od rosyjskiej firmy Kaspersky jest stosunkowo intuicyjny i jak większość podobnych produktów pozwala przechowywać, synchronizować i generować hasła do aplikacji. Jeden z badaczy odkrył prosty, ale poważny błąd w ostatniej z wymienionych funkcji i zgłosił go za pośrednictwem HackerOne. Generowanie hasła odbywało się z wykorzystaniem aktualnego czasu w…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zostań web security masterem – możliwość dostania ebooka i zniżka na trzy szkolenia Sekuraka]]></title>
+        <id>https://sekurak.pl/zostan-web-security-masterem-mozliwosc-dostania-ebooka-i-znizka-na-trzy-szkolenia-sekuraka/</id>
+        <link href="https://sekurak.pl/zostan-web-security-masterem-mozliwosc-dostania-ebooka-i-znizka-na-trzy-szkolenia-sekuraka/"/>
+        <updated>2021-07-14T12:58:27.430Z</updated>
+        <content type="html"><![CDATA[Checie dostać za darmo ebook naszej książki „Bezpieczeństwo aplikacji webowych”? Dla pierwszych trzech osób, które zapiszą się na wszystkie trzy szkolenia z nowej serii sekuraka „Websecurity master” ebook naszej książki wysyłamy gratis! Seria „Websecurity master” to prawdziwa merytoryczna bomba w zakresie takich tematów jak uwierzytelnianie, autoryzacja, bezpieczeństwo JWT, nowoczesne mechanizmy…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adversarial octopus, czyli atak na systemy rozpoznawania twarzy oparte na AI]]></title>
+        <id>https://sekurak.pl/adversarial-octopus-czyli-atak-na-systemy-rozpoznawania-twarzy-oparte-na-ai/</id>
+        <link href="https://sekurak.pl/adversarial-octopus-czyli-atak-na-systemy-rozpoznawania-twarzy-oparte-na-ai/"/>
+        <updated>2021-07-14T12:58:27.431Z</updated>
+        <content type="html"><![CDATA[Jakiś czas temu badacze z firmy Adversa zaprezentowali dość ciekawą technikę ataku na systemy rozpoznawania twarzy: Adversarial octopus pozwala na podszywanie się pod wybraną przez nas ofiarę wobec systemów rozpoznawania twarzy opartych na sztucznej inteligencji. Dzieje się tak ze względu na niedoskonałości algorytmów rozpoznawania twarzy. Ten rodzaj ataku może zostać…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft wypuścił łatkę do krytycznej podatności PrintNightmare (CVE-2021-34527)]]></title>
+        <id>https://sekurak.pl/microsoft-wypuscil-latke-do-krytycznej-podatnosci-printnightmare-cve-2021-34527/</id>
+        <link href="https://sekurak.pl/microsoft-wypuscil-latke-do-krytycznej-podatnosci-printnightmare-cve-2021-34527/"/>
+        <updated>2021-07-14T12:58:27.432Z</updated>
+        <content type="html"><![CDATA[Jakiś czas temu pisaliśmy o podatności w Windows Print Spooler (CVE-2021-1675), która okazała się krytyczną luką, pozwalającą zarówno na zdalne wykonanie kodu, jak i na eskalację uprawnień na systemach Windows: Nie pomogła również wpadka badaczy bezpieczeństwa, którzy przez przypadek opublikowali POC oraz szczegółowe objaśnienie podatności: Choć repozytorium zostało dość szybko…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irlandzki sąd nakazał serwisowi VirusTotal udostępnienie informacji o osobach, które pobrały dane wykradzione z HSE]]></title>
+        <id>https://sekurak.pl/irlandzki-sad-nakazal-serwisowi-virustotal-udostepnienie-informacji-o-osobach-ktore-pobraly-dane-wykradzione-z-hse/</id>
+        <link href="https://sekurak.pl/irlandzki-sad-nakazal-serwisowi-virustotal-udostepnienie-informacji-o-osobach-ktore-pobraly-dane-wykradzione-z-hse/"/>
+        <updated>2021-07-14T12:58:27.433Z</updated>
+        <content type="html"><![CDATA[Jakiś czas temu pisaliśmy o ataku ransomware’a Conti na szereg szpitali i klinik na terenie Irlandii: W ramach modelu podwójnego wymuszenia (double extortion) przestępcy wykradli również 700 GB danych, zawierających między innymi informacje o pacjentach i pracownikach, umowach czy sprawozdaniach finansowych.&nbsp; Nie jest tajemnicą fakt, że operatorzy ransomware zazwyczaj oferują…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jak ransomware dostaje się do firm? Publikujemy nasze ~2.5-godzinne szkolenie]]></title>
+        <id>https://sekurak.pl/jak-ransomware-dostaje-sie-do-firm-publikujemy-nasze-2-5-godzinne-szkolenie/</id>
+        <link href="https://sekurak.pl/jak-ransomware-dostaje-sie-do-firm-publikujemy-nasze-2-5-godzinne-szkolenie/"/>
+        <updated>2021-07-14T12:58:27.435Z</updated>
+        <content type="html"><![CDATA[Prowadzi Michał Sajdak oraz Grzegorz Tworek. Na początek trochę teorii, później sporo praktyki (głównie jeśli chodzi o bezpieczeństwo Windows). Miłego oglądania: –ms]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wykonaliśmy testy penetracyjne Protonmaila – zobaczcie publiczny raport]]></title>
+        <id>https://sekurak.pl/wykonalismy-testy-penetracyjne-protonmaila-zobaczcie-publiczny-raport/</id>
+        <link href="https://sekurak.pl/wykonalismy-testy-penetracyjne-protonmaila-zobaczcie-publiczny-raport/"/>
+        <updated>2021-07-14T12:58:27.439Z</updated>
+        <content type="html"><![CDATA[Na zlecenie Protonmaila wykonaliśmy testy bezpieczeństwa Protonmaila :) Dokładny zakres opisujemy w przeszło 40-stronicowym raporcie. Oczywiście jeśli chcielibyście zlecić tego typu prace dla Waszych systemów czy aplikacji – kontaktujcie się na securitum@securitum.pl –ms]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[800 sklepów sieci supermarketów Coop dotkniętych atakiem ransomware’owym REvil]]></title>
+        <id>https://sekurak.pl/800-sklepow-sieci-supermarketow-coop-dotknietych-atakiem-ransomwareowym-revil/</id>
+        <link href="https://sekurak.pl/800-sklepow-sieci-supermarketow-coop-dotknietych-atakiem-ransomwareowym-revil/"/>
+        <updated>2021-07-14T12:58:27.441Z</updated>
+        <content type="html"><![CDATA[Kilka dni temu informowaliśmy o ataku na firmę Kaseya, która dostarcza oprogramowanie do zarządzania IT. Jak wynika z doniesień huntresslabs, cyberprzestępcy wykorzystali błędy logiki biznesowej i SQL injection we flagowym produkcie firmy – Kaseya VSA: Choć wieści o poszkodowanych firmach będą na bieżąco wypływać do opinii publicznej, to już teraz…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ogromny incydent ransomware trwa. Wg doniesień: zaszyfrowanych milion serwerów i PCtów, ~315 000 000 PLN okupu!]]></title>
+        <id>https://sekurak.pl/ogromny-incydent-ransomware-trwa-wg-doniesien-zaszyfrowanych-milion-serwerow-i-pctow-315-000-000-pln-okupu/</id>
+        <link href="https://sekurak.pl/ogromny-incydent-ransomware-trwa-wg-doniesien-zaszyfrowanych-milion-serwerow-i-pctow-315-000-000-pln-okupu/"/>
+        <updated>2021-07-14T12:58:27.443Z</updated>
+        <content type="html"><![CDATA[Wszystko to za sprawą akcji Revila, o której pisaliśmy niedawno. Grupa ransomware oferuje hurtowy zakup dekryptora za „jedyne” $70 000 000: Tymczasem mowa jest o przeszło tysiącu zaszyfrowanych firm; wiele organizacji o temacie zapewne dowie się dopiero dzisiaj (napastnicy uderzyli w piątek po południu). Jeśli chcesz nieco więcej dowiedzieć się…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[200 firm właśnie zostało zaszyfrowanych.   Wg doniesień – przyczyną jest złośliwa aktualizacja oprogramowania Kaseya.]]></title>
+        <id>https://sekurak.pl/200-firm-wlasnie-zostalo-zaszyfrowanych-wg-doniesien-przyczyna-jest-zlosliwa-aktualizacja-oprogramowania-kaseya/</id>
+        <link href="https://sekurak.pl/200-firm-wlasnie-zostalo-zaszyfrowanych-wg-doniesien-przyczyna-jest-zlosliwa-aktualizacja-oprogramowania-kaseya/"/>
+        <updated>2021-07-14T12:58:27.443Z</updated>
+        <content type="html"><![CDATA[Jeszcze wiele o incydencie nie można napisać, ale zobaczcie ten wątek na Reddicie. Prawdopodobnie w pewien sposób udało się operatorom ransomware (Revil) zainfekować aktualizację oprogramowania Kaseya: Kaseya wydała na gorąco takie oświadczenie: We are in the process of investigating the root cause of the incident with an abundance of caution…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft ostrzega przed podatnościami w oprogramowaniu routerów NETGEAR]]></title>
+        <id>https://sekurak.pl/microsoft-ostrzega-przed-podatnosciami-w-oprogramowaniu-routerow-netgear/</id>
+        <link href="https://sekurak.pl/microsoft-ostrzega-przed-podatnosciami-w-oprogramowaniu-routerow-netgear/"/>
+        <updated>2021-07-14T12:58:27.444Z</updated>
+        <content type="html"><![CDATA[Tym razem Microsoft ostrzega przed podatnościami w routerach z serii NETGEAR DGN-2200v1: Badacze odkryli trywialny błąd, pozwalający na ominięcie uwierzytelniania – wystarczy dodać “?.gif” w zapytaniu GET do interesującej nas strony (np. pliku konfiguracyjnego): Aby uzyskać login i hasło używane przez router, wystarczyło wysłać zapytanie http://router_addr:8080/NETGEAR_DGN2200.cfg?pic.gif Testerzy bezpieczeństwa musieli zmierzyć…]]></content>
+    </entry>
+</feed>
