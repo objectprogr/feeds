@@ -29,3 +29,11 @@ entrySelector = "#site-content > article"
 titleSelector = "h2"
 linkSelector = "h2 a"
 contentSelector = ".entry-content"
+
+[sekurak]
+title = "Sekurak"
+url = "https://sekurak.pl/?cat=7,3"
+entrySelector = "#content > .post"
+titleSelector = ".postTitle"
+linkSelector = ".postTitle a"
+contentSelector = ".entry > p"
