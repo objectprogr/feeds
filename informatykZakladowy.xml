@@ -1,193 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://objectprogr.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-07-14T12:49:36.470Z</updated>
+    <id>https://informatykzakladowy.pl/</id>
+    <title>Informatyk zakladowu</title>
+    <updated>2021-07-14T12:49:36.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://informatykzakladowy.pl/wp-content/uploads/2020/01/glowka500-150x150.jpg</icon>
     <entry>
-        <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/wszystko-o-portalu-samorzadgovpl</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/wszystko-o-portalu-samorzadgovpl"/>
-        <updated>2021-07-13T11:31:09.083Z</updated>
-        <content type="html"><![CDATA[Krok po kroku, jak przystąpić do projektu (Grudzień 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberbezpieczne usługi chmurowe dla administracji publicznej - Poradnik PRCyber-05 (Cyberbezpieczny samorzad)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczne-uslugi-chmurowe-dla-administracji-publicznej---poradnik-prcyber-05</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/cyberbezpieczne-uslugi-chmurowe-dla-administracji-publicznej---poradnik-prcyber-05"/>
-        <updated>2021-07-13T11:31:09.084Z</updated>
-        <content type="html"><![CDATA[Środowisko informatyczne dostarczające usługi chmurowe oraz infrastrukturę IT za pośrednictwem Internetu (Listopad 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak sobie radzić ze skutkami ataków typu ransomware? – Poradnik PRCyber-04 (Cyberbezpieczny samorzad)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/jak-sobie-radzic-ze-skutkami-atakow-typu-ransomware---poradnik--prcyber-04</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/jak-sobie-radzic-ze-skutkami-atakow-typu-ransomware---poradnik--prcyber-04"/>
-        <updated>2021-07-13T11:31:09.085Z</updated>
-        <content type="html"><![CDATA[Ograniczenie skutków ataków typu ransomware (Sierpień 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak zapobiegać atakom typu ransomware? – Poradnik PRCyber-03 (Cyberbezpieczny samorzad)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/jak-zapobiegac-atakom-typu-ransomware--poradnik-prcyber-03</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/jak-zapobiegac-atakom-typu-ransomware--poradnik-prcyber-03"/>
-        <updated>2021-07-13T11:31:09.087Z</updated>
-        <content type="html"><![CDATA[Wskazówki dotyczące zabezpieczeń przed szkodliwym oprogramowaniem (Lipiec 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ochrona informacji w cyberprzestrzeni - Poradnik PRCyber-01 (Cyberbezpieczny samorzad)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/poradnik--prcyber-01</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/poradnik--prcyber-01"/>
-        <updated>2021-07-13T11:31:09.088Z</updated>
-        <content type="html"><![CDATA[Cyberbezpieczeństwo – jak chronić nasze informacje przed atakami w cyberprzestrzeni? (Maj 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zgłaszanie incydentów - Poradnik PRCyber-02 (Cyberbezpieczny samorzad)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/poradnik--prcyber-02</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/poradnik--prcyber-02"/>
-        <updated>2021-07-13T11:31:09.089Z</updated>
-        <content type="html"><![CDATA[Zgłaszanie incydentów przez jednostki samorządu terytorialnego (Maj 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subskrypcja cyberwiadomości (Cyberbezpieczny samorzad)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/subskrypcja-cyber-wiadomosci</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/subskrypcja-cyber-wiadomosci"/>
-        <updated>2021-07-13T11:31:09.091Z</updated>
-        <content type="html"><![CDATA[Formularz subskrypcji wiadomości z adresu CyberJST@mc.gov.pl (Czerwiec 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bezpieczni w mediach społecznościowych – poradnik (Cyberhigiena - dla kazdego)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/bezpieczni-w-mediach-spolecznosciowych--praktyczne-wskazowki</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/bezpieczni-w-mediach-spolecznosciowych--praktyczne-wskazowki"/>
-        <updated>2021-07-13T11:36:01.556Z</updated>
-        <content type="html"><![CDATA[W poradniku znajdują się wskazówki jak unikać włamań na konta w mediach społecznościowych oraz inne porady dotyczące cyberbezpieczeństwa. (Styczeń 2021 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Media społecznościowe. Jak bezpiecznie z nich korzystać? (Cyberhigiena - dla kazdego)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/media-spolecznosciowe-jak-bezpiecznie-z-nich-korzystac</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/media-spolecznosciowe-jak-bezpiecznie-z-nich-korzystac"/>
-        <updated>2021-07-13T11:36:01.558Z</updated>
-        <content type="html"><![CDATA[Aby zarządzać swoimi cyfrowymi śladami, użyj ustawień prywatności na różnych platformach społecznościowych.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Korzystanie z urządzeń mobilnych (Cyberhigiena - dla kazdego)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/korzystanie-z-urzadzen-mobilnych</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/korzystanie-z-urzadzen-mobilnych"/>
-        <updated>2021-07-13T11:36:01.564Z</updated>
-        <content type="html"><![CDATA[Smartfony, laptopy, tablety – towarzyszą nam dzisiaj praktycznie na każdym kroku. Dlatego warto jest zadbać o bezpieczeństwo danych podczas korzystania z tych urządzeń.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Czym jest PHISHING i jak nie dać się nabrać na podejrzane wiadomości e-mail oraz SMS-y? (Cyberhigiena - dla kazdego)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/czym-jest-phishing-i-jak-nie-dac-sie-nabrac-na-podejrzane-widomosci-e-mail-oraz-sms-y</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/czym-jest-phishing-i-jak-nie-dac-sie-nabrac-na-podejrzane-widomosci-e-mail-oraz-sms-y"/>
-        <updated>2021-07-13T11:36:01.564Z</updated>
-        <content type="html"><![CDATA[Do oszustw w cyberprzestrzeni wykorzystywane są przede wszystkim ataki typu phishing!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak utworzyć bezpieczne hasło - wskazówki. (Cyberhigiena - dla kazdego)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/jak-tworzyc-bezpieczne-hasla</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/jak-tworzyc-bezpieczne-hasla"/>
-        <updated>2021-07-13T11:36:01.565Z</updated>
-        <content type="html"><![CDATA[Hasła są jednym z podstawowych sposobów, w jaki możemy udowodnić, kim jesteśmy. Używanie silnych haseł jest niezbędne aby chronić swoją tożsamość oraz informacje.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konfigurowanie uwierzytelniania dwuskładnikowego (2FA) (Cyberhigiena - dla kazdego)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/konfigurowanie-uwierzytelniania-dwuskladnikowego-2fa</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/konfigurowanie-uwierzytelniania-dwuskladnikowego-2fa"/>
-        <updated>2021-07-13T11:36:01.565Z</updated>
-        <content type="html"><![CDATA[Uwierzytelnienie dwuskładnikowe (ang. Two Factor Authenticaton, 2FA) może pomóc chronić twoje konta internetowe.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zakupy online - jak nie dać się oszukać? (Cyberhigiena - dla kazdego)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/zakupy-online---jak-nie-dac-sie-oszukac</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/zakupy-online---jak-nie-dac-sie-oszukac"/>
-        <updated>2021-07-13T11:36:01.566Z</updated>
-        <content type="html"><![CDATA[Chcesz, żeby zakupy on-line były nie tylko szybkie i wygodne, ale także bezpieczne? Poznaj podstawowe zasady bezpiecznych zakupów.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E-usługi publiczne (Cyberhigiena - dla kazdego)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/e-uslugi-publiczne</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/e-uslugi-publiczne"/>
-        <updated>2021-07-13T11:36:01.568Z</updated>
-        <content type="html"><![CDATA[Polscy obywatele mogą korzystać z kilkuset e-usług publicznych zlokalizowanych na różnych platformach i portalach rządowych.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zgłaszanie nielegalnych treści (Cyberhigiena - dla kazdego)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/zglaszanie-nielegalnych-tresci</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/zglaszanie-nielegalnych-tresci"/>
-        <updated>2021-07-13T11:36:01.569Z</updated>
-        <content type="html"><![CDATA[Reaguj, gdy widzisz niestosowne treści w sieci. Zespół Dyzurnet.pl podejmuje działania na rzecz tworzenia bezpiecznego Internetu.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rozpoznawanie nieprawdziwych informacji (Cyberhigiena - dla kazdego)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/rozpoznawanie-nieprawdziwych-informacji</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/rozpoznawanie-nieprawdziwych-informacji"/>
-        <updated>2021-07-13T11:36:01.570Z</updated>
-        <content type="html"><![CDATA[Fake newsy – wpisy, wiadomości, kanały informacyjne, w których przekazywane dane okazują się nieprawdziwe lub przeinaczone.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rekomendacje cyberbezpieczeństwa dla sektora wodno-kanalizacyjnego - R-CYBER-1/2021 (Dla profesjonalistow)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/rekomendacje-cyberbezpieczenstwa-dla-sektora-wodno-kanalizacyjnego---r-cyber-12021-</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/rekomendacje-cyberbezpieczenstwa-dla-sektora-wodno-kanalizacyjnego---r-cyber-12021-"/>
-        <updated>2021-07-13T11:36:00.557Z</updated>
-        <content type="html"><![CDATA[Zestaw zaleceń bezpieczeństwa podnoszących odporność przemysłowych systemów sterowania w obiektach świadczących usługi wodno-kanalizacyjne (Luty 2021 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Przedsiębiorco, zadbaj o bezpieczeństwo (Dla profesjonalistow)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/przedsiebiorco-zadbaj-o-bezpieczenstwo</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/przedsiebiorco-zadbaj-o-bezpieczenstwo"/>
-        <updated>2021-07-13T11:36:00.568Z</updated>
-        <content type="html"><![CDATA[Niezależnie od tego, czym się zajmujesz i ile osób zatrudniasz, jeśli w swojej firmie wykorzystujesz choćby jeden komputer lub używasz poczty elektronicznej - musisz pamiętać o cyberbezpieczeństwie. O czym konkretnie? Podpowiadamy. (Listopad 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Szablony sprawozdań z audytu dla operatorów usług kluczowych (Dla profesjonalistow)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/szablony-audytu-dla-operatorow-uslug-kluczowych</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/szablony-audytu-dla-operatorow-uslug-kluczowych"/>
-        <updated>2021-07-13T11:36:00.569Z</updated>
-        <content type="html"><![CDATA[Wzory szablonów sprawozdań z audytu bezpieczeństwa systemu informacyjnego zgodne z ustawą o krajowym systemie cyberbezpieczeństwa (Październik 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wprowadzenie podstawowych zasad zabezpieczeń na stacji roboczej z systemem Windows 10 (Dla profesjonalistow)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/wprowadzenie-podstawowych-zasad-zabezpieczen-na-stacji-roboczej-z-systemem-windows-10</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/wprowadzenie-podstawowych-zasad-zabezpieczen-na-stacji-roboczej-z-systemem-windows-10"/>
-        <updated>2021-07-13T11:36:00.570Z</updated>
-        <content type="html"><![CDATA[Komputery stacjonarne, czy służbowe laptopy coraz częściej narażone są na incydenty bezpieczeństwa (Maj 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Praca zdalna - razem, ale osobno (Dla profesjonalistow)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/praca-zdalna---razem-ale-osobno</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/praca-zdalna---razem-ale-osobno"/>
-        <updated>2021-07-13T11:36:00.571Z</updated>
-        <content type="html"><![CDATA[Praca zdalna to nie urlop czy wypoczynek, ale praca. Tyle, że w domu (Maj 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zaawansowane metody tworzenia, stosowania i przechowywania bezpiecznych haseł (Dla profesjonalistow)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/zaawansowane-metody-tworzenia-stosowania-i-przechowywania-bezpiecznych-hasel</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/zaawansowane-metody-tworzenia-stosowania-i-przechowywania-bezpiecznych-hasel"/>
-        <updated>2021-07-13T11:36:00.572Z</updated>
-        <content type="html"><![CDATA[Dodatkowe porady dla bardziej zaawansowanych (Maj 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poradnik dla nauczycieli – PR-EDU-01 (Dla profesjonalistow)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/poradnik-dla-nauczycieli--pr-edu-01--bezpieczne-korzystanie-z-platform-do-zdalnej-edukacji-kwiecien-2020</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/poradnik-dla-nauczycieli--pr-edu-01--bezpieczne-korzystanie-z-platform-do-zdalnej-edukacji-kwiecien-2020"/>
-        <updated>2021-07-13T11:36:00.574Z</updated>
-        <content type="html"><![CDATA[Bezpieczne korzystanie z platform do zdalnej edukacji (Kwiecień 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poradnik – zgłaszanie incydentów cyberbezpieczeństwa przez podmioty sektora ochrony zdrowia (Dla profesjonalistow)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/poradnik--zglaszanie-incydentow-cyberbezpieczenstwa-przez-podmioty-sektora-ochrony-zdrowia-kwiecien-2020-r</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/poradnik--zglaszanie-incydentow-cyberbezpieczenstwa-przez-podmioty-sektora-ochrony-zdrowia-kwiecien-2020-r"/>
-        <updated>2021-07-13T11:36:00.576Z</updated>
-        <content type="html"><![CDATA[Poradnik informujący krok po kroku w jaki sposób i gdzie należy zgłaszać incydenty cyberbezpieczeństwa (Kwiecień 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poradnik – rekomendacje cyberbezpieczeństwa dla podmiotów sektora ochrony zdrowia (Dla profesjonalistow)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/poradnik---rekomendacje-cyberbezpieczenstwa-dla-podmiotow-sektora-ochrony-zdrowia-kwiecien-2020-r</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/poradnik---rekomendacje-cyberbezpieczenstwa-dla-podmiotow-sektora-ochrony-zdrowia-kwiecien-2020-r"/>
-        <updated>2021-07-13T11:36:00.578Z</updated>
-        <content type="html"><![CDATA[Zestaw rekomendowanych minimalnych środków przeciwdziałających skutkom incydentu cyberbezpieczeństwa (Kwiecień 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No code, no woman, no cry (Informatyk zakladowu)]]></title>
+        <title type="html"><![CDATA[No code, no woman, no cry]]></title>
         <id>https://informatykzakladowy.pl/no-code-no-woman-no-cry/</id>
         <link href="https://informatykzakladowy.pl/no-code-no-woman-no-cry/"/>
         <updated>2021-07-14T12:49:35.671Z</updated>
@@ -202,7 +21,7 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/no-code-no-woman-no-cry/#more-2600" class="more-link"><span class="faux-button">Kontynuuj czytanie</span> <span class="screen-reader-text">„No code, no woman, no cry”</span></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nie płać za kurs programowania (Informatyk zakladowu)]]></title>
+        <title type="html"><![CDATA[Nie płać za kurs programowania]]></title>
         <id>https://informatykzakladowy.pl/nie-plac-za-kurs-programowania/</id>
         <link href="https://informatykzakladowy.pl/nie-plac-za-kurs-programowania/"/>
         <updated>2021-07-14T12:49:35.671Z</updated>
@@ -221,7 +40,7 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/nie-plac-za-kurs-programowania/#more-2585" class="more-link"><span class="faux-button">Kontynuuj czytanie</span> <span class="screen-reader-text">„Nie płać za kurs programowania”</span></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Co zawierają QR-kody w Unijnym Certyfikacie Covid i jak to sprawdzić? (Informatyk zakladowu)]]></title>
+        <title type="html"><![CDATA[Co zawierają QR-kody w Unijnym Certyfikacie Covid i jak to sprawdzić?]]></title>
         <id>https://informatykzakladowy.pl/co-zawieraja-qr-kody-w-unijnym-certyfikacie-covid-i-jak-to-sprawdzic/</id>
         <link href="https://informatykzakladowy.pl/co-zawieraja-qr-kody-w-unijnym-certyfikacie-covid-i-jak-to-sprawdzic/"/>
         <updated>2021-07-14T12:49:35.674Z</updated>
@@ -236,7 +55,7 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/co-zawieraja-qr-kody-w-unijnym-certyfikacie-covid-i-jak-to-sprawdzic/#more-2541" class="more-link"><span class="faux-button">Kontynuuj czytanie</span> <span class="screen-reader-text">„Co zawierają QR-kody w Unijnym Certyfikacie Covid i jak to sprawdzić?”</span></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Analiza popularności serwisu Albicla (Informatyk zakladowu)]]></title>
+        <title type="html"><![CDATA[Analiza popularności serwisu Albicla]]></title>
         <id>https://informatykzakladowy.pl/analiza-popularnosci-serwisu-albicla/</id>
         <link href="https://informatykzakladowy.pl/analiza-popularnosci-serwisu-albicla/"/>
         <updated>2021-07-14T12:49:35.675Z</updated>
@@ -251,7 +70,7 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/analiza-popularnosci-serwisu-albicla/#more-2472" class="more-link"><span class="faux-button">Kontynuuj czytanie</span> <span class="screen-reader-text">„Analiza popularności serwisu Albicla”</span></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laptop w roli drugiego monitora (Informatyk zakladowu)]]></title>
+        <title type="html"><![CDATA[Laptop w roli drugiego monitora]]></title>
         <id>https://informatykzakladowy.pl/laptop-w-roli-drugiego-monitora/</id>
         <link href="https://informatykzakladowy.pl/laptop-w-roli-drugiego-monitora/"/>
         <updated>2021-07-14T12:49:35.676Z</updated>
@@ -266,7 +85,7 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/laptop-w-roli-drugiego-monitora/#more-2436" class="more-link"><span class="faux-button">Kontynuuj czytanie</span> <span class="screen-reader-text">„Laptop w roli drugiego monitora”</span></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gawęda od zaplecza czyli domowe studio nagrań (Informatyk zakladowu)]]></title>
+        <title type="html"><![CDATA[Gawęda od zaplecza czyli domowe studio nagrań]]></title>
         <id>https://informatykzakladowy.pl/gaweda-od-zaplecza-czyli-domowe-studio-nagran/</id>
         <link href="https://informatykzakladowy.pl/gaweda-od-zaplecza-czyli-domowe-studio-nagran/"/>
         <updated>2021-07-14T12:49:35.677Z</updated>
@@ -281,7 +100,7 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/gaweda-od-zaplecza-czyli-domowe-studio-nagran/#more-2406" class="more-link"><span class="faux-button">Kontynuuj czytanie</span> <span class="screen-reader-text">„Gawęda od zaplecza czyli domowe studio nagrań”</span></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zaproszenie na gawędę o Ethereum – piątek 21.05.2021, 20:00 (Informatyk zakladowu)]]></title>
+        <title type="html"><![CDATA[Zaproszenie na gawędę o Ethereum – piątek 21.05.2021, 20:00]]></title>
         <id>https://informatykzakladowy.pl/zaproszenie-na-gawede-o-ethereum/</id>
         <link href="https://informatykzakladowy.pl/zaproszenie-na-gawede-o-ethereum/"/>
         <updated>2021-07-14T12:49:35.681Z</updated>
@@ -308,7 +127,7 @@
 <p>Nagranie będzie dostępne, natomiast plusem uczestnictwa w transmisji na żywo jest możliwość zadawania pytań (link do Slido pojawi się na początku gawędy). Uwaga – do zrozumienia materiału z części drugiej trzeba ogarniać treści z <a href="https://www.youtube.com/watch?v=IVEug1rk0rU">części pierwszej</a>, nie będę ponownie wyjaśniał tam wprowadzonych koncepcji. Pozostałe ciekawe zagadnienia – jak ICO, NFT, Proof of Stake, anonimowość czy shitcoiny – pojawią się w części trzeciej.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ministerstwo zawarło umowę z Twitterem nawet, gdy o tym nie wie (Informatyk zakladowu)]]></title>
+        <title type="html"><![CDATA[Ministerstwo zawarło umowę z Twitterem nawet, gdy o tym nie wie]]></title>
         <id>https://informatykzakladowy.pl/ministerstwo-zawarlo-umowe-z-twitterem-nawet-gdy-o-tym-nie-wie/</id>
         <link href="https://informatykzakladowy.pl/ministerstwo-zawarlo-umowe-z-twitterem-nawet-gdy-o-tym-nie-wie/"/>
         <updated>2021-07-14T12:49:35.685Z</updated>
@@ -327,7 +146,7 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/ministerstwo-zawarlo-umowe-z-twitterem-nawet-gdy-o-tym-nie-wie/#more-2371" class="more-link"><span class="faux-button">Kontynuuj czytanie</span> <span class="screen-reader-text">„Ministerstwo zawarło umowę z Twitterem nawet, gdy o tym nie wie”</span></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia (Informatyk zakladowu)]]></title>
+        <title type="html"><![CDATA[NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia]]></title>
         <id>https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/</id>
         <link href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/"/>
         <updated>2021-07-14T12:49:35.686Z</updated>
@@ -346,7 +165,7 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/#more-2361" class="more-link"><span class="faux-button">Kontynuuj czytanie</span> <span class="screen-reader-text">„NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia”</span></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Co nowego w Google Family Link (Informatyk zakladowu)]]></title>
+        <title type="html"><![CDATA[Co nowego w Google Family Link]]></title>
         <id>https://informatykzakladowy.pl/co-nowego-w-google-family-link/</id>
         <link href="https://informatykzakladowy.pl/co-nowego-w-google-family-link/"/>
         <updated>2021-07-14T12:49:35.686Z</updated>
