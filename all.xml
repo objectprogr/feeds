@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-15T05:34:05.218Z</updated>
+    <updated>2021-07-15T09:02:41.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -361,6 +361,27 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/co-nowego-w-google-family-link/#more-2340" class="more-link"><span class="faux-button">Kontynuuj czytanie</span> <span class="screen-reader-text">„Co nowego w Google Family Link”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kuba: blackout Internetu i blokada mediów społecznościowych w trakcie antyrządowych protestów (Sekurak)]]></title>
+        <id>https://sekurak.pl/kuba-blackout-internetu-i-blokada-mediow-spolecznosciowych-w-trakcie-antyrzadowych-protestow/</id>
+        <link href="https://sekurak.pl/kuba-blackout-internetu-i-blokada-mediow-spolecznosciowych-w-trakcie-antyrzadowych-protestow/"/>
+        <updated>2021-07-15T09:02:40.919Z</updated>
+        <content type="html"><![CDATA[O tym, jak wielką siłę przebicia ma Internet, możemy przekonać się, obserwując działania współczesnej dyktatury na Kubie, która w ramach walki z trwającymi w całym kraju protestami postanowiła między innymi ograniczyć dostęp do Sieci: To jednak nie jedyna „atrakcja” przygotowana dla protestujących. Firma NetBlocks poinformowała, że główny dostawca usług telekomunikacyjnych…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chińscy hakerzy wykorzystują exploit 0-day w SolarWinds Serv-U do atakowania podmiotów z sektora amerykańskiego przemysłu zbrojeniowego (Sekurak)]]></title>
+        <id>https://sekurak.pl/chinscy-hakerzy-wykorzystuja-exploit-0-day-w-solarwinds-serv-u-do-atakowania-podmiotow-z-sektora-amerykanskiego-przemyslu-zbrojeniowego/</id>
+        <link href="https://sekurak.pl/chinscy-hakerzy-wykorzystuja-exploit-0-day-w-solarwinds-serv-u-do-atakowania-podmiotow-z-sektora-amerykanskiego-przemyslu-zbrojeniowego/"/>
+        <updated>2021-07-15T09:02:40.919Z</updated>
+        <content type="html"><![CDATA[Kilka dni temu firma SolarWinds wydała łatkę do oprogramowania Serv-U Managed File Transfer Server oraz Serv-U Secured FTP. Podatność objęta poprawką pozwalała na zdalne wykonanie kodu: W biuletynie informacyjnym można znaleźć również informację o tym, że luka była wykorzystywana w atakach na wąską grupę użytkowników Serv-U: Nieco więcej możemy dowiedzieć…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podmienione komunikaty na irańskich dworcach (Sekurak)]]></title>
+        <id>https://sekurak.pl/podmienione-komunikaty-na-iranskich-dworcach/</id>
+        <link href="https://sekurak.pl/podmienione-komunikaty-na-iranskich-dworcach/"/>
+        <updated>2021-07-15T09:02:40.922Z</updated>
+        <content type="html"><![CDATA[Techniczne skutki ataku na irańskie koleje nie są szczególnie istotne: A notice on electronic boards at stations asked travelers to call a number which in fact belonged to the office of Supreme Leader Ayatollah Ali Khamenei, IRIB and the semi-official news agency Fars said. Atakujący zamieszczali informacje o rzekomych opóźnieniach….]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Uwierzytelnianie/autoryzacja – co może pójść nie tak? Jak temu zapobiec? (Sekurak)]]></title>
         <id>https://sekurak.pl/uwierzytelnianie-autoryzacja-co-moze-pojsc-nie-tak-jak-temu-zapobiec/</id>
         <link href="https://sekurak.pl/uwierzytelnianie-autoryzacja-co-moze-pojsc-nie-tak-jak-temu-zapobiec/"/>
@@ -443,26 +464,5 @@
         <link href="https://sekurak.pl/800-sklepow-sieci-supermarketow-coop-dotknietych-atakiem-ransomwareowym-revil/"/>
         <updated>2021-07-14T12:58:27.441Z</updated>
         <content type="html"><![CDATA[Kilka dni temu informowaliśmy o ataku na firmę Kaseya, która dostarcza oprogramowanie do zarządzania IT. Jak wynika z doniesień huntresslabs, cyberprzestępcy wykorzystali błędy logiki biznesowej i SQL injection we flagowym produkcie firmy – Kaseya VSA: Choć wieści o poszkodowanych firmach będą na bieżąco wypływać do opinii publicznej, to już teraz…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ogromny incydent ransomware trwa. Wg doniesień: zaszyfrowanych milion serwerów i PCtów, ~315 000 000 PLN okupu! (Sekurak)]]></title>
-        <id>https://sekurak.pl/ogromny-incydent-ransomware-trwa-wg-doniesien-zaszyfrowanych-milion-serwerow-i-pctow-315-000-000-pln-okupu/</id>
-        <link href="https://sekurak.pl/ogromny-incydent-ransomware-trwa-wg-doniesien-zaszyfrowanych-milion-serwerow-i-pctow-315-000-000-pln-okupu/"/>
-        <updated>2021-07-14T12:58:27.443Z</updated>
-        <content type="html"><![CDATA[Wszystko to za sprawą akcji Revila, o której pisaliśmy niedawno. Grupa ransomware oferuje hurtowy zakup dekryptora za „jedyne” $70 000 000: Tymczasem mowa jest o przeszło tysiącu zaszyfrowanych firm; wiele organizacji o temacie zapewne dowie się dopiero dzisiaj (napastnicy uderzyli w piątek po południu). Jeśli chcesz nieco więcej dowiedzieć się…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[200 firm właśnie zostało zaszyfrowanych.   Wg doniesień – przyczyną jest złośliwa aktualizacja oprogramowania Kaseya. (Sekurak)]]></title>
-        <id>https://sekurak.pl/200-firm-wlasnie-zostalo-zaszyfrowanych-wg-doniesien-przyczyna-jest-zlosliwa-aktualizacja-oprogramowania-kaseya/</id>
-        <link href="https://sekurak.pl/200-firm-wlasnie-zostalo-zaszyfrowanych-wg-doniesien-przyczyna-jest-zlosliwa-aktualizacja-oprogramowania-kaseya/"/>
-        <updated>2021-07-14T12:58:27.443Z</updated>
-        <content type="html"><![CDATA[Jeszcze wiele o incydencie nie można napisać, ale zobaczcie ten wątek na Reddicie. Prawdopodobnie w pewien sposób udało się operatorom ransomware (Revil) zainfekować aktualizację oprogramowania Kaseya: Kaseya wydała na gorąco takie oświadczenie: We are in the process of investigating the root cause of the incident with an abundance of caution…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft ostrzega przed podatnościami w oprogramowaniu routerów NETGEAR (Sekurak)]]></title>
-        <id>https://sekurak.pl/microsoft-ostrzega-przed-podatnosciami-w-oprogramowaniu-routerow-netgear/</id>
-        <link href="https://sekurak.pl/microsoft-ostrzega-przed-podatnosciami-w-oprogramowaniu-routerow-netgear/"/>
-        <updated>2021-07-14T12:58:27.444Z</updated>
-        <content type="html"><![CDATA[Tym razem Microsoft ostrzega przed podatnościami w routerach z serii NETGEAR DGN-2200v1: Badacze odkryli trywialny błąd, pozwalający na ominięcie uwierzytelniania – wystarczy dodać “?.gif” w zapytaniu GET do interesującej nas strony (np. pliku konfiguracyjnego): Aby uzyskać login i hasło używane przez router, wystarczyło wysłać zapytanie http://router_addr:8080/NETGEAR_DGN2200.cfg?pic.gif Testerzy bezpieczeństwa musieli zmierzyć…]]></content>
     </entry>
 </feed>
