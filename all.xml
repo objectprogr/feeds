@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-15T17:42:39.191Z</updated>
+    <updated>2021-07-16T05:34:06.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -361,6 +361,20 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/co-nowego-w-google-family-link/#more-2340" class="more-link"><span class="faux-button">Kontynuuj czytanie</span> <span class="screen-reader-text">„Co nowego w Google Family Link”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zdjęto kanały na Telegramie gdzie publikowano treści z włamania na konto min. Dworczyka (Sekurak)]]></title>
+        <id>https://sekurak.pl/zdjeto-kanal-na-telegramie-gdzie-publikowano-tresci-z-wlamania-na-konto-min-dworczyka/</id>
+        <link href="https://sekurak.pl/zdjeto-kanal-na-telegramie-gdzie-publikowano-tresci-z-wlamania-na-konto-min-dworczyka/"/>
+        <updated>2021-07-16T05:34:05.879Z</updated>
+        <content type="html"><![CDATA[Na razie udało nam się pozyskać dość lakoniczną informację: W wyniku działań podjętych przez KPRM, kanały na których publikowano treści pozyskane w wyniku włamań na skrzynki min. Dworczyka, zostały zablokowane. Procedura trwała około miesiąca, wymagała analizy prawnej i technologicznej. Początkowo zdejmowane były poszczególne wiadomości, na przykład te ze zdjęciami dowodu…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2021-22555: piętnastoletnia podatność w Linuksie, dająca eskalację uprawnień do root-a. Jest exploit. (Sekurak)]]></title>
+        <id>https://sekurak.pl/cve-2021-22555-pietnastoletnia-podatnosc-w-linuksie-dajaca-eskalacje-uprawnien-do-root-a-jest-exploit/</id>
+        <link href="https://sekurak.pl/cve-2021-22555-pietnastoletnia-podatnosc-w-linuksie-dajaca-eskalacje-uprawnien-do-root-a-jest-exploit/"/>
+        <updated>2021-07-16T05:34:05.880Z</updated>
+        <content type="html"><![CDATA[Ile jeszcze takich niespodzianek nas czeka? CVE-2021-22555 is a 15 years old heap out-of-bounds write vulnerability in Linux Netfilter that is powerful enough to bypass all modern security mitigations and achieve kernel code execution. Podatność (już załatana w kwietniu 2021) występuje w Netfilter i umożliwia sprawne uzyskanie uprawnień jądra z…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kuba: blackout Internetu i blokada mediów społecznościowych w trakcie antyrządowych protestów (Sekurak)]]></title>
         <id>https://sekurak.pl/kuba-blackout-internetu-i-blokada-mediow-spolecznosciowych-w-trakcie-antyrzadowych-protestow/</id>
         <link href="https://sekurak.pl/kuba-blackout-internetu-i-blokada-mediow-spolecznosciowych-w-trakcie-antyrzadowych-protestow/"/>
@@ -450,19 +464,5 @@
         <link href="https://sekurak.pl/jak-ransomware-dostaje-sie-do-firm-publikujemy-nasze-2-5-godzinne-szkolenie/"/>
         <updated>2021-07-14T12:58:27.435Z</updated>
         <content type="html"><![CDATA[Prowadzi Michał Sajdak oraz Grzegorz Tworek. Na początek trochę teorii, później sporo praktyki (głównie jeśli chodzi o bezpieczeństwo Windows). Miłego oglądania: –ms]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wykonaliśmy testy penetracyjne Protonmaila – zobaczcie publiczny raport (Sekurak)]]></title>
-        <id>https://sekurak.pl/wykonalismy-testy-penetracyjne-protonmaila-zobaczcie-publiczny-raport/</id>
-        <link href="https://sekurak.pl/wykonalismy-testy-penetracyjne-protonmaila-zobaczcie-publiczny-raport/"/>
-        <updated>2021-07-14T12:58:27.439Z</updated>
-        <content type="html"><![CDATA[Na zlecenie Protonmaila wykonaliśmy testy bezpieczeństwa Protonmaila :) Dokładny zakres opisujemy w przeszło 40-stronicowym raporcie. Oczywiście jeśli chcielibyście zlecić tego typu prace dla Waszych systemów czy aplikacji – kontaktujcie się na securitum@securitum.pl –ms]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[800 sklepów sieci supermarketów Coop dotkniętych atakiem ransomware’owym REvil (Sekurak)]]></title>
-        <id>https://sekurak.pl/800-sklepow-sieci-supermarketow-coop-dotknietych-atakiem-ransomwareowym-revil/</id>
-        <link href="https://sekurak.pl/800-sklepow-sieci-supermarketow-coop-dotknietych-atakiem-ransomwareowym-revil/"/>
-        <updated>2021-07-14T12:58:27.441Z</updated>
-        <content type="html"><![CDATA[Kilka dni temu informowaliśmy o ataku na firmę Kaseya, która dostarcza oprogramowanie do zarządzania IT. Jak wynika z doniesień huntresslabs, cyberprzestępcy wykorzystali błędy logiki biznesowej i SQL injection we flagowym produkcie firmy – Kaseya VSA: Choć wieści o poszkodowanych firmach będą na bieżąco wypływać do opinii publicznej, to już teraz…]]></content>
     </entry>
 </feed>
