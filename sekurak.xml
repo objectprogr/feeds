@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-07-19T05:33:57.999Z</updated>
+    <updated>2021-07-19T17:42:53.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[iPhone: zdalne wykonanie kodu bez interakcji z użytkownikiem, czyli niewinna luka z hotspotem „%p%s%s%s%s%n”]]></title>
+        <id>https://sekurak.pl/iphone-zdalne-wykonanie-kodu-bez-interakcji-z-uzytkownikiem-czyli-niewinna-luka-z-hotspotem-pssssn/</id>
+        <link href="https://sekurak.pl/iphone-zdalne-wykonanie-kodu-bez-interakcji-z-uzytkownikiem-czyli-niewinna-luka-z-hotspotem-pssssn/"/>
+        <updated>2021-07-19T17:42:52.706Z</updated>
+        <content type="html"><![CDATA[Jakiś czas temu pisaliśmy o ciekawym znalezisku badacza bezpieczeństwa Carla Schou: Dołączenie do hotspota o SSID „%p%s%s%s%s%n” sprawiało, że nasz iPhone nie był w stanie nawiązać połączenia z Wi-Fi, nawet jeśli został on ponownie uruchomiony lub gdy nazwa feralnego hotspota została zmieniona. Według Carla wykorzystanie wyżej wspomnianego błędu w praktyce…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Najnowszy iOS podatny na zdalne hackowanie (i instalację Pegasusa). Wystarczy wysłać jedną złośliwą wiadomość…]]></title>
         <id>https://sekurak.pl/najnowszy-ios-podatny-na-zdalne-hackowanie-i-instalacje-pegasusa-wystarczy-wyslac-jedna-zlosliwa-wiadomosc/</id>
@@ -102,12 +109,5 @@
         <link href="https://sekurak.pl/zostan-web-security-masterem-mozliwosc-dostania-ebooka-i-znizka-na-trzy-szkolenia-sekuraka/"/>
         <updated>2021-07-14T12:58:27.430Z</updated>
         <content type="html"><![CDATA[Checie dostać za darmo ebook naszej książki „Bezpieczeństwo aplikacji webowych”? Dla pierwszych trzech osób, które zapiszą się na wszystkie trzy szkolenia z nowej serii sekuraka „Websecurity master” ebook naszej książki wysyłamy gratis! Seria „Websecurity master” to prawdziwa merytoryczna bomba w zakresie takich tematów jak uwierzytelnianie, autoryzacja, bezpieczeństwo JWT, nowoczesne mechanizmy…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adversarial octopus, czyli atak na systemy rozpoznawania twarzy oparte na AI]]></title>
-        <id>https://sekurak.pl/adversarial-octopus-czyli-atak-na-systemy-rozpoznawania-twarzy-oparte-na-ai/</id>
-        <link href="https://sekurak.pl/adversarial-octopus-czyli-atak-na-systemy-rozpoznawania-twarzy-oparte-na-ai/"/>
-        <updated>2021-07-14T12:58:27.431Z</updated>
-        <content type="html"><![CDATA[Jakiś czas temu badacze z firmy Adversa zaprezentowali dość ciekawą technikę ataku na systemy rozpoznawania twarzy: Adversarial octopus pozwala na podszywanie się pod wybraną przez nas ofiarę wobec systemów rozpoznawania twarzy opartych na sztucznej inteligencji. Dzieje się tak ze względu na niedoskonałości algorytmów rozpoznawania twarzy. Ten rodzaj ataku może zostać…]]></content>
     </entry>
 </feed>

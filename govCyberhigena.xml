@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczenstwo</id>
     <title>Cyberhigiena - dla kazdego</title>
-    <updated>2021-07-19T05:33:57.951Z</updated>
+    <updated>2021-07-19T17:42:53.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gov.pl/img/icons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Zajrzyj na pocztę]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/zajrzyj-na-poczte</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/zajrzyj-na-poczte"/>
+        <updated>2021-07-19T17:42:53.110Z</updated>
+        <content type="html"><![CDATA[Wielu z nas ma przynajmniej jedno konto poczty e-mail. Mamy też takie, o których nawet nie pamiętamy. Zastanawialiście się kiedyś, co dzieje się z nieużywanym kontem? Odpowiadamy!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bezpieczna poczta e-mail – to trzeba wiedzieć!]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/bezpieczna-poczta-e-mail--to-trzeba-wiedziec</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/bezpieczna-poczta-e-mail--to-trzeba-wiedziec"/>
+        <updated>2021-07-19T17:42:53.112Z</updated>
+        <content type="html"><![CDATA[E-mail to jedna z najpopularniejszych form komunikacji internetowej. Adres poczty elektronicznej to także identyfikator, którego używamy w trakcie logowania do różnych serwisów online. Dlatego warto wiedzieć, jak zadbać o bezpieczeństwo swojej poczty. Podpowiadamy, jak to zrobić.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postaw na backup]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/postaw-na-backup</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/postaw-na-backup"/>
+        <updated>2021-07-19T17:42:53.117Z</updated>
+        <content type="html"><![CDATA[Przypadkowo usunięty dokument, złośliwe oprogramowanie lub uszkodzenie sprzętu – przyczyn utraty danych może być co najmniej kilka. W każdym przypadku konsekwencje są jednak takie same. Możesz ich uniknąć – rób kopie zapasowe.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Korzystasz z internetu poza domem? Łącz się bezpiecznie!]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/korzystasz-z-internetu-poza-domem-lacz-sie-bezpiecznie</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/korzystasz-z-internetu-poza-domem-lacz-sie-bezpiecznie"/>
+        <updated>2021-07-19T17:42:53.118Z</updated>
+        <content type="html"><![CDATA[Wielu z nas zdarza się korzystać z publicznych sieci wi-fi – w kawiarniach, hotelach, na dworcach czy w bibliotekach. To nie zawsze bezpieczne. Oto, na co zwracać uwagę.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chroń swoje Ja, czyli jak nie stracić tożsamości w sieci]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/chron-swoje-ja-czyli-jak-nie-stracic-tozsamosci-w-sieci</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/chron-swoje-ja-czyli-jak-nie-stracic-tozsamosci-w-sieci"/>
+        <updated>2021-07-19T17:42:53.119Z</updated>
+        <content type="html"><![CDATA[Każda tożsamość jest unikalna. Twoja należy tylko do Ciebie – również online. Dokumenty i dane osobowe to przecież coś, czego nie „pożyczamy”, wręcz przeciwnie – chronimy je przed niepowołanym dostępem. Warto o tym pamiętać, także podczas korzystania z internetu.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dbaj o „zapasy”]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/dbaj-o-zapasy</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/dbaj-o-zapasy"/>
+        <updated>2021-07-19T17:42:53.120Z</updated>
+        <content type="html"><![CDATA[Jeśli nie chcesz stracić dokumentów lub zdjęć, które trzymasz w komputerze lub telefonie – pamiętaj o kopiach zapasowych. Dziś Dzień Backupu. Podpowiadamy, jak go zrobić.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dwa składniki, czyli przepis na cyberbezpieczeństwo]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/dwa-skladniki-czyli-przepis-na-cyberbezpieczenstwo</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/dwa-skladniki-czyli-przepis-na-cyberbezpieczenstwo"/>
+        <updated>2021-07-19T17:42:53.121Z</updated>
+        <content type="html"><![CDATA[Hasła nie są już wystarczającym sposobem na ochronę naszych kont przed przejęciem ich przez cyberprzestępców. Warto stosować dodatkową weryfikację. Oto, o co chodzi i jak to działa.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J@k utw0rzyć bezp!eczne h@$ł0?]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/jk-utw0rzyc-bezpeczne-hl0</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/jk-utw0rzyc-bezpeczne-hl0"/>
+        <updated>2021-07-19T17:42:53.136Z</updated>
+        <content type="html"><![CDATA[Hasło do poczty elektronicznej, konta w social mediach, do telefonu, komputera, bankowości elektronicznej... Jakie powinno być? Bezpieczne, silne i… do każdego konta inne! Oto wskazówki jak tego dokonać.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bezpieczni w mediach społecznościowych – poradnik]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/bezpieczni-w-mediach-spolecznosciowych--praktyczne-wskazowki</id>
@@ -18,61 +74,5 @@
         <link href="https://www.gov.pl/web/baza-wiedzy/media-spolecznosciowe-jak-bezpiecznie-z-nich-korzystac"/>
         <updated>2021-07-13T11:36:01.558Z</updated>
         <content type="html"><![CDATA[Aby zarządzać swoimi cyfrowymi śladami, użyj ustawień prywatności na różnych platformach społecznościowych.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Korzystanie z urządzeń mobilnych]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/korzystanie-z-urzadzen-mobilnych</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/korzystanie-z-urzadzen-mobilnych"/>
-        <updated>2021-07-13T11:36:01.564Z</updated>
-        <content type="html"><![CDATA[Smartfony, laptopy, tablety – towarzyszą nam dzisiaj praktycznie na każdym kroku. Dlatego warto jest zadbać o bezpieczeństwo danych podczas korzystania z tych urządzeń.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Czym jest PHISHING i jak nie dać się nabrać na podejrzane wiadomości e-mail oraz SMS-y?]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/czym-jest-phishing-i-jak-nie-dac-sie-nabrac-na-podejrzane-widomosci-e-mail-oraz-sms-y</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/czym-jest-phishing-i-jak-nie-dac-sie-nabrac-na-podejrzane-widomosci-e-mail-oraz-sms-y"/>
-        <updated>2021-07-13T11:36:01.564Z</updated>
-        <content type="html"><![CDATA[Do oszustw w cyberprzestrzeni wykorzystywane są przede wszystkim ataki typu phishing!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak utworzyć bezpieczne hasło - wskazówki.]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/jak-tworzyc-bezpieczne-hasla</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/jak-tworzyc-bezpieczne-hasla"/>
-        <updated>2021-07-13T11:36:01.565Z</updated>
-        <content type="html"><![CDATA[Hasła są jednym z podstawowych sposobów, w jaki możemy udowodnić, kim jesteśmy. Używanie silnych haseł jest niezbędne aby chronić swoją tożsamość oraz informacje.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konfigurowanie uwierzytelniania dwuskładnikowego (2FA)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/konfigurowanie-uwierzytelniania-dwuskladnikowego-2fa</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/konfigurowanie-uwierzytelniania-dwuskladnikowego-2fa"/>
-        <updated>2021-07-13T11:36:01.565Z</updated>
-        <content type="html"><![CDATA[Uwierzytelnienie dwuskładnikowe (ang. Two Factor Authenticaton, 2FA) może pomóc chronić twoje konta internetowe.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zakupy online - jak nie dać się oszukać?]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/zakupy-online---jak-nie-dac-sie-oszukac</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/zakupy-online---jak-nie-dac-sie-oszukac"/>
-        <updated>2021-07-13T11:36:01.566Z</updated>
-        <content type="html"><![CDATA[Chcesz, żeby zakupy on-line były nie tylko szybkie i wygodne, ale także bezpieczne? Poznaj podstawowe zasady bezpiecznych zakupów.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E-usługi publiczne]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/e-uslugi-publiczne</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/e-uslugi-publiczne"/>
-        <updated>2021-07-13T11:36:01.568Z</updated>
-        <content type="html"><![CDATA[Polscy obywatele mogą korzystać z kilkuset e-usług publicznych zlokalizowanych na różnych platformach i portalach rządowych.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zgłaszanie nielegalnych treści]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/zglaszanie-nielegalnych-tresci</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/zglaszanie-nielegalnych-tresci"/>
-        <updated>2021-07-13T11:36:01.569Z</updated>
-        <content type="html"><![CDATA[Reaguj, gdy widzisz niestosowne treści w sieci. Zespół Dyzurnet.pl podejmuje działania na rzecz tworzenia bezpiecznego Internetu.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rozpoznawanie nieprawdziwych informacji]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/rozpoznawanie-nieprawdziwych-informacji</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/rozpoznawanie-nieprawdziwych-informacji"/>
-        <updated>2021-07-13T11:36:01.570Z</updated>
-        <content type="html"><![CDATA[Fake newsy – wpisy, wiadomości, kanały informacyjne, w których przekazywane dane okazują się nieprawdziwe lub przeinaczone.]]></content>
     </entry>
 </feed>
