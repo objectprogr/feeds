@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-07-18T17:40:39.201Z</updated>
+    <updated>2021-07-19T05:33:57.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Najnowszy iOS podatny na zdalne hackowanie (i instalację Pegasusa). Wystarczy wysłać jedną złośliwą wiadomość…]]></title>
+        <id>https://sekurak.pl/najnowszy-ios-podatny-na-zdalne-hackowanie-i-instalacje-pegasusa-wystarczy-wyslac-jedna-zlosliwa-wiadomosc/</id>
+        <link href="https://sekurak.pl/najnowszy-ios-podatny-na-zdalne-hackowanie-i-instalacje-pegasusa-wystarczy-wyslac-jedna-zlosliwa-wiadomosc/"/>
+        <updated>2021-07-19T05:33:57.849Z</updated>
+        <content type="html"><![CDATA[Właśnie rozkręca się nowa afera z Pegasusem – zidentyfikowano ~50 000 numerów telefonicznych, które były w kręgu zainteresowań ~rządów. Na celowniku było m.in. ~180 dziennikarzy: They include the Wall Street Journal, CNN, the New York Times, Al Jazeera, France 24, Radio Free Europe, Mediapart, El País, Associated Press, Le Monde,…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevilsTongue, czyli lepszy Pegasus od izraelskiej firmy Candiru]]></title>
         <id>https://sekurak.pl/devilstongue-czyli-lepszy-pegasus-od-izraelskiej-firmy-candiru/</id>
@@ -102,12 +109,5 @@
         <link href="https://sekurak.pl/adversarial-octopus-czyli-atak-na-systemy-rozpoznawania-twarzy-oparte-na-ai/"/>
         <updated>2021-07-14T12:58:27.431Z</updated>
         <content type="html"><![CDATA[Jakiś czas temu badacze z firmy Adversa zaprezentowali dość ciekawą technikę ataku na systemy rozpoznawania twarzy: Adversarial octopus pozwala na podszywanie się pod wybraną przez nas ofiarę wobec systemów rozpoznawania twarzy opartych na sztucznej inteligencji. Dzieje się tak ze względu na niedoskonałości algorytmów rozpoznawania twarzy. Ten rodzaj ataku może zostać…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft wypuścił łatkę do krytycznej podatności PrintNightmare (CVE-2021-34527)]]></title>
-        <id>https://sekurak.pl/microsoft-wypuscil-latke-do-krytycznej-podatnosci-printnightmare-cve-2021-34527/</id>
-        <link href="https://sekurak.pl/microsoft-wypuscil-latke-do-krytycznej-podatnosci-printnightmare-cve-2021-34527/"/>
-        <updated>2021-07-14T12:58:27.432Z</updated>
-        <content type="html"><![CDATA[Jakiś czas temu pisaliśmy o podatności w Windows Print Spooler (CVE-2021-1675), która okazała się krytyczną luką, pozwalającą zarówno na zdalne wykonanie kodu, jak i na eskalację uprawnień na systemach Windows: Nie pomogła również wpadka badaczy bezpieczeństwa, którzy przez przypadek opublikowali POC oraz szczegółowe objaśnienie podatności: Choć repozytorium zostało dość szybko…]]></content>
     </entry>
 </feed>
