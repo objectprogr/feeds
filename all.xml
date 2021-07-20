@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-20T05:34:20.845Z</updated>
+    <updated>2021-07-20T17:41:58.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -361,6 +361,13 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/co-nowego-w-google-family-link/#more-2340" class="more-link"><span class="faux-button">Kontynuuj czytanie</span> <span class="screen-reader-text">„Co nowego w Google Family Link”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gmina Konstancin-Jeziorna w wyniku cyberataku straciła 5 mln PLN. Na celowniku kolejne gminy… (Sekurak)]]></title>
+        <id>https://sekurak.pl/gmina-konstancin-jeziorna-w-wyniku-cyberataku-stracila-5-mln-pln-na-celowniku-kolejne-gminy/</id>
+        <link href="https://sekurak.pl/gmina-konstancin-jeziorna-w-wyniku-cyberataku-stracila-5-mln-pln-na-celowniku-kolejne-gminy/"/>
+        <updated>2021-07-20T17:41:57.062Z</updated>
+        <content type="html"><![CDATA[PAP donosi o następującym oszustwie: 5 mln zł zniknęło z lokaty założonej przez gminę Konstancin Jeziorna w jednym z banków – podaje portal piasecznonews.pl. Nie wiem, czy uda się odzyskać te pieniądze – komentuje burmistrz Kazimierz Jańczuk. Jak czytamy, pod koniec marca gmina założyła w jednym z banków lokatę na…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iPhone: zdalne wykonanie kodu bez interakcji z użytkownikiem, czyli niewinna luka z hotspotem „%p%s%s%s%s%n” (Sekurak)]]></title>
         <id>https://sekurak.pl/iphone-zdalne-wykonanie-kodu-bez-interakcji-z-uzytkownikiem-czyli-niewinna-luka-z-hotspotem-pssssn/</id>
         <link href="https://sekurak.pl/iphone-zdalne-wykonanie-kodu-bez-interakcji-z-uzytkownikiem-czyli-niewinna-luka-z-hotspotem-pssssn/"/>
@@ -457,12 +464,5 @@
         <link href="https://sekurak.pl/generowales-automatycznie-haslo-w-menadzerze-hasel-od-kasperskiego-lepiej-je-zmien/"/>
         <updated>2021-07-14T12:58:27.429Z</updated>
         <content type="html"><![CDATA[Menedżer haseł od rosyjskiej firmy Kaspersky jest stosunkowo intuicyjny i jak większość podobnych produktów pozwala przechowywać, synchronizować i generować hasła do aplikacji. Jeden z badaczy odkrył prosty, ale poważny błąd w ostatniej z wymienionych funkcji i zgłosił go za pośrednictwem HackerOne. Generowanie hasła odbywało się z wykorzystaniem aktualnego czasu w…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zostań web security masterem – możliwość dostania ebooka i zniżka na trzy szkolenia Sekuraka (Sekurak)]]></title>
-        <id>https://sekurak.pl/zostan-web-security-masterem-mozliwosc-dostania-ebooka-i-znizka-na-trzy-szkolenia-sekuraka/</id>
-        <link href="https://sekurak.pl/zostan-web-security-masterem-mozliwosc-dostania-ebooka-i-znizka-na-trzy-szkolenia-sekuraka/"/>
-        <updated>2021-07-14T12:58:27.430Z</updated>
-        <content type="html"><![CDATA[Checie dostać za darmo ebook naszej książki „Bezpieczeństwo aplikacji webowych”? Dla pierwszych trzech osób, które zapiszą się na wszystkie trzy szkolenia z nowej serii sekuraka „Websecurity master” ebook naszej książki wysyłamy gratis! Seria „Websecurity master” to prawdziwa merytoryczna bomba w zakresie takich tematów jak uwierzytelnianie, autoryzacja, bezpieczeństwo JWT, nowoczesne mechanizmy…]]></content>
     </entry>
 </feed>
