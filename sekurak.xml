@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-07-21T05:34:18.015Z</updated>
+    <updated>2021-07-21T17:43:20.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Podatność Serious Sam, czyli wpadka Microsoftu z uprawnieniami do pliku SAM – eskalacja uprawnień Windows 10/11]]></title>
+        <id>https://sekurak.pl/podatnosc-serious-sam-czyli-wpadka-microsoftu-z-uprawnieniami-do-pliku-sam-eskalacja-uprawnien-windows-10-11/</id>
+        <link href="https://sekurak.pl/podatnosc-serious-sam-czyli-wpadka-microsoftu-z-uprawnieniami-do-pliku-sam-eskalacja-uprawnien-windows-10-11/"/>
+        <updated>2021-07-21T17:43:19.026Z</updated>
+        <content type="html"><![CDATA[Ostatnie miesiące nie były najlepsze dla Microsoftu – jeśli mówimy o błędach bezpieczeństwa – czego żywym dowodem jest znalezisko Jonasa Lykkegraarda: Badacz odkrył trywialny błąd, który pozwala nieuprzywilejowanemu użytkownikowi na odczytanie plików SAM, SYSTEM czy SECURITY. Innymi słowy – zwykły użytkownik, nie będący administratorem, jest w stanie odczytać sekrety systemu,…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gmina Konstancin-Jeziorna w wyniku cyberataku straciła 5 mln PLN. Na celowniku kolejne gminy…]]></title>
         <id>https://sekurak.pl/gmina-konstancin-jeziorna-w-wyniku-cyberataku-stracila-5-mln-pln-na-celowniku-kolejne-gminy/</id>
@@ -102,12 +109,5 @@
         <link href="https://sekurak.pl/najciemniej-jest-pod-latarnia-czyli-zdalne-wykonanie-kodu-w-microsoft-defenderze-cve-2021-31985/"/>
         <updated>2021-07-14T12:58:27.428Z</updated>
         <content type="html"><![CDATA[Ten przypadek idealnie wpasowuje się w powiedzenie, że najciemniej jest pod latarnią. Badacz bezpieczeństwa Tavis Ormandy odkrył błąd pozwalający na zdalne wykonanie kodu we flagowym antywirusie Microsoft Defender: Według raportu słabym punktem Defendera jest kod do dekompresji i analizy tysięcy różnych formatów plików. Dlaczego? Bo antywirus wspiera setki rozmaitych formatów…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generowałeś automatycznie hasło w menadżerze haseł  od Kasperskiego? Lepiej je zmień…]]></title>
-        <id>https://sekurak.pl/generowales-automatycznie-haslo-w-menadzerze-hasel-od-kasperskiego-lepiej-je-zmien/</id>
-        <link href="https://sekurak.pl/generowales-automatycznie-haslo-w-menadzerze-hasel-od-kasperskiego-lepiej-je-zmien/"/>
-        <updated>2021-07-14T12:58:27.429Z</updated>
-        <content type="html"><![CDATA[Menedżer haseł od rosyjskiej firmy Kaspersky jest stosunkowo intuicyjny i jak większość podobnych produktów pozwala przechowywać, synchronizować i generować hasła do aplikacji. Jeden z badaczy odkrył prosty, ale poważny błąd w ostatniej z wymienionych funkcji i zgłosił go za pośrednictwem HackerOne. Generowanie hasła odbywało się z wykorzystaniem aktualnego czasu w…]]></content>
     </entry>
 </feed>
