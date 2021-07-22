@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-07-21T17:43:20.713Z</updated>
+    <updated>2021-07-22T05:34:19.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sequoia – nowa podatność klasy priv escalation na Linuksa. Exploit działa na  Debiana 11, Ubuntu 20.10, Ubuntu 21.04 i wiele innych]]></title>
+        <id>https://sekurak.pl/sequoia-nowa-podatnosc-klasy-priv-escalation-na-linuksa-exploit-dziala-na-debiana-11-ubuntu-20-10-ubuntu-21-04-i-wiele-innych/</id>
+        <link href="https://sekurak.pl/sequoia-nowa-podatnosc-klasy-priv-escalation-na-linuksa-exploit-dziala-na-debiana-11-ubuntu-20-10-ubuntu-21-04-i-wiele-innych/"/>
+        <updated>2021-07-22T05:34:19.653Z</updated>
+        <content type="html"><![CDATA[Miejcie rękę na pulsie w temacie łatania luki CVE-2021-33909. Techniczny opis podatności dostępny jest tutaj, a badacze z Qualysa dodają, że podatność istnieje od 2014 roku (Linux 3.16). Na razie opublikowali prostego PoC exploita (crash), ale niebawem ma pokazać się pełen exploit. Luka, jak wspomniałem w tytule, umożliwia eskalację uprawnień…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jak stosować nowoczesne mechanizmy przeglądarkowe w celu zabezpieczenia aplikacji webowej?]]></title>
+        <id>https://sekurak.pl/jak-stosowac-nowoczesne-mechanizmy-przegladarkowe-w-celu-zabezpieczenia-aplikacji-webowej/</id>
+        <link href="https://sekurak.pl/jak-stosowac-nowoczesne-mechanizmy-przegladarkowe-w-celu-zabezpieczenia-aplikacji-webowej/"/>
+        <updated>2021-07-22T05:34:19.657Z</updated>
+        <content type="html"><![CDATA[Już w najbliższy piątek o 09:00 Michał Bentkowski poprowadzi unikalne szkolenie o wykorzystaniu nowoczesnych mechanizmów przeglądarkowych w celu lepszego zabezpieczenia aplikacji webowych. W ostatnich latach twórcy przeglądarek wprowadzili szereg mechanizmów, które pozwalają na lepsze zabezpieczenie aplikacji WWW przed atakami i pozwalają na lepsze zabezpieczenie danych użytkowników. Niektóre z nich są…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podatność Serious Sam, czyli wpadka Microsoftu z uprawnieniami do pliku SAM – eskalacja uprawnień Windows 10/11]]></title>
         <id>https://sekurak.pl/podatnosc-serious-sam-czyli-wpadka-microsoftu-z-uprawnieniami-do-pliku-sam-eskalacja-uprawnien-windows-10-11/</id>
@@ -95,19 +109,5 @@
         <link href="https://sekurak.pl/wyciek-ze-sklepu-spreadshirt-dane-adresowe-hasla-dane-bankowe/"/>
         <updated>2021-07-14T12:58:27.426Z</updated>
         <content type="html"><![CDATA[Sklep Spreadshirt informuje o incydencie bezpieczeństwa, który dotyczy zarówno serwisu w wersji polskiej jak i międzynarodowej: Staliśmy się celem zorganizowanego cyberataku, który został przeprowadzony z zastosowaniem działań przestępczych. Nieznanym sprawcom udało się pokonać wysokie standardy bezpieczeństwa i uzyskać dostęp do wewnętrznych danych. Natychmiast podjęliśmy wszelkie niezbędne środki w celu ochrony…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukraińskie służby zlikwidowały największą „plantację” koparek kryptowalut…]]></title>
-        <id>https://sekurak.pl/ukrainskie-sluzby-zlikwidowaly-najwieksza-plantacje-koparek-kryptowalut/</id>
-        <link href="https://sekurak.pl/ukrainskie-sluzby-zlikwidowaly-najwieksza-plantacje-koparek-kryptowalut/"/>
-        <updated>2021-07-14T12:58:27.426Z</updated>
-        <content type="html"><![CDATA[Z punktu widzenia funkcjonariuszy Służby Bezpieczeństwa Ukrainy (SBU) wszystko wskazywało na nielegalną plantację marihuany – duże zapotrzebowanie na prąd, liczniki energii elektrycznej, które nie pokazywały rzeczywistego zużycia energii, a także nietypowa lokalizacja – opuszczony magazyn, należący niegdyś do JSC Vinnytsiaoblenerho. Jak się jednak okazało, mieszkańcy Kijowa i Winnicy postawili na…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Najciemniej jest pod latarnią, czyli zdalne wykonanie kodu w Microsoft Defenderze (CVE-2021-31985)]]></title>
-        <id>https://sekurak.pl/najciemniej-jest-pod-latarnia-czyli-zdalne-wykonanie-kodu-w-microsoft-defenderze-cve-2021-31985/</id>
-        <link href="https://sekurak.pl/najciemniej-jest-pod-latarnia-czyli-zdalne-wykonanie-kodu-w-microsoft-defenderze-cve-2021-31985/"/>
-        <updated>2021-07-14T12:58:27.428Z</updated>
-        <content type="html"><![CDATA[Ten przypadek idealnie wpasowuje się w powiedzenie, że najciemniej jest pod latarnią. Badacz bezpieczeństwa Tavis Ormandy odkrył błąd pozwalający na zdalne wykonanie kodu we flagowym antywirusie Microsoft Defender: Według raportu słabym punktem Defendera jest kod do dekompresji i analizy tysięcy różnych formatów plików. Dlaczego? Bo antywirus wspiera setki rozmaitych formatów…]]></content>
     </entry>
 </feed>
