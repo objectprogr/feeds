@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-07-22T05:34:19.883Z</updated>
+    <updated>2021-07-22T17:42:52.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UWAGA – duża awaria DNSów Akamai. Nie działają serwisy: Airbnb, Steam, Lastpass, FedEx, SalesForce, …]]></title>
+        <id>https://sekurak.pl/uwaga-duza-awaria-dnsow-akamai-nie-dzialaja-serwisy-airbnb-steam-lastpass-fedex-salesforce/</id>
+        <link href="https://sekurak.pl/uwaga-duza-awaria-dnsow-akamai-nie-dzialaja-serwisy-airbnb-steam-lastpass-fedex-salesforce/"/>
+        <updated>2021-07-22T17:42:50.607Z</updated>
+        <content type="html"><![CDATA[Tutaj prawdopodobna przyczyna, którą Akamai opisuje tak: Investigating – We are aware of an emerging issue with the Edge DNS service. We are actively investigating the issue. If you have questions or are experiencing impact due to this issue, please contact Akamai Technical Support. In the interest of time, we…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 14.7 z poprawkami do 37 błędów bezpieczeństwa, patchuj teraz!]]></title>
+        <id>https://sekurak.pl/ios-14-7-z-poprawkami-do-37-bledow-bezpieczenstwa-patchuj-teraz/</id>
+        <link href="https://sekurak.pl/ios-14-7-z-poprawkami-do-37-bledow-bezpieczenstwa-patchuj-teraz/"/>
+        <updated>2021-07-22T17:42:50.607Z</updated>
+        <content type="html"><![CDATA[Od poniedziałku użytkownicy iPhone’ów oraz iPadów mogą cieszyć się aktualizacją 14.7 systemu iOS. Zawiera ona łatki do szeregu krytycznych podatności bezpieczeństwa, pozwalających między innymi na zdalne wykonanie kodu oraz eskalację uprawnień: Poprawka obejmuje również opisywany przez nas błąd z hotspotem o SSID „%p%s%s%s%s%n”, za sprawą którego nasz iPhone nie był…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware dostał się przez „fałszywą aktualizację przeglądarki”. Zaszyfrowane ~15000 systemów.]]></title>
+        <id>https://sekurak.pl/ransomware-dostal-sie-przez-falszywa-aktualizacje-przegladarki-zaszyfrowane-15000-systemow/</id>
+        <link href="https://sekurak.pl/ransomware-dostal-sie-przez-falszywa-aktualizacje-przegladarki-zaszyfrowane-15000-systemow/"/>
+        <updated>2021-07-22T17:42:50.607Z</updated>
+        <content type="html"><![CDATA[Chodzi o atak który miał miejsce w marcu tego roku, a ofiarą był jeden z większych ubezpieczycieli w USA – CNA Financial. Wg relacji, jeden z pracowników pobrał „fałszywą aktualizację przeglądarki” z (o dziwo) normalnego serwisu (może wstrzyknięta złośliwa reklama?). Następnie atakujący podnieśli uprawnienia do administratora. Następnie rekonesans i pełne…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kilka komentarzy odnośnie ostatniej afery z Pegasusem]]></title>
+        <id>https://sekurak.pl/kilka-komentarzy-odnosnie-ostatniej-afery-z-pegasusem/</id>
+        <link href="https://sekurak.pl/kilka-komentarzy-odnosnie-ostatniej-afery-z-pegasusem/"/>
+        <updated>2021-07-22T17:42:50.611Z</updated>
+        <content type="html"><![CDATA[Ostatnio znane oprogramowanie do inwigilacji ponownie stało się tematem artykułów. Wbrew pozorom zwykły obywatel przypuszczalnie nie musi obawiać się infekcji Pegasusem. Utrzymanie jego „lokalnej” infrastruktury wymaga sporych nakładów finansowych, więc to oprogramowanie jest w pewnym sensie zarezerwowane dla najistotniejszych celów. Zdecydowanie większe zagrożenie stanowi zwykły malware. Natomiast dowiadujemy się kilku…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sequoia – nowa podatność klasy priv escalation na Linuksa. Exploit działa na  Debiana 11, Ubuntu 20.10, Ubuntu 21.04 i wiele innych]]></title>
         <id>https://sekurak.pl/sequoia-nowa-podatnosc-klasy-priv-escalation-na-linuksa-exploit-dziala-na-debiana-11-ubuntu-20-10-ubuntu-21-04-i-wiele-innych/</id>
@@ -81,33 +109,5 @@
         <link href="https://sekurak.pl/kuba-blackout-internetu-i-blokada-mediow-spolecznosciowych-w-trakcie-antyrzadowych-protestow/"/>
         <updated>2021-07-15T09:02:40.919Z</updated>
         <content type="html"><![CDATA[O tym, jak wielką siłę przebicia ma Internet, możemy przekonać się, obserwując działania współczesnej dyktatury na Kubie, która w ramach walki z trwającymi w całym kraju protestami postanowiła między innymi ograniczyć dostęp do Sieci: To jednak nie jedyna „atrakcja” przygotowana dla protestujących. Firma NetBlocks poinformowała, że główny dostawca usług telekomunikacyjnych…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chińscy hakerzy wykorzystują exploit 0-day w SolarWinds Serv-U do atakowania podmiotów z sektora amerykańskiego przemysłu zbrojeniowego]]></title>
-        <id>https://sekurak.pl/chinscy-hakerzy-wykorzystuja-exploit-0-day-w-solarwinds-serv-u-do-atakowania-podmiotow-z-sektora-amerykanskiego-przemyslu-zbrojeniowego/</id>
-        <link href="https://sekurak.pl/chinscy-hakerzy-wykorzystuja-exploit-0-day-w-solarwinds-serv-u-do-atakowania-podmiotow-z-sektora-amerykanskiego-przemyslu-zbrojeniowego/"/>
-        <updated>2021-07-15T09:02:40.919Z</updated>
-        <content type="html"><![CDATA[Kilka dni temu firma SolarWinds wydała łatkę do oprogramowania Serv-U Managed File Transfer Server oraz Serv-U Secured FTP. Podatność objęta poprawką pozwalała na zdalne wykonanie kodu: W biuletynie informacyjnym można znaleźć również informację o tym, że luka była wykorzystywana w atakach na wąską grupę użytkowników Serv-U: Nieco więcej możemy dowiedzieć…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podmienione komunikaty na irańskich dworcach]]></title>
-        <id>https://sekurak.pl/podmienione-komunikaty-na-iranskich-dworcach/</id>
-        <link href="https://sekurak.pl/podmienione-komunikaty-na-iranskich-dworcach/"/>
-        <updated>2021-07-15T09:02:40.922Z</updated>
-        <content type="html"><![CDATA[Techniczne skutki ataku na irańskie koleje nie są szczególnie istotne: A notice on electronic boards at stations asked travelers to call a number which in fact belonged to the office of Supreme Leader Ayatollah Ali Khamenei, IRIB and the semi-official news agency Fars said. Atakujący zamieszczali informacje o rzekomych opóźnieniach….]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uwierzytelnianie/autoryzacja – co może pójść nie tak? Jak temu zapobiec?]]></title>
-        <id>https://sekurak.pl/uwierzytelnianie-autoryzacja-co-moze-pojsc-nie-tak-jak-temu-zapobiec/</id>
-        <link href="https://sekurak.pl/uwierzytelnianie-autoryzacja-co-moze-pojsc-nie-tak-jak-temu-zapobiec/"/>
-        <updated>2021-07-14T12:58:27.418Z</updated>
-        <content type="html"><![CDATA[Zapraszamy na nasze unikalne szkolenie dotyczące właśnie problemów z uwierzytelnianiem oraz autoryzacją. W trakcie całości zobaczycie przeszło 50 realnych przykładów luk bezpieczeństwa występujących w tych mechanizmach. Będzie o: resetowaniu hasła, technikach brute force, oczywistych (albo i nie ;) metodach całkowitego ominięcia uwierzytelniania czy aspektach związanych z 2FA. Nie zabraknie też…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wyciek ze sklepu Spreadshirt: dane adresowe, hasła, „dane bankowe”, …]]></title>
-        <id>https://sekurak.pl/wyciek-ze-sklepu-spreadshirt-dane-adresowe-hasla-dane-bankowe/</id>
-        <link href="https://sekurak.pl/wyciek-ze-sklepu-spreadshirt-dane-adresowe-hasla-dane-bankowe/"/>
-        <updated>2021-07-14T12:58:27.426Z</updated>
-        <content type="html"><![CDATA[Sklep Spreadshirt informuje o incydencie bezpieczeństwa, który dotyczy zarówno serwisu w wersji polskiej jak i międzynarodowej: Staliśmy się celem zorganizowanego cyberataku, który został przeprowadzony z zastosowaniem działań przestępczych. Nieznanym sprawcom udało się pokonać wysokie standardy bezpieczeństwa i uzyskać dostęp do wewnętrznych danych. Natychmiast podjęliśmy wszelkie niezbędne środki w celu ochrony…]]></content>
     </entry>
 </feed>
