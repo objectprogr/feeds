@@ -2,205 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczny-samorzad</id>
     <title>Cyberbezpieczny samorzad</title>
-    <updated>2021-07-22T17:42:52.496Z</updated>
+    <updated>2021-07-23T05:34:23.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gov.pl/img/icons/favicon-16x16.png</icon>
     <entry>
-        <title type="html"><![CDATA[Premier: naprawa finansów publicznych sprawiła, że na półrocze mamy nadwyżkę w budżecie przekraczającą 25 mld zł]]></title>
-        <id>https://www.gov.pl/web/premier/premier-naprawa-finansow-publicznych-sprawila-ze-na-polrocze-mamy-nadwyzke-w-budzecie-przekraczajaca-25-mld-zl</id>
-        <link href="https://www.gov.pl/web/premier/premier-naprawa-finansow-publicznych-sprawila-ze-na-polrocze-mamy-nadwyzke-w-budzecie-przekraczajaca-25-mld-zl"/>
-        <updated>2021-07-22T17:42:52.107Z</updated>
-        <content type="html"><![CDATA[<a href="/web/premier/premier-naprawa-finansow-publicznych-sprawila-ze-na-polrocze-mamy-nadwyzke-w-budzecie-przekraczajaca-25-mld-zl">
-<picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/1de9d33f-17dc-48d2-b56b-61c2209abd02/resolution/700x295 700w,
-/photo/format/1de9d33f-17dc-48d2-b56b-61c2209abd02/resolution/1044x440 1044w,
-/photo/format/1de9d33f-17dc-48d2-b56b-61c2209abd02/resolution/1328x560 1328w">
-<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 48rem,
-(min-width: 80rem) 51vw,
-(min-width: 62.5rem) 29.625rem,
-(min-width: 43.75rem) 47vw" srcset="/photo/format/1de9d33f-17dc-48d2-b56b-61c2209abd02/resolution/1460x616 1460w,
-/photo/format/1de9d33f-17dc-48d2-b56b-61c2209abd02/resolution/950x401 950w,
-/photo/format/1de9d33f-17dc-48d2-b56b-61c2209abd02/resolution/729x308 729w,
-/photo/format/1de9d33f-17dc-48d2-b56b-61c2209abd02/resolution/700x295 700w,
-/photo/format/1de9d33f-17dc-48d2-b56b-61c2209abd02/resolution/525x221 525w">
-<img alt="Premier oraz właściciel firmy idą po zakładzie." src="/photo/format/1de9d33f-17dc-48d2-b56b-61c2209abd02/resolution/1920x810">
-</picture>
-<div>
-<div class="event">
-<span class="date">
-19.07.2021
-</span>
-</div>
-<div class="title">Premier: naprawa finansów publicznych sprawiła, że na półrocze mamy nadwyżkę w budżecie przekraczającą 25 mld zł</div>
-</div>
-</a>]]></content>
+        <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/wszystko-o-portalu-samorzadgovpl</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/wszystko-o-portalu-samorzadgovpl"/>
+        <updated>2021-07-23T05:34:22.654Z</updated>
+        <content type="html"><![CDATA[Krok po kroku, jak przystąpić do projektu (Grudzień 2020 r.)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ruszyła możliwość szczepienia drugą dawką w dowolnym punkcie oraz loteria dla zaszczepionych]]></title>
-        <id>https://www.gov.pl/web/szczepimysie/ruszyla-mozliwosc-szczepienia-druga-dawka-w-dowolnym-punkcie-oraz-loteria-dla-zaszczepionych</id>
-        <link href="https://www.gov.pl/web/szczepimysie/ruszyla-mozliwosc-szczepienia-druga-dawka-w-dowolnym-punkcie-oraz-loteria-dla-zaszczepionych"/>
-        <updated>2021-07-22T17:42:52.111Z</updated>
-        <content type="html"><![CDATA[<a href="/web/szczepimysie/ruszyla-mozliwosc-szczepienia-druga-dawka-w-dowolnym-punkcie-oraz-loteria-dla-zaszczepionych">
-<picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/514b28d5-7039-4cf1-9565-6a9ab6ebf05f/resolution/700x295 700w,
-/photo/format/514b28d5-7039-4cf1-9565-6a9ab6ebf05f/resolution/1044x440 1044w,
-/photo/format/514b28d5-7039-4cf1-9565-6a9ab6ebf05f/resolution/1328x560 1328w">
-<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.6875rem,
-(min-width: 80rem) 23.6vw,
-(min-width: 62.5rem) 29.625rem,
-(min-width: 43.75rem) 47vw" srcset="/photo/format/514b28d5-7039-4cf1-9565-6a9ab6ebf05f/resolution/950x401 950w,
-/photo/format/514b28d5-7039-4cf1-9565-6a9ab6ebf05f/resolution/700x295 700w,
-/photo/format/514b28d5-7039-4cf1-9565-6a9ab6ebf05f/resolution/525x221 525w">
-<img alt="M_Dworczyk_konferencja_dot_drugiej_dawki_i_loterii_1_lipca_2021" src="/photo/format/514b28d5-7039-4cf1-9565-6a9ab6ebf05f/resolution/1920x810">
-</picture>
-<div>
-<div class="event">
-<span class="date">
-01.07.2021
-</span>
-</div>
-<div class="title">Ruszyła możliwość szczepienia drugą dawką w dowolnym punkcie oraz loteria dla zaszczepionych</div>
-</div>
-</a>]]></content>
+        <title type="html"><![CDATA[Cyberbezpieczne usługi chmurowe dla administracji publicznej - Poradnik PRCyber-05]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczne-uslugi-chmurowe-dla-administracji-publicznej---poradnik-prcyber-05</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/cyberbezpieczne-uslugi-chmurowe-dla-administracji-publicznej---poradnik-prcyber-05"/>
+        <updated>2021-07-23T05:34:22.654Z</updated>
+        <content type="html"><![CDATA[Środowisko informatyczne dostarczające usługi chmurowe oraz infrastrukturę IT za pośrednictwem Internetu (Listopad 2020 r.)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Programy.nauka.gov.pl ‒ rusza nowa strona o przedsięwzięciach Ministra Edukacji i Nauki]]></title>
-        <id>https://www.gov.pl/web/edukacja-i-nauka/programynaukagovpl--rusza-nowa-strona-o-przedsiewzieciach-ministra-edukacji-i-nauki</id>
-        <link href="https://www.gov.pl/web/edukacja-i-nauka/programynaukagovpl--rusza-nowa-strona-o-przedsiewzieciach-ministra-edukacji-i-nauki"/>
-        <updated>2021-07-22T17:42:52.112Z</updated>
-        <content type="html"><![CDATA[<a href="/web/edukacja-i-nauka/programynaukagovpl--rusza-nowa-strona-o-przedsiewzieciach-ministra-edukacji-i-nauki">
-<picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/32535def-70e9-43b5-86d0-f2490ad2bf16/resolution/700x295 700w,
-/photo/format/32535def-70e9-43b5-86d0-f2490ad2bf16/resolution/1044x440 1044w,
-/photo/format/32535def-70e9-43b5-86d0-f2490ad2bf16/resolution/1328x560 1328w">
-<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.6875rem,
-(min-width: 80rem) 23.6vw,
-(min-width: 62.5rem) 29.625rem,
-(min-width: 43.75rem) 47vw" srcset="/photo/format/32535def-70e9-43b5-86d0-f2490ad2bf16/resolution/950x401 950w,
-/photo/format/32535def-70e9-43b5-86d0-f2490ad2bf16/resolution/700x295 700w,
-/photo/format/32535def-70e9-43b5-86d0-f2490ad2bf16/resolution/525x221 525w">
-<img alt="Grafika z tekstem: &quot;Zapraszamy na nowa stronę o programach ministra edukacji i nauki – www.programy.nauka.gov.pl&quot;" src="/photo/format/32535def-70e9-43b5-86d0-f2490ad2bf16/resolution/1920x810">
-</picture>
-<div>
-<div class="event">
-<span class="date">
-20.07.2021
-</span>
-</div>
-<div class="title">Programy.nauka.gov.pl ‒ rusza nowa strona o przedsięwzięciach Ministra Edukacji i Nauki</div>
-</div>
-</a>]]></content>
+        <title type="html"><![CDATA[Jak sobie radzić ze skutkami ataków typu ransomware? – Poradnik PRCyber-04]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/jak-sobie-radzic-ze-skutkami-atakow-typu-ransomware---poradnik--prcyber-04</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/jak-sobie-radzic-ze-skutkami-atakow-typu-ransomware---poradnik--prcyber-04"/>
+        <updated>2021-07-23T05:34:22.655Z</updated>
+        <content type="html"><![CDATA[Ograniczenie skutków ataków typu ransomware (Sierpień 2020 r.)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trzy lata programu Dostępność Plus. Co się zmieniło?]]></title>
-        <id>https://www.gov.pl/web/fundusze-regiony/trzy-lata-programu-dostepnosc-plus-co-sie-zmienilo</id>
-        <link href="https://www.gov.pl/web/fundusze-regiony/trzy-lata-programu-dostepnosc-plus-co-sie-zmienilo"/>
-        <updated>2021-07-22T17:42:52.113Z</updated>
-        <content type="html"><![CDATA[<a href="/web/fundusze-regiony/trzy-lata-programu-dostepnosc-plus-co-sie-zmienilo">
-<picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/281a4d08-b954-4231-be47-406fe3d18cab/resolution/700x295 700w,
-/photo/format/281a4d08-b954-4231-be47-406fe3d18cab/resolution/1044x440 1044w,
-/photo/format/281a4d08-b954-4231-be47-406fe3d18cab/resolution/1328x560 1328w">
-<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.6875rem,
-(min-width: 80rem) 23.6vw,
-(min-width: 62.5rem) 29.625rem,
-(min-width: 43.75rem) 47vw" srcset="/photo/format/281a4d08-b954-4231-be47-406fe3d18cab/resolution/950x401 950w,
-/photo/format/281a4d08-b954-4231-be47-406fe3d18cab/resolution/700x295 700w,
-/photo/format/281a4d08-b954-4231-be47-406fe3d18cab/resolution/525x221 525w">
-<img alt="Na grafice od lewej napis: 3 lata Programu Dostępność Plus. Obok zdjęcia o tematyce związanej z niepełnosprawnością. Na dole logotypy." src="/photo/format/281a4d08-b954-4231-be47-406fe3d18cab/resolution/1920x810">
-</picture>
-<div>
-<div class="event">
-<span class="date">
-20.07.2021
-</span>
-</div>
-<div class="title">Trzy lata programu Dostępność Plus. Co się zmieniło?</div>
-</div>
-</a>]]></content>
+        <title type="html"><![CDATA[Jak zapobiegać atakom typu ransomware? – Poradnik PRCyber-03]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/jak-zapobiegac-atakom-typu-ransomware--poradnik-prcyber-03</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/jak-zapobiegac-atakom-typu-ransomware--poradnik-prcyber-03"/>
+        <updated>2021-07-23T05:34:22.655Z</updated>
+        <content type="html"><![CDATA[Wskazówki dotyczące zabezpieczeń przed szkodliwym oprogramowaniem (Lipiec 2020 r.)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ustawa o jakości w ochronie zdrowia trafi do konsultacji publicznych]]></title>
-        <id>https://www.gov.pl/web/zdrowie/ustawa-o-jakosci-w-ochronie-zdrowia-trafi-do-konsultacji-publicznych</id>
-        <link href="https://www.gov.pl/web/zdrowie/ustawa-o-jakosci-w-ochronie-zdrowia-trafi-do-konsultacji-publicznych"/>
-        <updated>2021-07-22T17:42:52.120Z</updated>
-        <content type="html"><![CDATA[<a href="/web/zdrowie/ustawa-o-jakosci-w-ochronie-zdrowia-trafi-do-konsultacji-publicznych">
-<picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/97f7901a-b035-462e-99b0-7dfb01dd8baf/resolution/700x295 700w,
-/photo/format/97f7901a-b035-462e-99b0-7dfb01dd8baf/resolution/1044x440 1044w,
-/photo/format/97f7901a-b035-462e-99b0-7dfb01dd8baf/resolution/1328x560 1328w">
-<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.6875rem,
-(min-width: 80rem) 23.6vw,
-(min-width: 62.5rem) 29.625rem,
-(min-width: 43.75rem) 47vw" srcset="/photo/format/97f7901a-b035-462e-99b0-7dfb01dd8baf/resolution/950x401 950w,
-/photo/format/97f7901a-b035-462e-99b0-7dfb01dd8baf/resolution/700x295 700w,
-/photo/format/97f7901a-b035-462e-99b0-7dfb01dd8baf/resolution/525x221 525w">
-<img alt="Komunikat 2207" src="/photo/format/97f7901a-b035-462e-99b0-7dfb01dd8baf/resolution/1920x810">
-</picture>
-<div>
-<div class="event">
-<span class="date">
-22.07.2021
-</span>
-</div>
-<div class="title">Ustawa o jakości w ochronie zdrowia trafi do konsultacji publicznych</div>
-</div>
-</a>]]></content>
+        <title type="html"><![CDATA[Ochrona informacji w cyberprzestrzeni - Poradnik PRCyber-01]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/poradnik--prcyber-01</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/poradnik--prcyber-01"/>
+        <updated>2021-07-23T05:34:22.655Z</updated>
+        <content type="html"><![CDATA[Cyberbezpieczeństwo – jak chronić nasze informacje przed atakami w cyberprzestrzeni? (Maj 2020 r.)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rodzinny Kapitał Opiekuńczy. Projekt ustawy trafił do konsultacji społecznych]]></title>
-        <id>https://www.gov.pl/web/rodzina/rodzinny-kapital-opiekunczy-projekt-ustawy-trafil-do-konsultacji-spolecznych</id>
-        <link href="https://www.gov.pl/web/rodzina/rodzinny-kapital-opiekunczy-projekt-ustawy-trafil-do-konsultacji-spolecznych"/>
-        <updated>2021-07-22T17:42:52.120Z</updated>
-        <content type="html"><![CDATA[<a href="/web/rodzina/rodzinny-kapital-opiekunczy-projekt-ustawy-trafil-do-konsultacji-spolecznych">
-<picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/a33de50a-eb31-4f3f-9fe5-a7895a61ff2e/resolution/700x295 700w,
-/photo/format/a33de50a-eb31-4f3f-9fe5-a7895a61ff2e/resolution/1044x440 1044w,
-/photo/format/a33de50a-eb31-4f3f-9fe5-a7895a61ff2e/resolution/1328x560 1328w">
-<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.6875rem,
-(min-width: 80rem) 23.6vw,
-(min-width: 62.5rem) 29.625rem,
-(min-width: 43.75rem) 47vw" srcset="/photo/format/a33de50a-eb31-4f3f-9fe5-a7895a61ff2e/resolution/950x401 950w,
-/photo/format/a33de50a-eb31-4f3f-9fe5-a7895a61ff2e/resolution/700x295 700w,
-/photo/format/a33de50a-eb31-4f3f-9fe5-a7895a61ff2e/resolution/525x221 525w">
-<img alt="Na niebieskim tle w kółku wizerunek rodziny: rodzice; ciężarna mama i tata oraz dwójka dzieci. Obok duży napis: Rodzinny Kapitał Opiekuńczy. " src="/photo/format/a33de50a-eb31-4f3f-9fe5-a7895a61ff2e/resolution/1920x810">
-</picture>
-<div>
-<div class="event">
-<span class="date">
-22.07.2021
-</span>
-</div>
-<div class="title">Rodzinny Kapitał Opiekuńczy. Projekt ustawy trafił do konsultacji społecznych</div>
-</div>
-</a>]]></content>
+        <title type="html"><![CDATA[Zgłaszanie incydentów - Poradnik PRCyber-02]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/poradnik--prcyber-02</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/poradnik--prcyber-02"/>
+        <updated>2021-07-23T05:34:22.659Z</updated>
+        <content type="html"><![CDATA[Zgłaszanie incydentów przez jednostki samorządu terytorialnego (Maj 2020 r.)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bardzo dobre wyniki w handlu artykułami rolno-spożywczymi]]></title>
-        <id>https://www.gov.pl/web/rolnictwo/bardzo-dobre-wyniki-w-handlu-artykulami-rolno-spozywczymi</id>
-        <link href="https://www.gov.pl/web/rolnictwo/bardzo-dobre-wyniki-w-handlu-artykulami-rolno-spozywczymi"/>
-        <updated>2021-07-22T17:42:52.122Z</updated>
-        <content type="html"><![CDATA[<a href="/web/rolnictwo/bardzo-dobre-wyniki-w-handlu-artykulami-rolno-spozywczymi">
-<picture aria-hidden="true">
-<source media="(min-width: 0rem) and (max-width: 43.6875rem)" sizes="calc(100vw - 2.2em)" srcset="/photo/format/5187e557-d23d-4f24-a266-e6d604b7f927/resolution/700x295 700w,
-/photo/format/5187e557-d23d-4f24-a266-e6d604b7f927/resolution/1044x440 1044w,
-/photo/format/5187e557-d23d-4f24-a266-e6d604b7f927/resolution/1328x560 1328w">
-<source media="(min-width: 43.75rem)" sizes="(min-width: 93.75rem) 21.6875rem,
-(min-width: 80rem) 23.6vw,
-(min-width: 62.5rem) 29.625rem,
-(min-width: 43.75rem) 47vw" srcset="/photo/format/5187e557-d23d-4f24-a266-e6d604b7f927/resolution/950x401 950w,
-/photo/format/5187e557-d23d-4f24-a266-e6d604b7f927/resolution/700x295 700w,
-/photo/format/5187e557-d23d-4f24-a266-e6d604b7f927/resolution/525x221 525w">
-<img alt="Bardzo dobre wyniki w handlu artykułami rolno-spożywczymi" src="/photo/format/5187e557-d23d-4f24-a266-e6d604b7f927/resolution/1920x810">
-</picture>
-<div>
-<div class="event">
-<span class="date">
-21.07.2021
-</span>
-</div>
-<div class="title">Bardzo dobre wyniki w handlu artykułami rolno-spożywczymi</div>
-</div>
-</a>]]></content>
+        <title type="html"><![CDATA[Subskrypcja cyberwiadomości]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/subskrypcja-cyber-wiadomosci</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/subskrypcja-cyber-wiadomosci"/>
+        <updated>2021-07-23T05:34:22.660Z</updated>
+        <content type="html"><![CDATA[Formularz subskrypcji wiadomości z adresu CyberJST@mc.gov.pl (Czerwiec 2020 r.)]]></content>
     </entry>
 </feed>
