@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-23T05:34:23.074Z</updated>
+    <updated>2021-07-23T17:42:25.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -361,6 +361,13 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/co-nowego-w-google-family-link/#more-2340" class="more-link"><span class="faux-button">Kontynuuj czytanie</span> <span class="screen-reader-text">„Co nowego w Google Family Link”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kaseya otrzymała uniwersalny dekryptor, pozwalający na odszyfrowanie danych wszystkich ofiar incydentu (Sekurak)]]></title>
+        <id>https://sekurak.pl/kaseya-otrzymala-uniwersalny-dekryptor-pozwalajacy-na-odszyfrowanie-danych-wszystkich-ofiar-incydentu/</id>
+        <link href="https://sekurak.pl/kaseya-otrzymala-uniwersalny-dekryptor-pozwalajacy-na-odszyfrowanie-danych-wszystkich-ofiar-incydentu/"/>
+        <updated>2021-07-23T17:42:23.729Z</updated>
+        <content type="html"><![CDATA[Na początku lipca informowaliśmy Was o ataku na firmę Kaseya, która dostarcza oprogramowanie do zarządzania IT: Przestępcy za odszyfrowanie danych zażądali horrendalnej kwoty 70 milionów dolarów: Sytuacja stała się jeszcze bardziej napięta po tajemniczym „zniknięciu” grupy: Według przedstawiciela innej grupy ransomware’owej operatorzy REvil otrzymali swoiste ultimatum od lokalnych władz, zmuszające…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UWAGA – duża awaria DNSów Akamai. Nie działają serwisy: Airbnb, Steam, Lastpass, FedEx, SalesForce, … (Sekurak)]]></title>
         <id>https://sekurak.pl/uwaga-duza-awaria-dnsow-akamai-nie-dzialaja-serwisy-airbnb-steam-lastpass-fedex-salesforce/</id>
         <link href="https://sekurak.pl/uwaga-duza-awaria-dnsow-akamai-nie-dzialaja-serwisy-airbnb-steam-lastpass-fedex-salesforce/"/>
@@ -457,12 +464,5 @@
         <link href="https://sekurak.pl/cve-2021-22555-pietnastoletnia-podatnosc-w-linuksie-dajaca-eskalacje-uprawnien-do-root-a-jest-exploit/"/>
         <updated>2021-07-16T05:34:05.880Z</updated>
         <content type="html"><![CDATA[Ile jeszcze takich niespodzianek nas czeka? CVE-2021-22555 is a 15 years old heap out-of-bounds write vulnerability in Linux Netfilter that is powerful enough to bypass all modern security mitigations and achieve kernel code execution. Podatność (już załatana w kwietniu 2021) występuje w Netfilter i umożliwia sprawne uzyskanie uprawnień jądra z…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kuba: blackout Internetu i blokada mediów społecznościowych w trakcie antyrządowych protestów (Sekurak)]]></title>
-        <id>https://sekurak.pl/kuba-blackout-internetu-i-blokada-mediow-spolecznosciowych-w-trakcie-antyrzadowych-protestow/</id>
-        <link href="https://sekurak.pl/kuba-blackout-internetu-i-blokada-mediow-spolecznosciowych-w-trakcie-antyrzadowych-protestow/"/>
-        <updated>2021-07-15T09:02:40.919Z</updated>
-        <content type="html"><![CDATA[O tym, jak wielką siłę przebicia ma Internet, możemy przekonać się, obserwując działania współczesnej dyktatury na Kubie, która w ramach walki z trwającymi w całym kraju protestami postanowiła między innymi ograniczyć dostęp do Sieci: To jednak nie jedyna „atrakcja” przygotowana dla protestujących. Firma NetBlocks poinformowała, że główny dostawca usług telekomunikacyjnych…]]></content>
     </entry>
 </feed>
