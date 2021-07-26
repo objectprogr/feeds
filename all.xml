@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-26T05:34:31.115Z</updated>
+    <updated>2021-07-26T17:41:07.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -122,6 +122,13 @@
         <link href="https://www.gov.pl/web/baza-wiedzy/media-spolecznosciowe-jak-bezpiecznie-z-nich-korzystac"/>
         <updated>2021-07-13T11:36:01.558Z</updated>
         <content type="html"><![CDATA[Aby zarządzać swoimi cyfrowymi śladami, użyj ustawień prywatności na różnych platformach społecznościowych.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Narodowe Standardy Cyberbezpieczeństwa (Dla profesjonalistow)]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/narodowe-standardy-cyberbezpieczenstwa</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/narodowe-standardy-cyberbezpieczenstwa"/>
+        <updated>2021-07-26T17:41:06.720Z</updated>
+        <content type="html"><![CDATA[Przewodniki metodyczne ułatwiające zbudowanie efektywnego systemu zarządzania bezpieczeństwem informacji w oparciu o praktykę stosowaną w administracji federalnej USA. (Lipiec 2021 r.)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rekomendacje cyberbezpieczeństwa dla sektora wodno-kanalizacyjnego - R-CYBER-1/2021 (Dla profesjonalistow)]]></title>
@@ -361,6 +368,13 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/co-nowego-w-google-family-link/#more-2340" class="more-link"><span class="faux-button">Kontynuuj czytanie</span> <span class="screen-reader-text">„Co nowego w Google Family Link”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[16-letnia podatność w sterownikach niektórych drukarek (Sekurak)]]></title>
+        <id>https://sekurak.pl/16-letnia-podatnosc-w-sterownikach-niektorych-drukarek/</id>
+        <link href="https://sekurak.pl/16-letnia-podatnosc-w-sterownikach-niektorych-drukarek/"/>
+        <updated>2021-07-26T17:41:06.720Z</updated>
+        <content type="html"><![CDATA[Podatność CVE-2021-3438 została odkryta niedawno, bo 18 lutego, ale w kodach źródłowych sterowników znajdowała się od 16 lat. Dotyczy ona jedynie starszych modeli drukarek HP, Samsung i Xerox. Niestety nie oznacza to, że luka nie jest poważna, bo obejmuje stosunkowo popularne modele (łącznie około 400). Wykorzystanie podatności pozwala na podniesienie…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kaseya otrzymała uniwersalny dekryptor, pozwalający na odszyfrowanie danych wszystkich ofiar incydentu (Sekurak)]]></title>
         <id>https://sekurak.pl/kaseya-otrzymala-uniwersalny-dekryptor-pozwalajacy-na-odszyfrowanie-danych-wszystkich-ofiar-incydentu/</id>
         <link href="https://sekurak.pl/kaseya-otrzymala-uniwersalny-dekryptor-pozwalajacy-na-odszyfrowanie-danych-wszystkich-ofiar-incydentu/"/>
@@ -457,12 +471,5 @@
         <link href="https://sekurak.pl/zdjeto-kanal-na-telegramie-gdzie-publikowano-tresci-z-wlamania-na-konto-min-dworczyka/"/>
         <updated>2021-07-16T05:34:05.879Z</updated>
         <content type="html"><![CDATA[Na razie udało nam się pozyskać dość lakoniczną informację: W wyniku działań podjętych przez KPRM, kanały na których publikowano treści pozyskane w wyniku włamań na skrzynki min. Dworczyka, zostały zablokowane. Procedura trwała około miesiąca, wymagała analizy prawnej i technologicznej. Początkowo zdejmowane były poszczególne wiadomości, na przykład te ze zdjęciami dowodu…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVE-2021-22555: piętnastoletnia podatność w Linuksie, dająca eskalację uprawnień do root-a. Jest exploit. (Sekurak)]]></title>
-        <id>https://sekurak.pl/cve-2021-22555-pietnastoletnia-podatnosc-w-linuksie-dajaca-eskalacje-uprawnien-do-root-a-jest-exploit/</id>
-        <link href="https://sekurak.pl/cve-2021-22555-pietnastoletnia-podatnosc-w-linuksie-dajaca-eskalacje-uprawnien-do-root-a-jest-exploit/"/>
-        <updated>2021-07-16T05:34:05.880Z</updated>
-        <content type="html"><![CDATA[Ile jeszcze takich niespodzianek nas czeka? CVE-2021-22555 is a 15 years old heap out-of-bounds write vulnerability in Linux Netfilter that is powerful enough to bypass all modern security mitigations and achieve kernel code execution. Podatność (już załatana w kwietniu 2021) występuje w Netfilter i umożliwia sprawne uzyskanie uprawnień jądra z…]]></content>
     </entry>
 </feed>

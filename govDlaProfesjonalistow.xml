@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gov.pl/web/baza-wiedzy/dla-profesjonalistow</id>
     <title>Dla profesjonalistow</title>
-    <updated>2021-07-26T05:34:31.092Z</updated>
+    <updated>2021-07-26T17:41:06.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gov.pl/img/icons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Narodowe Standardy Cyberbezpieczeństwa]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/narodowe-standardy-cyberbezpieczenstwa</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/narodowe-standardy-cyberbezpieczenstwa"/>
+        <updated>2021-07-26T17:41:06.720Z</updated>
+        <content type="html"><![CDATA[Przewodniki metodyczne ułatwiające zbudowanie efektywnego systemu zarządzania bezpieczeństwem informacji w oparciu o praktykę stosowaną w administracji federalnej USA. (Lipiec 2021 r.)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rekomendacje cyberbezpieczeństwa dla sektora wodno-kanalizacyjnego - R-CYBER-1/2021]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/rekomendacje-cyberbezpieczenstwa-dla-sektora-wodno-kanalizacyjnego---r-cyber-12021-</id>
