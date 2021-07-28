@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-28T05:34:29.422Z</updated>
+    <updated>2021-07-28T17:42:53.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -368,6 +368,13 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/co-nowego-w-google-family-link/#more-2340" class="more-link"><span class="faux-button">Kontynuuj czytanie</span> <span class="screen-reader-text">„Co nowego w Google Family Link”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mariusz Kamiński ogłosił plany utworzenia Centralnego Biura Zwalczania Cyberprzestępczości (Sekurak)]]></title>
+        <id>https://sekurak.pl/mariusz-kaminski-oglosil-plany-utworzenia-centralnego-biura-zwalczania-cyberprzestepczosci/</id>
+        <link href="https://sekurak.pl/mariusz-kaminski-oglosil-plany-utworzenia-centralnego-biura-zwalczania-cyberprzestepczosci/"/>
+        <updated>2021-07-28T17:42:53.012Z</updated>
+        <content type="html"><![CDATA[27 lipca odbyła się konferencja prasowa na temat cyberbezpieczeństwa, w której udział wzięli: premier Mateusz Morawiecki, minister spraw wewnętrznych i administracji Mariusz Kamiński oraz pełnomocnik rządu ds. cyberbezpieczeństwa Janusz Cieszyński. Zapis całej konferencji jest już dostępny na YouTubie: Morawiecki, powołując się na coraz bardziej agresywne działania grup cyberprzestępczych, takich jak…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zarobił ~200 000 PLN, znajdując „niewinną” informację w publicznej appce… (Sekurak)]]></title>
         <id>https://sekurak.pl/zarobil-200-000-pln-znajdujac-niewinna-informacje-w-publicznej-appce/</id>
         <link href="https://sekurak.pl/zarobil-200-000-pln-znajdujac-niewinna-informacje-w-publicznej-appce/"/>
@@ -464,12 +471,5 @@
         <link href="https://sekurak.pl/najnowszy-ios-podatny-na-zdalne-hackowanie-i-instalacje-pegasusa-wystarczy-wyslac-jedna-zlosliwa-wiadomosc/"/>
         <updated>2021-07-19T05:33:57.849Z</updated>
         <content type="html"><![CDATA[Właśnie rozkręca się nowa afera z Pegasusem – zidentyfikowano ~50 000 numerów telefonicznych, które były w kręgu zainteresowań ~rządów. Na celowniku było m.in. ~180 dziennikarzy: They include the Wall Street Journal, CNN, the New York Times, Al Jazeera, France 24, Radio Free Europe, Mediapart, El País, Associated Press, Le Monde,…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevilsTongue, czyli lepszy Pegasus od izraelskiej firmy Candiru (Sekurak)]]></title>
-        <id>https://sekurak.pl/devilstongue-czyli-lepszy-pegasus-od-izraelskiej-firmy-candiru/</id>
-        <link href="https://sekurak.pl/devilstongue-czyli-lepszy-pegasus-od-izraelskiej-firmy-candiru/"/>
-        <updated>2021-07-16T17:43:08.367Z</updated>
-        <content type="html"><![CDATA[Jakiś czas temu pisaliśmy o rosyjskim SWR, które wykorzystywało podatność w Safari do kradzieży ciasteczek autoryzujących z urządzeń ofiar. W raporcie Google’a możemy znaleźć również informacje dotyczące podatności w Google Chrome i Internet Explorer, które „zostały opracowane i sprzedane przez tego samego dostawcę, który zapewnia funkcje nadzoru klientom na całym…]]></content>
     </entry>
 </feed>
