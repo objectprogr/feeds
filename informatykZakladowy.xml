@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://informatykzakladowy.pl/</id>
     <title>Informatyk zakladowu</title>
-    <updated>2021-07-30T05:34:07.663Z</updated>
+    <updated>2021-07-30T17:41:30.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://informatykzakladowy.pl/wp-content/uploads/2020/01/glowka500-150x150.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[O algorytmach dla prawników]]></title>
+        <id>https://informatykzakladowy.pl/o-algorytmach-dla-prawnikow/</id>
+        <link href="https://informatykzakladowy.pl/o-algorytmach-dla-prawnikow/"/>
+        <updated>2021-07-30T17:41:24.179Z</updated>
+        <content type="html"><![CDATA[<p>Kopciuszek nie podał Dobrej Wróżce specyfikacji karety, zaprzęgu, sukni ani pantofelków, wystarczyło Marzenie. Dobra Wróżka nie potrzebowała algorytmu opisującego kolejność transformacji flory i fauny w dwuślad z rzędem i fiakrem, miała Zaklęcie. Odległe echo takiego podejścia odnajdujemy w <a href="http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001141">Regulaminie urzędowania sądów powszechnych</a>, gdzie zamiast algorytmów działania SLPS mamy jedynie zarysy kształtu i okruchy specyfikacji. Niestety, życie to nie bajka, kobiety żyjące z uprawiania magii nie zniżają się do realizacji projektów IT – zamiast karety mamy więc furmankę z dyszlem z tyłu. Niby da się jechać, ale nie uciekniemy od pytania „gdzie był opis wymagań tego czegoś”.</p>
+
+
+
+<p>Niniejszy artykuł inspirowany jest <a href="https://mojepanstwo.pl/postepowania/7">wieloletnim sporem sądowym</a> Fundacji Moje Państwo o dostęp do kodu źródłowego i algorytmu działania Systemu Losowego Przydziału Spraw (o którym pisałem <a href="https://informatykzakladowy.pl/system-pseudolosowego-przydzialu-spraw/">tutaj</a> i <a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/">tutaj</a>). Zastanowimy się, czy rzeczywiście algorytm zawsze oderwany jest od kodu źródłowego oprogramowania, czy zawsze algorytm zostanie prawidłowo przełożony na kod, i wreszcie – w jaki sposób spełnić takie żądanie, gdy… spójna specyfikacja algorytmu nigdy nie powstała, zaś wyprodukowane oprogramowanie zawiera fundamentalne błędy. Mam nadzieję, że informacje zawarte w tekście przydadzą się prawnikom – wraz z cyfryzacją usług publicznych podobnych tematów będzie raczej przybywać niż ubywać.</p>
+
+
+
+ <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/o-algorytmach-dla-prawnikow/#more-2624" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„O algorytmach dla prawników”</span></a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No code, no woman, no cry]]></title>
         <id>https://informatykzakladowy.pl/no-code-no-woman-no-cry/</id>
@@ -163,20 +178,5 @@
 
 
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/#more-2361" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia”</span></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Co nowego w Google Family Link]]></title>
-        <id>https://informatykzakladowy.pl/co-nowego-w-google-family-link/</id>
-        <link href="https://informatykzakladowy.pl/co-nowego-w-google-family-link/"/>
-        <updated>2021-07-14T12:49:35.686Z</updated>
-        <content type="html"><![CDATA[<p>Jednym z pierwszych artykułów opublikowanych na niniejszym blogu był <a href="https://informatykzakladowy.pl/zarzadzamy-telefonem-dziecka-kompletny-przewodnik-po-google-family-link/">tekst o aplikacji Google Family Link</a>. Wciąż klika się on wyśmienicie, bo jest najbardziej kompletnym opisem tej apki w języku polskim. Dziś publikuję krótką informację o nowościach, które pojawiły się w Family Linku w marcu 2021.</p>
-
-
-
-<p>Mowa m.in. o liście zawsze dozwolonych aplikacji, które pozostają dostępne dla dziecka nawet po wyczerpaniu limitu czasu korzystania z urządzenia. Poprzednio jedyną taką funkcją było wykonywanie połączeń telefonicznych – teraz możemy dorzucić tam komunikatory, dzienniczek elektroniczny, Teams oraz inne aplikacje potrzebne do zdalnych lekcji.</p>
-
-
-
- <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/co-nowego-w-google-family-link/#more-2340" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„Co nowego w Google Family Link”</span></a></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-30T05:34:07.666Z</updated>
+    <updated>2021-07-30T17:41:30.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -194,6 +194,21 @@
         <content type="html"><![CDATA[Zestaw rekomendowanych minimalnych środków przeciwdziałających skutkom incydentu cyberbezpieczeństwa (Kwiecień 2020 r.)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[O algorytmach dla prawników (Informatyk zakladowu)]]></title>
+        <id>https://informatykzakladowy.pl/o-algorytmach-dla-prawnikow/</id>
+        <link href="https://informatykzakladowy.pl/o-algorytmach-dla-prawnikow/"/>
+        <updated>2021-07-30T17:41:24.179Z</updated>
+        <content type="html"><![CDATA[<p>Kopciuszek nie podał Dobrej Wróżce specyfikacji karety, zaprzęgu, sukni ani pantofelków, wystarczyło Marzenie. Dobra Wróżka nie potrzebowała algorytmu opisującego kolejność transformacji flory i fauny w dwuślad z rzędem i fiakrem, miała Zaklęcie. Odległe echo takiego podejścia odnajdujemy w <a href="http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001141">Regulaminie urzędowania sądów powszechnych</a>, gdzie zamiast algorytmów działania SLPS mamy jedynie zarysy kształtu i okruchy specyfikacji. Niestety, życie to nie bajka, kobiety żyjące z uprawiania magii nie zniżają się do realizacji projektów IT – zamiast karety mamy więc furmankę z dyszlem z tyłu. Niby da się jechać, ale nie uciekniemy od pytania „gdzie był opis wymagań tego czegoś”.</p>
+
+
+
+<p>Niniejszy artykuł inspirowany jest <a href="https://mojepanstwo.pl/postepowania/7">wieloletnim sporem sądowym</a> Fundacji Moje Państwo o dostęp do kodu źródłowego i algorytmu działania Systemu Losowego Przydziału Spraw (o którym pisałem <a href="https://informatykzakladowy.pl/system-pseudolosowego-przydzialu-spraw/">tutaj</a> i <a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/">tutaj</a>). Zastanowimy się, czy rzeczywiście algorytm zawsze oderwany jest od kodu źródłowego oprogramowania, czy zawsze algorytm zostanie prawidłowo przełożony na kod, i wreszcie – w jaki sposób spełnić takie żądanie, gdy… spójna specyfikacja algorytmu nigdy nie powstała, zaś wyprodukowane oprogramowanie zawiera fundamentalne błędy. Mam nadzieję, że informacje zawarte w tekście przydadzą się prawnikom – wraz z cyfryzacją usług publicznych podobnych tematów będzie raczej przybywać niż ubywać.</p>
+
+
+
+ <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/o-algorytmach-dla-prawnikow/#more-2624" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„O algorytmach dla prawników”</span></a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[No code, no woman, no cry (Informatyk zakladowu)]]></title>
         <id>https://informatykzakladowy.pl/no-code-no-woman-no-cry/</id>
         <link href="https://informatykzakladowy.pl/no-code-no-woman-no-cry/"/>
@@ -353,19 +368,25 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/#more-2361" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia”</span></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Co nowego w Google Family Link (Informatyk zakladowu)]]></title>
-        <id>https://informatykzakladowy.pl/co-nowego-w-google-family-link/</id>
-        <link href="https://informatykzakladowy.pl/co-nowego-w-google-family-link/"/>
-        <updated>2021-07-14T12:49:35.686Z</updated>
-        <content type="html"><![CDATA[<p>Jednym z pierwszych artykułów opublikowanych na niniejszym blogu był <a href="https://informatykzakladowy.pl/zarzadzamy-telefonem-dziecka-kompletny-przewodnik-po-google-family-link/">tekst o aplikacji Google Family Link</a>. Wciąż klika się on wyśmienicie, bo jest najbardziej kompletnym opisem tej apki w języku polskim. Dziś publikuję krótką informację o nowościach, które pojawiły się w Family Linku w marcu 2021.</p>
-
-
-
-<p>Mowa m.in. o liście zawsze dozwolonych aplikacji, które pozostają dostępne dla dziecka nawet po wyczerpaniu limitu czasu korzystania z urządzenia. Poprzednio jedyną taką funkcją było wykonywanie połączeń telefonicznych – teraz możemy dorzucić tam komunikatory, dzienniczek elektroniczny, Teams oraz inne aplikacje potrzebne do zdalnych lekcji.</p>
-
-
-
- <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/co-nowego-w-google-family-link/#more-2340" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„Co nowego w Google Family Link”</span></a></div>]]></content>
+        <title type="html"><![CDATA[Magia SEO, Punycode i Google Ads, czyli fałszywa strona przeglądarki Brave (Sekurak)]]></title>
+        <id>https://sekurak.pl/magia-seo-punycode-i-google-ads-czyli-falszywa-strona-przegladarki-brave/</id>
+        <link href="https://sekurak.pl/magia-seo-punycode-i-google-ads-czyli-falszywa-strona-przegladarki-brave/"/>
+        <updated>2021-07-30T17:41:22.758Z</updated>
+        <content type="html"><![CDATA[Jeśli korzystasz z wyszukiwarki Google, to z pewnością nieraz spotkałeś się z reklamami serwowanymi przez Google Ads: Badaczka bezpieczeństwa Yan Zhu odkryła kampanię cyberprzestępców, którzy wykorzystują system reklamowy Google Ads do promowania fałszywej strony przeglądarki Brave: Choć na pierwszy rzut oka fałszywa strona wygląda bliźniaczo podobnie do swojego prawdziwego odpowiednika,…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nalot Ministerstwa Obrony Izraela na biura twórców Pegasusa – NSO Group (Sekurak)]]></title>
+        <id>https://sekurak.pl/nalot-ministerstwa-obrony-izraela-na-biura-tworcow-pegasusa-nso-group/</id>
+        <link href="https://sekurak.pl/nalot-ministerstwa-obrony-izraela-na-biura-tworcow-pegasusa-nso-group/"/>
+        <updated>2021-07-30T17:41:22.758Z</updated>
+        <content type="html"><![CDATA[O akcji mogliśmy dowiedzieć się za sprawą tweeta zamieszczonego przez Ministerstwo Obrony Izraela: „Przedstawiciele wielu organów przybyli dziś do firmy NSO, aby zbadać publikacje i zarzuty podniesione w jej sprawie”. Nieco więcej możemy dowiedzieć się z artykułu „Yedioth Ahronoth” – jednego z największych izraelskich mediów: Według autora tekstu atak został…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlackMatter, czyli nowa grupa ransomware’owa z depozytem 150 tysięcy dolarów (Sekurak)]]></title>
+        <id>https://sekurak.pl/blackmatter-czyli-nowa-grupa-ransomwareowa-z-depozytem-150-tysiecy-dolarow/</id>
+        <link href="https://sekurak.pl/blackmatter-czyli-nowa-grupa-ransomwareowa-z-depozytem-150-tysiecy-dolarow/"/>
+        <updated>2021-07-30T17:41:22.758Z</updated>
+        <content type="html"><![CDATA[Tydzień temu na rosyjskim forum cyberprzestępczym exploit.in pojawił się nowy wątek od użytkownika BlackMatter, który poszukuje sprzedawców tzw. punktów wejścia do sieci korporacyjnych: Warto zwrócić uwagę na depozyt w wysokości ok. 150 tysięcy dolarów, co – jak na świeżo zarejestrowanego użytkownika – jest dość dużą kwotą. Z kolei analiza Recorded…]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Polscy policjanci zatrzymali Białorusinów którzy włamywali się do bankomatów. (Sekurak)]]></title>
@@ -450,26 +471,5 @@
         <link href="https://sekurak.pl/jak-stosowac-nowoczesne-mechanizmy-przegladarkowe-w-celu-zabezpieczenia-aplikacji-webowej/"/>
         <updated>2021-07-22T05:34:19.657Z</updated>
         <content type="html"><![CDATA[Już w najbliższy piątek o 09:00 Michał Bentkowski poprowadzi unikalne szkolenie o wykorzystaniu nowoczesnych mechanizmów przeglądarkowych w celu lepszego zabezpieczenia aplikacji webowych. W ostatnich latach twórcy przeglądarek wprowadzili szereg mechanizmów, które pozwalają na lepsze zabezpieczenie aplikacji WWW przed atakami i pozwalają na lepsze zabezpieczenie danych użytkowników. Niektóre z nich są…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podatność Serious Sam, czyli wpadka Microsoftu z uprawnieniami do pliku SAM – eskalacja uprawnień Windows 10/11 (Sekurak)]]></title>
-        <id>https://sekurak.pl/podatnosc-serious-sam-czyli-wpadka-microsoftu-z-uprawnieniami-do-pliku-sam-eskalacja-uprawnien-windows-10-11/</id>
-        <link href="https://sekurak.pl/podatnosc-serious-sam-czyli-wpadka-microsoftu-z-uprawnieniami-do-pliku-sam-eskalacja-uprawnien-windows-10-11/"/>
-        <updated>2021-07-21T17:43:19.026Z</updated>
-        <content type="html"><![CDATA[Ostatnie miesiące nie były najlepsze dla Microsoftu – jeśli mówimy o błędach bezpieczeństwa – czego żywym dowodem jest znalezisko Jonasa Lykkegraarda: Badacz odkrył trywialny błąd, który pozwala nieuprzywilejowanemu użytkownikowi na odczytanie plików SAM, SYSTEM czy SECURITY. Innymi słowy – zwykły użytkownik, nie będący administratorem, jest w stanie odczytać sekrety systemu,…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gmina Konstancin-Jeziorna w wyniku cyberataku straciła 5 mln PLN. Na celowniku kolejne gminy… (Sekurak)]]></title>
-        <id>https://sekurak.pl/gmina-konstancin-jeziorna-w-wyniku-cyberataku-stracila-5-mln-pln-na-celowniku-kolejne-gminy/</id>
-        <link href="https://sekurak.pl/gmina-konstancin-jeziorna-w-wyniku-cyberataku-stracila-5-mln-pln-na-celowniku-kolejne-gminy/"/>
-        <updated>2021-07-20T17:41:57.062Z</updated>
-        <content type="html"><![CDATA[PAP donosi o następującym oszustwie: 5 mln zł zniknęło z lokaty założonej przez gminę Konstancin Jeziorna w jednym z banków – podaje portal piasecznonews.pl. Nie wiem, czy uda się odzyskać te pieniądze – komentuje burmistrz Kazimierz Jańczuk. Jak czytamy, pod koniec marca gmina założyła w jednym z banków lokatę na…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone: zdalne wykonanie kodu bez interakcji z użytkownikiem, czyli niewinna luka z hotspotem „%p%s%s%s%s%n” (Sekurak)]]></title>
-        <id>https://sekurak.pl/iphone-zdalne-wykonanie-kodu-bez-interakcji-z-uzytkownikiem-czyli-niewinna-luka-z-hotspotem-pssssn/</id>
-        <link href="https://sekurak.pl/iphone-zdalne-wykonanie-kodu-bez-interakcji-z-uzytkownikiem-czyli-niewinna-luka-z-hotspotem-pssssn/"/>
-        <updated>2021-07-19T17:42:52.706Z</updated>
-        <content type="html"><![CDATA[Jakiś czas temu pisaliśmy o ciekawym znalezisku badacza bezpieczeństwa Carla Schou: Dołączenie do hotspota o SSID „%p%s%s%s%s%n” sprawiało, że nasz iPhone nie był w stanie nawiązać połączenia z Wi-Fi, nawet jeśli został on ponownie uruchomiony lub gdy nazwa feralnego hotspota została zmieniona. Według Carla wykorzystanie wyżej wspomnianego błędu w praktyce…]]></content>
     </entry>
 </feed>
