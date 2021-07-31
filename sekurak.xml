@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-07-31T05:34:10.141Z</updated>
+    <updated>2021-07-31T17:40:48.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tauron: wyciekły nagrania rozmów „z niektórymi klientami”.]]></title>
+        <id>https://sekurak.pl/tauron-wyciekly-nagrania-rozmow-z-niektorymi-klientami/</id>
+        <link href="https://sekurak.pl/tauron-wyciekly-nagrania-rozmow-z-niektorymi-klientami/"/>
+        <updated>2021-07-31T17:40:47.968Z</updated>
+        <content type="html"><![CDATA[Jeden z czytelników przesłał nam e-mail, który otrzymał od Taurona: Więcej o całym incydencie można przeczytać tutaj: Poinformowaliśmy Prezesa Urzędu Ochrony Danych Osobowych i właściwe organy ścigania oraz wydaliśmy dyspozycję o zamknięciu serwerów (…) Ustaliliśmy, że w wyniku tego incydentu mogły zostać ściągnięte nagrania rozmów, które firmy współpracujące z TAURONEM…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Magia SEO, Punycode i Google Ads, czyli fałszywa strona przeglądarki Brave]]></title>
         <id>https://sekurak.pl/magia-seo-punycode-i-google-ads-czyli-falszywa-strona-przegladarki-brave/</id>
@@ -102,12 +109,5 @@
         <link href="https://sekurak.pl/sequoia-nowa-podatnosc-klasy-priv-escalation-na-linuksa-exploit-dziala-na-debiana-11-ubuntu-20-10-ubuntu-21-04-i-wiele-innych/"/>
         <updated>2021-07-22T05:34:19.653Z</updated>
         <content type="html"><![CDATA[Miejcie rękę na pulsie w temacie łatania luki CVE-2021-33909. Techniczny opis podatności dostępny jest tutaj, a badacze z Qualysa dodają, że podatność istnieje od 2014 roku (Linux 3.16). Na razie opublikowali prostego PoC exploita (crash), ale niebawem ma pokazać się pełen exploit. Luka, jak wspomniałem w tytule, umożliwia eskalację uprawnień…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak stosować nowoczesne mechanizmy przeglądarkowe w celu zabezpieczenia aplikacji webowej?]]></title>
-        <id>https://sekurak.pl/jak-stosowac-nowoczesne-mechanizmy-przegladarkowe-w-celu-zabezpieczenia-aplikacji-webowej/</id>
-        <link href="https://sekurak.pl/jak-stosowac-nowoczesne-mechanizmy-przegladarkowe-w-celu-zabezpieczenia-aplikacji-webowej/"/>
-        <updated>2021-07-22T05:34:19.657Z</updated>
-        <content type="html"><![CDATA[Już w najbliższy piątek o 09:00 Michał Bentkowski poprowadzi unikalne szkolenie o wykorzystaniu nowoczesnych mechanizmów przeglądarkowych w celu lepszego zabezpieczenia aplikacji webowych. W ostatnich latach twórcy przeglądarek wprowadzili szereg mechanizmów, które pozwalają na lepsze zabezpieczenie aplikacji WWW przed atakami i pozwalają na lepsze zabezpieczenie danych użytkowników. Niektóre z nich są…]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-31T05:34:10.131Z</updated>
+    <updated>2021-07-31T17:40:48.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -368,6 +368,13 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/#more-2361" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tauron: wyciekły nagrania rozmów „z niektórymi klientami”. (Sekurak)]]></title>
+        <id>https://sekurak.pl/tauron-wyciekly-nagrania-rozmow-z-niektorymi-klientami/</id>
+        <link href="https://sekurak.pl/tauron-wyciekly-nagrania-rozmow-z-niektorymi-klientami/"/>
+        <updated>2021-07-31T17:40:47.968Z</updated>
+        <content type="html"><![CDATA[Jeden z czytelników przesłał nam e-mail, który otrzymał od Taurona: Więcej o całym incydencie można przeczytać tutaj: Poinformowaliśmy Prezesa Urzędu Ochrony Danych Osobowych i właściwe organy ścigania oraz wydaliśmy dyspozycję o zamknięciu serwerów (…) Ustaliliśmy, że w wyniku tego incydentu mogły zostać ściągnięte nagrania rozmów, które firmy współpracujące z TAURONEM…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Magia SEO, Punycode i Google Ads, czyli fałszywa strona przeglądarki Brave (Sekurak)]]></title>
         <id>https://sekurak.pl/magia-seo-punycode-i-google-ads-czyli-falszywa-strona-przegladarki-brave/</id>
         <link href="https://sekurak.pl/magia-seo-punycode-i-google-ads-czyli-falszywa-strona-przegladarki-brave/"/>
@@ -464,12 +471,5 @@
         <link href="https://sekurak.pl/sequoia-nowa-podatnosc-klasy-priv-escalation-na-linuksa-exploit-dziala-na-debiana-11-ubuntu-20-10-ubuntu-21-04-i-wiele-innych/"/>
         <updated>2021-07-22T05:34:19.653Z</updated>
         <content type="html"><![CDATA[Miejcie rękę na pulsie w temacie łatania luki CVE-2021-33909. Techniczny opis podatności dostępny jest tutaj, a badacze z Qualysa dodają, że podatność istnieje od 2014 roku (Linux 3.16). Na razie opublikowali prostego PoC exploita (crash), ale niebawem ma pokazać się pełen exploit. Luka, jak wspomniałem w tytule, umożliwia eskalację uprawnień…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak stosować nowoczesne mechanizmy przeglądarkowe w celu zabezpieczenia aplikacji webowej? (Sekurak)]]></title>
-        <id>https://sekurak.pl/jak-stosowac-nowoczesne-mechanizmy-przegladarkowe-w-celu-zabezpieczenia-aplikacji-webowej/</id>
-        <link href="https://sekurak.pl/jak-stosowac-nowoczesne-mechanizmy-przegladarkowe-w-celu-zabezpieczenia-aplikacji-webowej/"/>
-        <updated>2021-07-22T05:34:19.657Z</updated>
-        <content type="html"><![CDATA[Już w najbliższy piątek o 09:00 Michał Bentkowski poprowadzi unikalne szkolenie o wykorzystaniu nowoczesnych mechanizmów przeglądarkowych w celu lepszego zabezpieczenia aplikacji webowych. W ostatnich latach twórcy przeglądarek wprowadzili szereg mechanizmów, które pozwalają na lepsze zabezpieczenie aplikacji WWW przed atakami i pozwalają na lepsze zabezpieczenie danych użytkowników. Niektóre z nich są…]]></content>
     </entry>
 </feed>
