@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-02T05:34:15.196Z</updated>
+    <updated>2021-08-02T17:41:51.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -368,6 +368,13 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/#more-2361" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wyciek 780 GB kodów źródłowych należących do EA. Wśród nich znajdziemy między innymi kod gry FIFA 21 (Sekurak)]]></title>
+        <id>https://sekurak.pl/wyciek-780-gb-kodow-zrodlowych-nalezacych-do-ea-wsrod-nich-znajdziemy-miedzy-innymi-kod-gry-fifa-21/</id>
+        <link href="https://sekurak.pl/wyciek-780-gb-kodow-zrodlowych-nalezacych-do-ea-wsrod-nich-znajdziemy-miedzy-innymi-kod-gry-fifa-21/"/>
+        <updated>2021-08-02T17:41:50.279Z</updated>
+        <content type="html"><![CDATA[Jakiś czas temu informowaliśmy Was o incydencie z Electronic Arts, w wyniku którego napastnicy uzyskali 780 GB danych, w tym między innymi kod źródłowy gry FIFA 21: Z perspektywy czasu dowiedzieliśmy się nieco więcej o samym ataku – przestępcy wykupili ciasteczka sesji do konta na Slacku (komunikator stworzony z myślą…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tauron: wyciekły nagrania rozmów „z niektórymi klientami”. (Sekurak)]]></title>
         <id>https://sekurak.pl/tauron-wyciekly-nagrania-rozmow-z-niektorymi-klientami/</id>
         <link href="https://sekurak.pl/tauron-wyciekly-nagrania-rozmow-z-niektorymi-klientami/"/>
@@ -464,12 +471,5 @@
         <link href="https://sekurak.pl/kilka-komentarzy-odnosnie-ostatniej-afery-z-pegasusem/"/>
         <updated>2021-07-22T17:42:50.611Z</updated>
         <content type="html"><![CDATA[Ostatnio znane oprogramowanie do inwigilacji ponownie stało się tematem artykułów. Wbrew pozorom zwykły obywatel przypuszczalnie nie musi obawiać się infekcji Pegasusem. Utrzymanie jego „lokalnej” infrastruktury wymaga sporych nakładów finansowych, więc to oprogramowanie jest w pewnym sensie zarezerwowane dla najistotniejszych celów. Zdecydowanie większe zagrożenie stanowi zwykły malware. Natomiast dowiadujemy się kilku…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sequoia – nowa podatność klasy priv escalation na Linuksa. Exploit działa na  Debiana 11, Ubuntu 20.10, Ubuntu 21.04 i wiele innych (Sekurak)]]></title>
-        <id>https://sekurak.pl/sequoia-nowa-podatnosc-klasy-priv-escalation-na-linuksa-exploit-dziala-na-debiana-11-ubuntu-20-10-ubuntu-21-04-i-wiele-innych/</id>
-        <link href="https://sekurak.pl/sequoia-nowa-podatnosc-klasy-priv-escalation-na-linuksa-exploit-dziala-na-debiana-11-ubuntu-20-10-ubuntu-21-04-i-wiele-innych/"/>
-        <updated>2021-07-22T05:34:19.653Z</updated>
-        <content type="html"><![CDATA[Miejcie rękę na pulsie w temacie łatania luki CVE-2021-33909. Techniczny opis podatności dostępny jest tutaj, a badacze z Qualysa dodają, że podatność istnieje od 2014 roku (Linux 3.16). Na razie opublikowali prostego PoC exploita (crash), ale niebawem ma pokazać się pełen exploit. Luka, jak wspomniałem w tytule, umożliwia eskalację uprawnień…]]></content>
     </entry>
 </feed>
