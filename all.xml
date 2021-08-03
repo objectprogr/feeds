@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-03T05:34:08.988Z</updated>
+    <updated>2021-08-03T17:48:35.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -368,6 +368,20 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/#more-2361" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Luka bezpieczeństwa w mechanizmie logowania w portalu edukacyjnym Uniwersytetu Gdańskiego (Sekurak)]]></title>
+        <id>https://sekurak.pl/luka-bezpieczenstwa-w-mechanizmie-logowania-w-portalu-edukacyjnym-uniwersytetu-gdanskiego/</id>
+        <link href="https://sekurak.pl/luka-bezpieczenstwa-w-mechanizmie-logowania-w-portalu-edukacyjnym-uniwersytetu-gdanskiego/"/>
+        <updated>2021-08-03T17:48:34.561Z</updated>
+        <content type="html"><![CDATA[W 2021 roku programiści mają ułatwione zadanie, jeśli chodzi o utrzymanie bezpieczeństwa swojego dzieła. Frameworki frontendowe pokroju Reacta czy Angulara eliminują w większości przypadków XSS-y, zaś gdy mówimy o backendzie, to Laravel czy ASP.NET Core umożliwiają wygenerowanie projektu z gotowym i względnie bezpiecznym systemem logowania oraz rejestracji użytkowników. Niestety, systemy…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Od skradzionego laptopa do firmowej sieci (Sekurak)]]></title>
+        <id>https://sekurak.pl/od-skradzionego-laptopa-do-firmowej-sieci/</id>
+        <link href="https://sekurak.pl/od-skradzionego-laptopa-do-firmowej-sieci/"/>
+        <updated>2021-08-03T17:48:34.562Z</updated>
+        <content type="html"><![CDATA[Wbrew pozorom w większości przypadków ten temat nie brzmi nierealnie. Sporo osób, szczególnie z IT, pracuje zdalnie, a dostęp do zasobów firmowych z domu jest potrzebny. O ile przy dobrym poziomie zabezpieczeń ryzyko można zminimalizować, to niestety nie każdy szyfruje dyski, aktualizuje oprogramowanie czy wykonuje kopie zapasowe. W opisanym przypadku…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wyciek 780 GB kodów źródłowych należących do EA. Wśród nich znajdziemy między innymi kod gry FIFA 21 (Sekurak)]]></title>
         <id>https://sekurak.pl/wyciek-780-gb-kodow-zrodlowych-nalezacych-do-ea-wsrod-nich-znajdziemy-miedzy-innymi-kod-gry-fifa-21/</id>
         <link href="https://sekurak.pl/wyciek-780-gb-kodow-zrodlowych-nalezacych-do-ea-wsrod-nich-znajdziemy-miedzy-innymi-kod-gry-fifa-21/"/>
@@ -457,19 +471,5 @@
         <link href="https://sekurak.pl/ios-14-7-z-poprawkami-do-37-bledow-bezpieczenstwa-patchuj-teraz/"/>
         <updated>2021-07-22T17:42:50.607Z</updated>
         <content type="html"><![CDATA[Od poniedziałku użytkownicy iPhone’ów oraz iPadów mogą cieszyć się aktualizacją 14.7 systemu iOS. Zawiera ona łatki do szeregu krytycznych podatności bezpieczeństwa, pozwalających między innymi na zdalne wykonanie kodu oraz eskalację uprawnień: Poprawka obejmuje również opisywany przez nas błąd z hotspotem o SSID „%p%s%s%s%s%n”, za sprawą którego nasz iPhone nie był…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware dostał się przez „fałszywą aktualizację przeglądarki”. Zaszyfrowane ~15000 systemów. (Sekurak)]]></title>
-        <id>https://sekurak.pl/ransomware-dostal-sie-przez-falszywa-aktualizacje-przegladarki-zaszyfrowane-15000-systemow/</id>
-        <link href="https://sekurak.pl/ransomware-dostal-sie-przez-falszywa-aktualizacje-przegladarki-zaszyfrowane-15000-systemow/"/>
-        <updated>2021-07-22T17:42:50.607Z</updated>
-        <content type="html"><![CDATA[Chodzi o atak który miał miejsce w marcu tego roku, a ofiarą był jeden z większych ubezpieczycieli w USA – CNA Financial. Wg relacji, jeden z pracowników pobrał „fałszywą aktualizację przeglądarki” z (o dziwo) normalnego serwisu (może wstrzyknięta złośliwa reklama?). Następnie atakujący podnieśli uprawnienia do administratora. Następnie rekonesans i pełne…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kilka komentarzy odnośnie ostatniej afery z Pegasusem (Sekurak)]]></title>
-        <id>https://sekurak.pl/kilka-komentarzy-odnosnie-ostatniej-afery-z-pegasusem/</id>
-        <link href="https://sekurak.pl/kilka-komentarzy-odnosnie-ostatniej-afery-z-pegasusem/"/>
-        <updated>2021-07-22T17:42:50.611Z</updated>
-        <content type="html"><![CDATA[Ostatnio znane oprogramowanie do inwigilacji ponownie stało się tematem artykułów. Wbrew pozorom zwykły obywatel przypuszczalnie nie musi obawiać się infekcji Pegasusem. Utrzymanie jego „lokalnej” infrastruktury wymaga sporych nakładów finansowych, więc to oprogramowanie jest w pewnym sensie zarezerwowane dla najistotniejszych celów. Zdecydowanie większe zagrożenie stanowi zwykły malware. Natomiast dowiadujemy się kilku…]]></content>
     </entry>
 </feed>
