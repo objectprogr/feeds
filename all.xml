@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-04T05:34:25.680Z</updated>
+    <updated>2021-08-04T17:43:58.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -368,6 +368,13 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/#more-2361" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Atak ransomware’owy na systemy IT regionu Lacjum we Włoszech. Nieczynny portal umożliwiający rejestrację na szczepienia przeciw COVID-19 (Sekurak)]]></title>
+        <id>https://sekurak.pl/atak-ransomwareowy-na-systemy-it-regionu-lacjum-we-wloszech-nieczynny-portal-umozliwiajacy-rejestracje-na-szczepienia-przeciw-covid-19/</id>
+        <link href="https://sekurak.pl/atak-ransomwareowy-na-systemy-it-regionu-lacjum-we-wloszech-nieczynny-portal-umozliwiajacy-rejestracje-na-szczepienia-przeciw-covid-19/"/>
+        <updated>2021-08-04T17:43:56.377Z</updated>
+        <content type="html"><![CDATA[Jak możemy dowiedzieć się za sprawą oświadczenia zamieszczonego na Facebooku przez prezydenta Lacjum Nicolę Zingarettiego, systemy informatyczne włoskiego regionu padły ofiarą cyberataku, a konkretniej – ransomware’a: W wyniku incydentu wyłączony został między innymi portal umożliwiający mieszkańcom regionu rejestrację na szczepienie przeciwko COVID-19: „[…] W ciągu najbliższych kilku dni rezerwacje na…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Luka bezpieczeństwa w mechanizmie logowania w portalu edukacyjnym Uniwersytetu Gdańskiego (Sekurak)]]></title>
         <id>https://sekurak.pl/luka-bezpieczenstwa-w-mechanizmie-logowania-w-portalu-edukacyjnym-uniwersytetu-gdanskiego/</id>
         <link href="https://sekurak.pl/luka-bezpieczenstwa-w-mechanizmie-logowania-w-portalu-edukacyjnym-uniwersytetu-gdanskiego/"/>
@@ -464,12 +471,5 @@
         <link href="https://sekurak.pl/uwaga-duza-awaria-dnsow-akamai-nie-dzialaja-serwisy-airbnb-steam-lastpass-fedex-salesforce/"/>
         <updated>2021-07-22T17:42:50.607Z</updated>
         <content type="html"><![CDATA[Tutaj prawdopodobna przyczyna, którą Akamai opisuje tak: Investigating – We are aware of an emerging issue with the Edge DNS service. We are actively investigating the issue. If you have questions or are experiencing impact due to this issue, please contact Akamai Technical Support. In the interest of time, we…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 14.7 z poprawkami do 37 błędów bezpieczeństwa, patchuj teraz! (Sekurak)]]></title>
-        <id>https://sekurak.pl/ios-14-7-z-poprawkami-do-37-bledow-bezpieczenstwa-patchuj-teraz/</id>
-        <link href="https://sekurak.pl/ios-14-7-z-poprawkami-do-37-bledow-bezpieczenstwa-patchuj-teraz/"/>
-        <updated>2021-07-22T17:42:50.607Z</updated>
-        <content type="html"><![CDATA[Od poniedziałku użytkownicy iPhone’ów oraz iPadów mogą cieszyć się aktualizacją 14.7 systemu iOS. Zawiera ona łatki do szeregu krytycznych podatności bezpieczeństwa, pozwalających między innymi na zdalne wykonanie kodu oraz eskalację uprawnień: Poprawka obejmuje również opisywany przez nas błąd z hotspotem o SSID „%p%s%s%s%s%n”, za sprawą którego nasz iPhone nie był…]]></content>
     </entry>
 </feed>
