@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-08-05T05:34:16.035Z</updated>
+    <updated>2021-08-05T17:41:26.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Chcesz z nami legalnie pohackować Protonmaila (i inne ciekawe systemy)? Zapraszamy! [praca w Sekurak/Securitum]]]></title>
+        <id>https://sekurak.pl/chcesz-z-nami-legalnie-pohackowac-protonmaila-i-inne-ciekawe-systemy-zapraszamy/</id>
+        <link href="https://sekurak.pl/chcesz-z-nami-legalnie-pohackowac-protonmaila-i-inne-ciekawe-systemy-zapraszamy/"/>
+        <updated>2021-08-05T17:41:25.294Z</updated>
+        <content type="html"><![CDATA[Ostatnio wykonaliśmy testy bezpieczeństwa Protonmaila (tutaj zobacz raport, który za zgodą zamawiających te pentesty – został upubliczniony). Jeśli chciałbyś uczestniczyć w tego typu ofensywnych projektach – czytaj dalej :-) No więc wracając do tytułu, rocznie w Securitum realizujemy około 400 testów bezpieczeństwa – w tym dla międzynarodowych korporacji i mimo…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Atak ransomware’owy na systemy IT regionu Lacjum we Włoszech. Nieczynny portal umożliwiający rejestrację na szczepienia przeciw COVID-19]]></title>
         <id>https://sekurak.pl/atak-ransomwareowy-na-systemy-it-regionu-lacjum-we-wloszech-nieczynny-portal-umozliwiajacy-rejestracje-na-szczepienia-przeciw-covid-19/</id>
@@ -102,12 +109,5 @@
         <link href="https://sekurak.pl/kaseya-otrzymala-uniwersalny-dekryptor-pozwalajacy-na-odszyfrowanie-danych-wszystkich-ofiar-incydentu/"/>
         <updated>2021-07-23T17:42:23.729Z</updated>
         <content type="html"><![CDATA[Na początku lipca informowaliśmy Was o ataku na firmę Kaseya, która dostarcza oprogramowanie do zarządzania IT: Przestępcy za odszyfrowanie danych zażądali horrendalnej kwoty 70 milionów dolarów: Sytuacja stała się jeszcze bardziej napięta po tajemniczym „zniknięciu” grupy: Według przedstawiciela innej grupy ransomware’owej operatorzy REvil otrzymali swoiste ultimatum od lokalnych władz, zmuszające…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UWAGA – duża awaria DNSów Akamai. Nie działają serwisy: Airbnb, Steam, Lastpass, FedEx, SalesForce, …]]></title>
-        <id>https://sekurak.pl/uwaga-duza-awaria-dnsow-akamai-nie-dzialaja-serwisy-airbnb-steam-lastpass-fedex-salesforce/</id>
-        <link href="https://sekurak.pl/uwaga-duza-awaria-dnsow-akamai-nie-dzialaja-serwisy-airbnb-steam-lastpass-fedex-salesforce/"/>
-        <updated>2021-07-22T17:42:50.607Z</updated>
-        <content type="html"><![CDATA[Tutaj prawdopodobna przyczyna, którą Akamai opisuje tak: Investigating – We are aware of an emerging issue with the Edge DNS service. We are actively investigating the issue. If you have questions or are experiencing impact due to this issue, please contact Akamai Technical Support. In the interest of time, we…]]></content>
     </entry>
 </feed>
