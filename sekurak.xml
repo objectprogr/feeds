@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-08-09T05:34:28.588Z</updated>
+    <updated>2021-08-09T17:43:19.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Atak grupy ransomware’owej RansomEXX na producenta płyt głównych Gigabyte]]></title>
+        <id>https://sekurak.pl/atak-grupy-ransomwareowej-ransomexx-na-producenta-plyt-glownych-gigabyte/</id>
+        <link href="https://sekurak.pl/atak-grupy-ransomwareowej-ransomexx-na-producenta-plyt-glownych-gigabyte/"/>
+        <updated>2021-08-09T17:43:19.013Z</updated>
+        <content type="html"><![CDATA[Gigabyte Technology Co., Ltd. to tajwańskie przedsiębiorstwo zajmujące się produkcją sprzętu komputerowego. Firma znana jest przede wszystkim z wytwarzania płyt głównych, choć produkuje również urządzenia peryferyjne, sieciowe, notebooki oraz serwery: Jak się jednak okazało, firma Gigabyte padła ofiarą ataku grupy ransomware’owej RansomEXX: Kwota okupu nie jest jeszcze znana. Wiadomo jednak,…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chcesz z nami legalnie pohackować Protonmaila (i inne ciekawe systemy)? Zapraszamy! [praca w Sekurak/Securitum]]]></title>
         <id>https://sekurak.pl/chcesz-z-nami-legalnie-pohackowac-protonmaila-i-inne-ciekawe-systemy-zapraszamy/</id>
@@ -102,12 +109,5 @@
         <link href="https://sekurak.pl/16-letnia-podatnosc-w-sterownikach-niektorych-drukarek/"/>
         <updated>2021-07-26T17:41:06.720Z</updated>
         <content type="html"><![CDATA[Podatność CVE-2021-3438 została odkryta niedawno, bo 18 lutego, ale w kodach źródłowych sterowników znajdowała się od 16 lat. Dotyczy ona jedynie starszych modeli drukarek HP, Samsung i Xerox. Niestety nie oznacza to, że luka nie jest poważna, bo obejmuje stosunkowo popularne modele (łącznie około 400). Wykorzystanie podatności pozwala na podniesienie…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaseya otrzymała uniwersalny dekryptor, pozwalający na odszyfrowanie danych wszystkich ofiar incydentu]]></title>
-        <id>https://sekurak.pl/kaseya-otrzymala-uniwersalny-dekryptor-pozwalajacy-na-odszyfrowanie-danych-wszystkich-ofiar-incydentu/</id>
-        <link href="https://sekurak.pl/kaseya-otrzymala-uniwersalny-dekryptor-pozwalajacy-na-odszyfrowanie-danych-wszystkich-ofiar-incydentu/"/>
-        <updated>2021-07-23T17:42:23.729Z</updated>
-        <content type="html"><![CDATA[Na początku lipca informowaliśmy Was o ataku na firmę Kaseya, która dostarcza oprogramowanie do zarządzania IT: Przestępcy za odszyfrowanie danych zażądali horrendalnej kwoty 70 milionów dolarów: Sytuacja stała się jeszcze bardziej napięta po tajemniczym „zniknięciu” grupy: Według przedstawiciela innej grupy ransomware’owej operatorzy REvil otrzymali swoiste ultimatum od lokalnych władz, zmuszające…]]></content>
     </entry>
 </feed>
