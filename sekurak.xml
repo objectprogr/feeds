@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-08-11T05:34:13.158Z</updated>
+    <updated>2021-08-11T17:44:54.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Reżim Łukaszenki zhakowany przez grupę o nazwie Białoruscy Cyberpartyzanci. W rękach atakujących – dane agentów KGB i innych służb]]></title>
+        <id>https://sekurak.pl/rezim-lukaszenki-zhakowany-przez-grupe-o-nazwie-bialoruscy-cyberpartyzanci-w-rekach-atakujacych-dane-agentow-kgb-i-innych-sluzb/</id>
+        <link href="https://sekurak.pl/rezim-lukaszenki-zhakowany-przez-grupe-o-nazwie-bialoruscy-cyberpartyzanci-w-rekach-atakujacych-dane-agentow-kgb-i-innych-sluzb/"/>
+        <updated>2021-08-11T17:44:52.855Z</updated>
+        <content type="html"><![CDATA[Jeśli myślicie, że włamanie na skrzynkę ministra Dworczyka stanowiło kompromitację na skalę światową, to ostatni incydent na Białorusi prawdopodobnie zmieni Waszą opinię: Jak informuje dziennikarz Tadeusz Giczan, grupie Białoruscy Cyberpartyzanci udało się włamać na serwery Ministerstwa Spraw Wewnętrznych Republiki Białorusi oraz tamtejszej policji. W ten sposób haktywiści przejęli między innymi…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Atak grupy ransomware’owej RansomEXX na producenta płyt głównych Gigabyte]]></title>
         <id>https://sekurak.pl/atak-grupy-ransomwareowej-ransomexx-na-producenta-plyt-glownych-gigabyte/</id>
@@ -102,12 +109,5 @@
         <link href="https://sekurak.pl/firma-apple-udostepnila-latke-na-0-day-cve-2021-30807-w-ios-oraz-macos/"/>
         <updated>2021-07-27T17:42:17.976Z</updated>
         <content type="html"><![CDATA[Tydzień temu informowaliśmy Was o dużej aktualizacji iOS 14.7, w której załatano aż 37 podatności: Firma Apple wzięła sobie do serca problem z łańcuchem exploitów 0-day wykorzystywanym w „dziczy”, gdyż w poniedziałek doczekaliśmy się kolejnych poprawek – iOS i iPad 14.7.1&nbsp; oraz macOS Big Sur 11.5.1: Zarówno w przypadku macOS,…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16-letnia podatność w sterownikach niektórych drukarek]]></title>
-        <id>https://sekurak.pl/16-letnia-podatnosc-w-sterownikach-niektorych-drukarek/</id>
-        <link href="https://sekurak.pl/16-letnia-podatnosc-w-sterownikach-niektorych-drukarek/"/>
-        <updated>2021-07-26T17:41:06.720Z</updated>
-        <content type="html"><![CDATA[Podatność CVE-2021-3438 została odkryta niedawno, bo 18 lutego, ale w kodach źródłowych sterowników znajdowała się od 16 lat. Dotyczy ona jedynie starszych modeli drukarek HP, Samsung i Xerox. Niestety nie oznacza to, że luka nie jest poważna, bo obejmuje stosunkowo popularne modele (łącznie około 400). Wykorzystanie podatności pozwala na podniesienie…]]></content>
     </entry>
 </feed>
