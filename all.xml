@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-12T05:34:03.289Z</updated>
+    <updated>2021-08-12T17:39:38.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -368,6 +368,13 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/#more-2361" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jak można było sobie dowolnie zwiększyć saldo portfela na platformie Steam? Krytyczna luka w Smart2Pay (Sekurak)]]></title>
+        <id>https://sekurak.pl/jak-mozna-bylo-sobie-dowolnie-zwiekszyc-saldo-portfela-na-platformie-steam-krytyczna-luka-w-smart2pay/</id>
+        <link href="https://sekurak.pl/jak-mozna-bylo-sobie-dowolnie-zwiekszyc-saldo-portfela-na-platformie-steam-krytyczna-luka-w-smart2pay/"/>
+        <updated>2021-08-12T17:39:37.494Z</updated>
+        <content type="html"><![CDATA[Steam to jedna z największych i najpopularniejszych platform do dystrybucji cyfrowej gier komputerowych, stworzona przez Valve Corporation w 2003 roku. Jeśli jesteś graczem, to prawdopodobnie korzystasz z tego serwisu na co dzień… Oczywiście za gry w większości przypadków przyjdzie nam zapłacić, i to niemało, bo często nawet ~ 200 PLN:…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Reżim Łukaszenki zhakowany przez grupę o nazwie Białoruscy Cyberpartyzanci. W rękach atakujących – dane agentów KGB i innych służb (Sekurak)]]></title>
         <id>https://sekurak.pl/rezim-lukaszenki-zhakowany-przez-grupe-o-nazwie-bialoruscy-cyberpartyzanci-w-rekach-atakujacych-dane-agentow-kgb-i-innych-sluzb/</id>
         <link href="https://sekurak.pl/rezim-lukaszenki-zhakowany-przez-grupe-o-nazwie-bialoruscy-cyberpartyzanci-w-rekach-atakujacych-dane-agentow-kgb-i-innych-sluzb/"/>
@@ -464,12 +471,5 @@
         <link href="https://sekurak.pl/zarobil-200-000-pln-znajdujac-niewinna-informacje-w-publicznej-appce/"/>
         <updated>2021-07-27T17:42:17.891Z</updated>
         <content type="html"><![CDATA[Zgłaszający tego buga otrzymał od Shopify grubą nagrodę w wysokości $50 000. W dużym skrócie, badacz badał publicznie dostępną appkę dla MacOS, w której znalazł zaszyty klucz API do GitHuba. Klucz z kolei dał pełen dostęp do (prywatnych i publicznych) repozytoriów kodu należących do Shopify. W oryginale opis wygląda tak:…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firma Apple udostępniła łatkę na 0-day (CVE-2021-30807) w iOS oraz macOS (Sekurak)]]></title>
-        <id>https://sekurak.pl/firma-apple-udostepnila-latke-na-0-day-cve-2021-30807-w-ios-oraz-macos/</id>
-        <link href="https://sekurak.pl/firma-apple-udostepnila-latke-na-0-day-cve-2021-30807-w-ios-oraz-macos/"/>
-        <updated>2021-07-27T17:42:17.976Z</updated>
-        <content type="html"><![CDATA[Tydzień temu informowaliśmy Was o dużej aktualizacji iOS 14.7, w której załatano aż 37 podatności: Firma Apple wzięła sobie do serca problem z łańcuchem exploitów 0-day wykorzystywanym w „dziczy”, gdyż w poniedziałek doczekaliśmy się kolejnych poprawek – iOS i iPad 14.7.1&nbsp; oraz macOS Big Sur 11.5.1: Zarówno w przypadku macOS,…]]></content>
     </entry>
 </feed>
