@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-08-13T05:34:13.870Z</updated>
+    <updated>2021-08-14T05:34:33.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dziesiątki milionów urządzeń Amazon Kindle z krytyczną podatnością; poprawka gotowa i instalowana automatycznie]]></title>
+        <id>https://sekurak.pl/dziesiatki-milionow-urzadzen-amazon-kindle-z-krytyczna-podatnoscia-poprawka-gotowa-i-instalowana-automatycznie/</id>
+        <link href="https://sekurak.pl/dziesiatki-milionow-urzadzen-amazon-kindle-z-krytyczna-podatnoscia-poprawka-gotowa-i-instalowana-automatycznie/"/>
+        <updated>2021-08-14T05:34:32.734Z</updated>
+        <content type="html"><![CDATA[Researcherzy firmy Checkpoint wzięli jakiś czas temu pod lupę urządzenia Kindle firmy Amazon. Efekty ich pracy są bardzo ciekawe. Na podstawie ujawnionych podatności możliwe było przejęcie pełnej kontroli nad każdym tego typu urządzeniem. Po pobraniu na czytnik specjalnie spreparowanego e-booka (ileż to darmowych „okazji” krąży w sieci – tylko pobierać!)…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple wprowadza masową inwigilację swoich użytkowników pod pozorem ochrony dzieci]]></title>
+        <id>https://sekurak.pl/apple-wprowadza-masowa-inwigilacje-swoich-uzytkownikow-pod-pozorem-ochrony-dzieci/</id>
+        <link href="https://sekurak.pl/apple-wprowadza-masowa-inwigilacje-swoich-uzytkownikow-pod-pozorem-ochrony-dzieci/"/>
+        <updated>2021-08-14T05:34:32.735Z</updated>
+        <content type="html"><![CDATA[Jeśli jesteście posiadaczami urządzeń z systemami iOS czy macOS, to prawdopodobnie jedną z wartości, którą sobie cenicie, stanowi prywatność. Szczyci się nią sama firma Apple: Niestety, ostatnia zapowiedź Apple’a nie rokuje zbyt dobrze w kontekście dbałości o prywatność użytkowników iOS’ów i macOS’ów: Pamiętacie próby przeforsowania ustaw o dodaniu furtek w…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wprowadzenie do bezpieczeństwa IT – zobacz spis treści nowej książki sekuraka! :)]]></title>
+        <id>https://sekurak.pl/wprowadzenie-do-bezpieczenstwa-it-zobacz-spis-tresci-nowej-ksiazki-sekuraka/</id>
+        <link href="https://sekurak.pl/wprowadzenie-do-bezpieczenstwa-it-zobacz-spis-tresci-nowej-ksiazki-sekuraka/"/>
+        <updated>2021-08-14T05:34:32.737Z</updated>
+        <content type="html"><![CDATA[Po sukcesie pierwszej książki: Bezpieczeństwo aplikacji webowych (sprzedanych przeszło 16 000 sztuk), czas na drugą: Wprowadzenie do bezpieczeństwa IT. W założeniu książka kierowana jest do… wszystkich osób z IT :) i ma stanowić gładkie wprowadzenie do niemal każdego tematu, który można rozważać w ramach IT security. Przy czym nie ma…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jak można było sobie dowolnie zwiększyć saldo portfela na platformie Steam? Krytyczna luka w Smart2Pay]]></title>
         <id>https://sekurak.pl/jak-mozna-bylo-sobie-dowolnie-zwiekszyc-saldo-portfela-na-platformie-steam-krytyczna-luka-w-smart2pay/</id>
@@ -88,26 +109,5 @@
         <link href="https://sekurak.pl/blackmatter-czyli-nowa-grupa-ransomwareowa-z-depozytem-150-tysiecy-dolarow/"/>
         <updated>2021-07-30T17:41:22.758Z</updated>
         <content type="html"><![CDATA[Tydzień temu na rosyjskim forum cyberprzestępczym exploit.in pojawił się nowy wątek od użytkownika BlackMatter, który poszukuje sprzedawców tzw. punktów wejścia do sieci korporacyjnych: Warto zwrócić uwagę na depozyt w wysokości ok. 150 tysięcy dolarów, co – jak na świeżo zarejestrowanego użytkownika – jest dość dużą kwotą. Z kolei analiza Recorded…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polscy policjanci zatrzymali Białorusinów którzy włamywali się do bankomatów.]]></title>
-        <id>https://sekurak.pl/polscy-policjanci-zatrzymali-bialorusinow-ktorzy-wlamywali-sie-do-bankomatow/</id>
-        <link href="https://sekurak.pl/polscy-policjanci-zatrzymali-bialorusinow-ktorzy-wlamywali-sie-do-bankomatow/"/>
-        <updated>2021-07-29T17:42:56.763Z</updated>
-        <content type="html"><![CDATA[Jak czytamy tutaj, metoda była dość brutalna, a jednocześnie skuteczna: (…) jak wynika ze zgłoszenia, które przyjęli policjanci ze Żnina, doszło do uszkodzenia obudowy bankomatu, a następnie przecięcia kabli oraz podłączenia do niego urządzenia typu black box, za pośrednictwem którego przekazywane były komendy wypłaty gotówki. Ta nietypowa metoda, bezsprzecznie wymagająca…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mariusz Kamiński ogłosił plany utworzenia Centralnego Biura Zwalczania Cyberprzestępczości]]></title>
-        <id>https://sekurak.pl/mariusz-kaminski-oglosil-plany-utworzenia-centralnego-biura-zwalczania-cyberprzestepczosci/</id>
-        <link href="https://sekurak.pl/mariusz-kaminski-oglosil-plany-utworzenia-centralnego-biura-zwalczania-cyberprzestepczosci/"/>
-        <updated>2021-07-28T17:42:53.012Z</updated>
-        <content type="html"><![CDATA[27 lipca odbyła się konferencja prasowa na temat cyberbezpieczeństwa, w której udział wzięli: premier Mateusz Morawiecki, minister spraw wewnętrznych i administracji Mariusz Kamiński oraz pełnomocnik rządu ds. cyberbezpieczeństwa Janusz Cieszyński. Zapis całej konferencji jest już dostępny na YouTubie: Morawiecki, powołując się na coraz bardziej agresywne działania grup cyberprzestępczych, takich jak…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zarobił ~200 000 PLN, znajdując „niewinną” informację w publicznej appce…]]></title>
-        <id>https://sekurak.pl/zarobil-200-000-pln-znajdujac-niewinna-informacje-w-publicznej-appce/</id>
-        <link href="https://sekurak.pl/zarobil-200-000-pln-znajdujac-niewinna-informacje-w-publicznej-appce/"/>
-        <updated>2021-07-27T17:42:17.891Z</updated>
-        <content type="html"><![CDATA[Zgłaszający tego buga otrzymał od Shopify grubą nagrodę w wysokości $50 000. W dużym skrócie, badacz badał publicznie dostępną appkę dla MacOS, w której znalazł zaszyty klucz API do GitHuba. Klucz z kolei dał pełen dostęp do (prywatnych i publicznych) repozytoriów kodu należących do Shopify. W oryginale opis wygląda tak:…]]></content>
     </entry>
 </feed>
