@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-14T05:34:33.519Z</updated>
+    <updated>2021-08-16T17:42:09.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -368,6 +368,20 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/#more-2361" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[„Roboty z laserami, kamerami oraz brakiem zabezpieczeń” czyli hackowanie inteligentnych odkurzaczy (Sekurak)]]></title>
+        <id>https://sekurak.pl/roboty-z-laserami-i-kamerami-i-brakiem-zabezpieczen-czyli-hackowanie-inteligentnych-odkurzaczy/</id>
+        <link href="https://sekurak.pl/roboty-z-laserami-i-kamerami-i-brakiem-zabezpieczen-czyli-hackowanie-inteligentnych-odkurzaczy/"/>
+        <updated>2021-08-16T17:42:08.445Z</updated>
+        <content type="html"><![CDATA[Podczas tegorocznej konferencji DEF CON Dennis Giese zaprezentował reverse engineering tzw. inteligentnych odkurzaczy produkowanych przez firmy Xiaomi i Roborock. Zapis prezentacji Robots with lasers and cameras (but no security): Liberating your vacuum został opublikowany na YouTubie. Badacz obecnie jest studentem Northeastern University; interesuje się inżynierią wsteczną. W prezentacji wyjaśniono, że…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook wprowadza szyfrowanie e2e rozmów głosowych i czatów wideo w Messengerze (Sekurak)]]></title>
+        <id>https://sekurak.pl/facebook-wprowadza-szyfrowanie-e2e-rozmow-glosowych-i-czatow-wideo-w-messengerze/</id>
+        <link href="https://sekurak.pl/facebook-wprowadza-szyfrowanie-e2e-rozmow-glosowych-i-czatow-wideo-w-messengerze/"/>
+        <updated>2021-08-16T17:42:08.446Z</updated>
+        <content type="html"><![CDATA[Kilka dni temu dyrektor ds. zarządzania produktem (Messenger) Ruth Kricheli ogłosił dość ciekawe dla miłośników prywatności zmiany w komunikatorze Messenger: Pierwszą nowością jest szyfrowanie e2e (end-to-end) rozmów głosowych i wideo w Messengerze. W praktyce oznacza to, że nikt, w tym Facebook, nie powinien być w stanie podsłuchiwać treści naszych rozmów….]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dziesiątki milionów urządzeń Amazon Kindle z krytyczną podatnością; poprawka gotowa i instalowana automatycznie (Sekurak)]]></title>
         <id>https://sekurak.pl/dziesiatki-milionow-urzadzen-amazon-kindle-z-krytyczna-podatnoscia-poprawka-gotowa-i-instalowana-automatycznie/</id>
         <link href="https://sekurak.pl/dziesiatki-milionow-urzadzen-amazon-kindle-z-krytyczna-podatnoscia-poprawka-gotowa-i-instalowana-automatycznie/"/>
@@ -457,19 +471,5 @@
         <link href="https://sekurak.pl/magia-seo-punycode-i-google-ads-czyli-falszywa-strona-przegladarki-brave/"/>
         <updated>2021-07-30T17:41:22.758Z</updated>
         <content type="html"><![CDATA[Jeśli korzystasz z wyszukiwarki Google, to z pewnością nieraz spotkałeś się z reklamami serwowanymi przez Google Ads: Badaczka bezpieczeństwa Yan Zhu odkryła kampanię cyberprzestępców, którzy wykorzystują system reklamowy Google Ads do promowania fałszywej strony przeglądarki Brave: Choć na pierwszy rzut oka fałszywa strona wygląda bliźniaczo podobnie do swojego prawdziwego odpowiednika,…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nalot Ministerstwa Obrony Izraela na biura twórców Pegasusa – NSO Group (Sekurak)]]></title>
-        <id>https://sekurak.pl/nalot-ministerstwa-obrony-izraela-na-biura-tworcow-pegasusa-nso-group/</id>
-        <link href="https://sekurak.pl/nalot-ministerstwa-obrony-izraela-na-biura-tworcow-pegasusa-nso-group/"/>
-        <updated>2021-07-30T17:41:22.758Z</updated>
-        <content type="html"><![CDATA[O akcji mogliśmy dowiedzieć się za sprawą tweeta zamieszczonego przez Ministerstwo Obrony Izraela: „Przedstawiciele wielu organów przybyli dziś do firmy NSO, aby zbadać publikacje i zarzuty podniesione w jej sprawie”. Nieco więcej możemy dowiedzieć się z artykułu „Yedioth Ahronoth” – jednego z największych izraelskich mediów: Według autora tekstu atak został…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackMatter, czyli nowa grupa ransomware’owa z depozytem 150 tysięcy dolarów (Sekurak)]]></title>
-        <id>https://sekurak.pl/blackmatter-czyli-nowa-grupa-ransomwareowa-z-depozytem-150-tysiecy-dolarow/</id>
-        <link href="https://sekurak.pl/blackmatter-czyli-nowa-grupa-ransomwareowa-z-depozytem-150-tysiecy-dolarow/"/>
-        <updated>2021-07-30T17:41:22.758Z</updated>
-        <content type="html"><![CDATA[Tydzień temu na rosyjskim forum cyberprzestępczym exploit.in pojawił się nowy wątek od użytkownika BlackMatter, który poszukuje sprzedawców tzw. punktów wejścia do sieci korporacyjnych: Warto zwrócić uwagę na depozyt w wysokości ok. 150 tysięcy dolarów, co – jak na świeżo zarejestrowanego użytkownika – jest dość dużą kwotą. Z kolei analiza Recorded…]]></content>
     </entry>
 </feed>
