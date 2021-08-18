@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-16T17:42:09.175Z</updated>
+    <updated>2021-08-18T17:41:44.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -368,6 +368,20 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/#more-2361" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[T-Mobile zhakowane – dane ponad 30 milionów klientów z USA są licytowane na forum cyberprzestępczym (Sekurak)]]></title>
+        <id>https://sekurak.pl/t-mobile-zhakowane-dane-ponad-30-milionow-klientow-z-usa-sa-licytowane-na-forum-cyberprzestepczym/</id>
+        <link href="https://sekurak.pl/t-mobile-zhakowane-dane-ponad-30-milionow-klientow-z-usa-sa-licytowane-na-forum-cyberprzestepczym/"/>
+        <updated>2021-08-18T17:41:44.017Z</updated>
+        <content type="html"><![CDATA[O całym zajściu mogliśmy dowiedzieć się za sprawą oficjalnego oświadczenia, jakie firma T-Mobile zamieściła na swojej stronie internetowej: Z treści wypowiedzi wynika, że choć nieuprawniony dostęp do serwerów T-Mobile rzeczywiście miał miejsce, to firma nie ustaliła jeszcze, czy dane jej klientów zostały wykradzione.&nbsp; Niestety, jak informuje portal Vice, nielegalnie pozyskane…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Policja aresztowała trzech Gruzinów podszywających się pod dostawców energii elektrycznej. Przestępcy ukradli ponad 450 tys. zł (Sekurak)]]></title>
+        <id>https://sekurak.pl/policja-aresztowala-trzech-gruzinow-podszywajacych-sie-pod-dostawcow-energii-elektrycznej-przestepcy-ukradli-ponad-450-tys-zl/</id>
+        <link href="https://sekurak.pl/policja-aresztowala-trzech-gruzinow-podszywajacych-sie-pod-dostawcow-energii-elektrycznej-przestepcy-ukradli-ponad-450-tys-zl/"/>
+        <updated>2021-08-18T17:41:44.018Z</updated>
+        <content type="html"><![CDATA[Jeśli śledzicie na bieżąco kampanie cyberprzestępcze wycelowane w Polskę, to na pewno zetknęliście się z SMS-ami od „PGE” czy „Taurona”: Policjantom z Biura do Walki z Cyberprzestępczością Komendy Głównej Policji udało się jednak zatrzymać trzech obywateli Gruzji, którzy, podszywając się pod dużych dostawców energii elektrycznej, wyłudzali dane umożliwiające logowanie do…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[„Roboty z laserami, kamerami oraz brakiem zabezpieczeń” czyli hackowanie inteligentnych odkurzaczy (Sekurak)]]></title>
         <id>https://sekurak.pl/roboty-z-laserami-i-kamerami-i-brakiem-zabezpieczen-czyli-hackowanie-inteligentnych-odkurzaczy/</id>
         <link href="https://sekurak.pl/roboty-z-laserami-i-kamerami-i-brakiem-zabezpieczen-czyli-hackowanie-inteligentnych-odkurzaczy/"/>
@@ -457,19 +471,5 @@
         <link href="https://sekurak.pl/wyciek-780-gb-kodow-zrodlowych-nalezacych-do-ea-wsrod-nich-znajdziemy-miedzy-innymi-kod-gry-fifa-21/"/>
         <updated>2021-08-02T17:41:50.279Z</updated>
         <content type="html"><![CDATA[Jakiś czas temu informowaliśmy Was o incydencie z Electronic Arts, w wyniku którego napastnicy uzyskali 780 GB danych, w tym między innymi kod źródłowy gry FIFA 21: Z perspektywy czasu dowiedzieliśmy się nieco więcej o samym ataku – przestępcy wykupili ciasteczka sesji do konta na Slacku (komunikator stworzony z myślą…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tauron: wyciekły nagrania rozmów „z niektórymi klientami”. (Sekurak)]]></title>
-        <id>https://sekurak.pl/tauron-wyciekly-nagrania-rozmow-z-niektorymi-klientami/</id>
-        <link href="https://sekurak.pl/tauron-wyciekly-nagrania-rozmow-z-niektorymi-klientami/"/>
-        <updated>2021-07-31T17:40:47.968Z</updated>
-        <content type="html"><![CDATA[Jeden z czytelników przesłał nam e-mail, który otrzymał od Taurona: Więcej o całym incydencie można przeczytać tutaj: Poinformowaliśmy Prezesa Urzędu Ochrony Danych Osobowych i właściwe organy ścigania oraz wydaliśmy dyspozycję o zamknięciu serwerów (…) Ustaliliśmy, że w wyniku tego incydentu mogły zostać ściągnięte nagrania rozmów, które firmy współpracujące z TAURONEM…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magia SEO, Punycode i Google Ads, czyli fałszywa strona przeglądarki Brave (Sekurak)]]></title>
-        <id>https://sekurak.pl/magia-seo-punycode-i-google-ads-czyli-falszywa-strona-przegladarki-brave/</id>
-        <link href="https://sekurak.pl/magia-seo-punycode-i-google-ads-czyli-falszywa-strona-przegladarki-brave/"/>
-        <updated>2021-07-30T17:41:22.758Z</updated>
-        <content type="html"><![CDATA[Jeśli korzystasz z wyszukiwarki Google, to z pewnością nieraz spotkałeś się z reklamami serwowanymi przez Google Ads: Badaczka bezpieczeństwa Yan Zhu odkryła kampanię cyberprzestępców, którzy wykorzystują system reklamowy Google Ads do promowania fałszywej strony przeglądarki Brave: Choć na pierwszy rzut oka fałszywa strona wygląda bliźniaczo podobnie do swojego prawdziwego odpowiednika,…]]></content>
     </entry>
 </feed>
