@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-18T17:41:44.743Z</updated>
+    <updated>2021-08-19T17:41:34.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -368,6 +368,20 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/#more-2361" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wyciekły dane z sekretnej listy FBI, zawierającej ponad milion rekordów z informacjami o potencjalnych terrorystach (Sekurak)]]></title>
+        <id>https://sekurak.pl/wyciekly-dane-z-sekretnej-listy-fbi-zawierajacej-ponad-milion-rekordow-z-informacjami-o-potencjalnych-terrorystach/</id>
+        <link href="https://sekurak.pl/wyciekly-dane-z-sekretnej-listy-fbi-zawierajacej-ponad-milion-rekordow-z-informacjami-o-potencjalnych-terrorystach/"/>
+        <updated>2021-08-19T17:41:33.700Z</updated>
+        <content type="html"><![CDATA[O całym zajściu mogliśmy dowiedzieć się za sprawą tweeta badacza bezpieczeństwa Boba Diachenki: Po atakach terrorystycznych z 11 września 2001 r. w Stanach Zjednoczonych utworzono TSC (Terrorist Screening Center), czyli wieloagencyjne centrum zarządzane przez FBI, którego głównym zadaniem jest uzupełnianie listy osób podejrzewanych o terroryzm i zarządzanie nią. Powyższe dane…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energetyczne, angażujące i aktualne szkolenie cyberawareness od sekuraka (Sekurak)]]></title>
+        <id>https://sekurak.pl/energetyczne-angazujace-i-aktualne-szkolenie-cyberawareness-od-sekuraka/</id>
+        <link href="https://sekurak.pl/energetyczne-angazujace-i-aktualne-szkolenie-cyberawareness-od-sekuraka/"/>
+        <updated>2021-08-19T17:41:33.702Z</updated>
+        <content type="html"><![CDATA[Obawiacie się, że Wasi pracownicy mogą paść ofiarą socjotechniki/phishingu? Może przeleją firmowe pieniądze na konto przestępców? Nieświadomie wpuszczą ransomware do Waszej sieci? Albo udostępnią poufne informacje firmowe nieznajomym? Co z bezpieczeństwem smartfonów? Jeśli intrygują Was tego typu pytania, zobaczcie na nasze szkolenie cyberawareness przeznaczone dla osób nietechnicznych: bezpieczny.sekurak.pl Szkolenie sami…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[T-Mobile zhakowane – dane ponad 30 milionów klientów z USA są licytowane na forum cyberprzestępczym (Sekurak)]]></title>
         <id>https://sekurak.pl/t-mobile-zhakowane-dane-ponad-30-milionow-klientow-z-usa-sa-licytowane-na-forum-cyberprzestepczym/</id>
         <link href="https://sekurak.pl/t-mobile-zhakowane-dane-ponad-30-milionow-klientow-z-usa-sa-licytowane-na-forum-cyberprzestepczym/"/>
@@ -457,19 +471,5 @@
         <link href="https://sekurak.pl/luka-bezpieczenstwa-w-mechanizmie-logowania-w-portalu-edukacyjnym-uniwersytetu-gdanskiego/"/>
         <updated>2021-08-03T17:48:34.561Z</updated>
         <content type="html"><![CDATA[W 2021 roku programiści mają ułatwione zadanie, jeśli chodzi o utrzymanie bezpieczeństwa swojego dzieła. Frameworki frontendowe pokroju Reacta czy Angulara eliminują w większości przypadków XSS-y, zaś gdy mówimy o backendzie, to Laravel czy ASP.NET Core umożliwiają wygenerowanie projektu z gotowym i względnie bezpiecznym systemem logowania oraz rejestracji użytkowników. Niestety, systemy…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Od skradzionego laptopa do firmowej sieci (Sekurak)]]></title>
-        <id>https://sekurak.pl/od-skradzionego-laptopa-do-firmowej-sieci/</id>
-        <link href="https://sekurak.pl/od-skradzionego-laptopa-do-firmowej-sieci/"/>
-        <updated>2021-08-03T17:48:34.562Z</updated>
-        <content type="html"><![CDATA[Wbrew pozorom w większości przypadków ten temat nie brzmi nierealnie. Sporo osób, szczególnie z IT, pracuje zdalnie, a dostęp do zasobów firmowych z domu jest potrzebny. O ile przy dobrym poziomie zabezpieczeń ryzyko można zminimalizować, to niestety nie każdy szyfruje dyski, aktualizuje oprogramowanie czy wykonuje kopie zapasowe. W opisanym przypadku…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wyciek 780 GB kodów źródłowych należących do EA. Wśród nich znajdziemy między innymi kod gry FIFA 21 (Sekurak)]]></title>
-        <id>https://sekurak.pl/wyciek-780-gb-kodow-zrodlowych-nalezacych-do-ea-wsrod-nich-znajdziemy-miedzy-innymi-kod-gry-fifa-21/</id>
-        <link href="https://sekurak.pl/wyciek-780-gb-kodow-zrodlowych-nalezacych-do-ea-wsrod-nich-znajdziemy-miedzy-innymi-kod-gry-fifa-21/"/>
-        <updated>2021-08-02T17:41:50.279Z</updated>
-        <content type="html"><![CDATA[Jakiś czas temu informowaliśmy Was o incydencie z Electronic Arts, w wyniku którego napastnicy uzyskali 780 GB danych, w tym między innymi kod źródłowy gry FIFA 21: Z perspektywy czasu dowiedzieliśmy się nieco więcej o samym ataku – przestępcy wykupili ciasteczka sesji do konta na Slacku (komunikator stworzony z myślą…]]></content>
     </entry>
 </feed>
