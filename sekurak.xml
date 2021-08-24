@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-08-19T17:41:34.617Z</updated>
+    <updated>2021-08-24T05:34:33.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nigeryjczyk próbował skłonić pracowników dużych firm do instalacji ransomware. Proponowana „pensja” – milion USD.]]></title>
+        <id>https://sekurak.pl/nigeryjczyk-probowal-sklonic-pracownikow-duzych-firm-do-instalacji-ransomware-proponowana-pensja-milion-usd/</id>
+        <link href="https://sekurak.pl/nigeryjczyk-probowal-sklonic-pracownikow-duzych-firm-do-instalacji-ransomware-proponowana-pensja-milion-usd/"/>
+        <updated>2021-08-24T05:34:32.996Z</updated>
+        <content type="html"><![CDATA[Obywatel Nigerii próbował nakłonić pracowników różnych firm do instalacji na serwerach ransomware’a, który zaszyfrowałby dane i ostatecznie „poprosił” o okup. Plan mężczyzny okazał się jednak na tyle niedopracowany, że napisał on do kilku przedsiębiorstw, których poczta była chroniona przez Abnormal Security. Poniższa wiadomość zwróciła uwagę pracowników: Demonware to ransomware napisany…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firma Cloudflare odparła rekordowy atak DDoS (17,2 miliona zapytań na sekundę) na infrastrukturę swojego klienta]]></title>
+        <id>https://sekurak.pl/firma-cloudflare-odparla-rekordowy-atak-ddos-172-miliona-zapytan-na-sekunde-na-infrastrukture-swojego-klienta/</id>
+        <link href="https://sekurak.pl/firma-cloudflare-odparla-rekordowy-atak-ddos-172-miliona-zapytan-na-sekunde-na-infrastrukture-swojego-klienta/"/>
+        <updated>2021-08-24T05:34:32.996Z</updated>
+        <content type="html"><![CDATA[Przedsiębiorstwo Cloudflare poinformowało na swoim blogu o rekordowym ataku DDoS na infrastrukturę jednego ze swoich klientów, działających w sektorze finansowym. W szczytowym momencie botnet wysyłał ponad 17 milionów rps (zapytań na sekundę): Cloudflare twierdzi, że atakujący zastosowali wariant botnetu Mirai, składającego się z co najmniej 20 000 urządzeń IoT. Sporo…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japońska giełda kryptowalutowa Liquid zhakowana! Przestępcy ukradli ponad 90 milionów dolarów…]]></title>
+        <id>https://sekurak.pl/japonska-gielda-kryptowalutowa-liquid-zhakowana-przestepcy-ukradli-ponad-90-milionow-dolarow/</id>
+        <link href="https://sekurak.pl/japonska-gielda-kryptowalutowa-liquid-zhakowana-przestepcy-ukradli-ponad-90-milionow-dolarow/"/>
+        <updated>2021-08-24T05:34:32.996Z</updated>
+        <content type="html"><![CDATA[Jakiś czas temu mogliśmy być świadkami jednej z największych kradzieży kryptowalut (600 milionów dolarów) w historii – oczywiście mowa tu o incydencie z Poly Network: Koniec końców, historia zakończyła się happy endem – atakujący zwrócił skradzione środki, firma zaś postanowiła wynagrodzić go kwotą w wysokości 500 tysięcy dolarów oraz zaoferowała…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Łamanie hashy haseł w systemach Windows. Team Hashcat stanął do boju i złamał wszystkie hasła.]]></title>
+        <id>https://sekurak.pl/lamanie-hashy-hasel-w-systemach-windows-team-hachcat-stanal-do-boju-i-zlamal-wszystkie-hasla/</id>
+        <link href="https://sekurak.pl/lamanie-hashy-hasel-w-systemach-windows-team-hachcat-stanal-do-boju-i-zlamal-wszystkie-hasla/"/>
+        <updated>2021-08-24T05:34:32.997Z</updated>
+        <content type="html"><![CDATA[W ramach zawodów Crack Me If You Can, odbywających się podczas konferencji DEF CON 6-8 sierpnia, należało przeprowadzić łamanie haseł z różnych systemów. Zespół, pod nazwą Team Hashcat, odpowiedzialny za narzędzie hashcat (którego zastosowanie zostało omówione na SekurakTV), podzielił się swoim write-upem. W tym roku organizator (firma KoreLogic) zamiast listy…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiWeb (WAF od Fortinet) z krytyczną luką OS Command Injection – można wykonywać dowolne polecenia systemowe jako root]]></title>
+        <id>https://sekurak.pl/fortiweb-waf-od-fortinet-z-krytyczna-luka-os-command-injection-mozna-wykonywac-dowolne-polecenia-systemowe-jako-root/</id>
+        <link href="https://sekurak.pl/fortiweb-waf-od-fortinet-z-krytyczna-luka-os-command-injection-mozna-wykonywac-dowolne-polecenia-systemowe-jako-root/"/>
+        <updated>2021-08-24T05:34:32.999Z</updated>
+        <content type="html"><![CDATA[Na wstępie mamy dla Was dobrą wiadomość – luka wymaga od atakującego uprzedniego uwierzytelnienia: Luka w interfejsie zarządzania FortiWeb (wersja 6.3.11 i wcześniejsze) umożliwia atakującemu wykonanie dowolnych poleceń systemowych jako root. Za całe zamieszanie odpowiedzialny jest następujący fragment kodu: int move_metafile(char *path,char *name){int iVar1;char buf [512];int nret;snprintf(buf,0x200,”%s/%s”,”/data/etc/saml/shibboleth/service_providers”,name);iVar1 = access(buf,0);if (iVar1…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wyciekły dane z sekretnej listy FBI, zawierającej ponad milion rekordów z informacjami o potencjalnych terrorystach]]></title>
         <id>https://sekurak.pl/wyciekly-dane-z-sekretnej-listy-fbi-zawierajacej-ponad-milion-rekordow-z-informacjami-o-potencjalnych-terrorystach/</id>
@@ -74,40 +109,5 @@
         <link href="https://sekurak.pl/jak-mozna-bylo-sobie-dowolnie-zwiekszyc-saldo-portfela-na-platformie-steam-krytyczna-luka-w-smart2pay/"/>
         <updated>2021-08-12T17:39:37.494Z</updated>
         <content type="html"><![CDATA[Steam to jedna z największych i najpopularniejszych platform do dystrybucji cyfrowej gier komputerowych, stworzona przez Valve Corporation w 2003 roku. Jeśli jesteś graczem, to prawdopodobnie korzystasz z tego serwisu na co dzień… Oczywiście za gry w większości przypadków przyjdzie nam zapłacić, i to niemało, bo często nawet ~ 200 PLN:…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reżim Łukaszenki zhakowany przez grupę o nazwie Białoruscy Cyberpartyzanci. W rękach atakujących – dane agentów KGB i innych służb]]></title>
-        <id>https://sekurak.pl/rezim-lukaszenki-zhakowany-przez-grupe-o-nazwie-bialoruscy-cyberpartyzanci-w-rekach-atakujacych-dane-agentow-kgb-i-innych-sluzb/</id>
-        <link href="https://sekurak.pl/rezim-lukaszenki-zhakowany-przez-grupe-o-nazwie-bialoruscy-cyberpartyzanci-w-rekach-atakujacych-dane-agentow-kgb-i-innych-sluzb/"/>
-        <updated>2021-08-11T17:44:52.855Z</updated>
-        <content type="html"><![CDATA[Jeśli myślicie, że włamanie na skrzynkę ministra Dworczyka stanowiło kompromitację na skalę światową, to ostatni incydent na Białorusi prawdopodobnie zmieni Waszą opinię: Jak informuje dziennikarz Tadeusz Giczan, grupie Białoruscy Cyberpartyzanci udało się włamać na serwery Ministerstwa Spraw Wewnętrznych Republiki Białorusi oraz tamtejszej policji. W ten sposób haktywiści przejęli między innymi…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atak grupy ransomware’owej RansomEXX na producenta płyt głównych Gigabyte]]></title>
-        <id>https://sekurak.pl/atak-grupy-ransomwareowej-ransomexx-na-producenta-plyt-glownych-gigabyte/</id>
-        <link href="https://sekurak.pl/atak-grupy-ransomwareowej-ransomexx-na-producenta-plyt-glownych-gigabyte/"/>
-        <updated>2021-08-09T17:43:19.013Z</updated>
-        <content type="html"><![CDATA[Gigabyte Technology Co., Ltd. to tajwańskie przedsiębiorstwo zajmujące się produkcją sprzętu komputerowego. Firma znana jest przede wszystkim z wytwarzania płyt głównych, choć produkuje również urządzenia peryferyjne, sieciowe, notebooki oraz serwery: Jak się jednak okazało, firma Gigabyte padła ofiarą ataku grupy ransomware’owej RansomEXX: Kwota okupu nie jest jeszcze znana. Wiadomo jednak,…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chcesz z nami legalnie pohackować Protonmaila (i inne ciekawe systemy)? Zapraszamy! [praca w Sekurak/Securitum]]]></title>
-        <id>https://sekurak.pl/chcesz-z-nami-legalnie-pohackowac-protonmaila-i-inne-ciekawe-systemy-zapraszamy/</id>
-        <link href="https://sekurak.pl/chcesz-z-nami-legalnie-pohackowac-protonmaila-i-inne-ciekawe-systemy-zapraszamy/"/>
-        <updated>2021-08-05T17:41:25.294Z</updated>
-        <content type="html"><![CDATA[Ostatnio wykonaliśmy testy bezpieczeństwa Protonmaila (tutaj zobacz raport, który za zgodą zamawiających te pentesty – został upubliczniony). Jeśli chciałbyś uczestniczyć w tego typu ofensywnych projektach – czytaj dalej :-) No więc wracając do tytułu, rocznie w Securitum realizujemy około 400 testów bezpieczeństwa – w tym dla międzynarodowych korporacji i mimo…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atak ransomware’owy na systemy IT regionu Lacjum we Włoszech. Nieczynny portal umożliwiający rejestrację na szczepienia przeciw COVID-19]]></title>
-        <id>https://sekurak.pl/atak-ransomwareowy-na-systemy-it-regionu-lacjum-we-wloszech-nieczynny-portal-umozliwiajacy-rejestracje-na-szczepienia-przeciw-covid-19/</id>
-        <link href="https://sekurak.pl/atak-ransomwareowy-na-systemy-it-regionu-lacjum-we-wloszech-nieczynny-portal-umozliwiajacy-rejestracje-na-szczepienia-przeciw-covid-19/"/>
-        <updated>2021-08-04T17:43:56.377Z</updated>
-        <content type="html"><![CDATA[Jak możemy dowiedzieć się za sprawą oświadczenia zamieszczonego na Facebooku przez prezydenta Lacjum Nicolę Zingarettiego, systemy informatyczne włoskiego regionu padły ofiarą cyberataku, a konkretniej – ransomware’a: W wyniku incydentu wyłączony został między innymi portal umożliwiający mieszkańcom regionu rejestrację na szczepienie przeciwko COVID-19: „[…] W ciągu najbliższych kilku dni rezerwacje na…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luka bezpieczeństwa w mechanizmie logowania w portalu edukacyjnym Uniwersytetu Gdańskiego]]></title>
-        <id>https://sekurak.pl/luka-bezpieczenstwa-w-mechanizmie-logowania-w-portalu-edukacyjnym-uniwersytetu-gdanskiego/</id>
-        <link href="https://sekurak.pl/luka-bezpieczenstwa-w-mechanizmie-logowania-w-portalu-edukacyjnym-uniwersytetu-gdanskiego/"/>
-        <updated>2021-08-03T17:48:34.561Z</updated>
-        <content type="html"><![CDATA[W 2021 roku programiści mają ułatwione zadanie, jeśli chodzi o utrzymanie bezpieczeństwa swojego dzieła. Frameworki frontendowe pokroju Reacta czy Angulara eliminują w większości przypadków XSS-y, zaś gdy mówimy o backendzie, to Laravel czy ASP.NET Core umożliwiają wygenerowanie projektu z gotowym i względnie bezpiecznym systemem logowania oraz rejestracji użytkowników. Niestety, systemy…]]></content>
     </entry>
 </feed>
