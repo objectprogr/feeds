@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-25T05:34:46.290Z</updated>
+    <updated>2021-08-28T17:39:55.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -52,6 +52,13 @@
         <link href="https://www.gov.pl/web/baza-wiedzy/subskrypcja-cyber-wiadomosci"/>
         <updated>2021-07-23T05:34:22.660Z</updated>
         <content type="html"><![CDATA[Formularz subskrypcji wiadomości z adresu CyberJST@mc.gov.pl (Czerwiec 2020 r.)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Złośliwe oprogramowanie – co to takiego, jak się chronić? (Cyberhigiena - dla kazdego)]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/zlosliwe-oprogramowanie--co-to-takiego-jak-sie-chronic</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/zlosliwe-oprogramowanie--co-to-takiego-jak-sie-chronic"/>
+        <updated>2021-08-28T17:39:37.937Z</updated>
+        <content type="html"><![CDATA[Cyberprzestępcy korzystają z różnych narzędzi, aby zainfekować a nawet przejąć kontrolę nad urządzeniami swoich ofiar. Jednym z takich narzędzi jest malware, czyli złośliwe oprogramowanie. Jak się przed nim chronić? Przeczytaj nasze porady.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zajrzyj na pocztę (Cyberhigiena - dla kazdego)]]></title>
@@ -115,13 +122,6 @@
         <link href="https://www.gov.pl/web/baza-wiedzy/bezpieczni-w-mediach-spolecznosciowych--praktyczne-wskazowki"/>
         <updated>2021-08-10T05:34:06.824Z</updated>
         <content type="html"><![CDATA[W poradniku znajdują się wskazówki jak unikać włamań na konta w mediach społecznościowych oraz inne porady dotyczące cyberbezpieczeństwa. (Styczeń 2021 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Media społecznościowe. Jak bezpiecznie z nich korzystać? (Cyberhigiena - dla kazdego)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/media-spolecznosciowe-jak-bezpiecznie-z-nich-korzystac</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/media-spolecznosciowe-jak-bezpiecznie-z-nich-korzystac"/>
-        <updated>2021-08-10T05:34:06.824Z</updated>
-        <content type="html"><![CDATA[Aby zarządzać swoimi cyfrowymi śladami, użyj ustawień prywatności na różnych platformach społecznościowych.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Narodowe Standardy Cyberbezpieczeństwa (Dla profesjonalistow)]]></title>
@@ -368,6 +368,34 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/#more-2361" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kuba: rząd przepchnął ustawę cenzurującą Internet w kraju. Od teraz krytyka reżimu to „cyberterroryzm”. (Sekurak)]]></title>
+        <id>https://sekurak.pl/kuba-rzad-przepchnal-ustawe-cenzurujaca-internet-w-kraju-od-teraz-krytyka-rezimu-to-cyberterroryzm/</id>
+        <link href="https://sekurak.pl/kuba-rzad-przepchnal-ustawe-cenzurujaca-internet-w-kraju-od-teraz-krytyka-rezimu-to-cyberterroryzm/"/>
+        <updated>2021-08-28T17:39:55.143Z</updated>
+        <content type="html"><![CDATA[W lipcu informowaliśmy was o blackoucie Internetu i blokadzie mediów społecznościowych w trakcie antyrządowych protestów na Kubie: Tym razem reżim poszedł o krok dalej, uchwalając nowe przepisy, pozwalające na ograniczanie wolność wypowiedzi w Internecie. Dodatkowo rząd Kuby wprowadził jednoznaczny zapis, który zmusza dostawców usług internetowych do zgłaszania wszelkich incydentów bezpieczeństwa…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ekipę Ragnarok ransomware ruszyło sumienie (lub FBI ;) – udostępnili klucze deszyfrujące wszystkie ofiary (Sekurak)]]></title>
+        <id>https://sekurak.pl/ekipe-ragnarok-ransomware-ruszylo-sumienie-lub-fbi-udostepnili-klucze-deszyfrujace-wszystkie-ofiary/</id>
+        <link href="https://sekurak.pl/ekipe-ragnarok-ransomware-ruszylo-sumienie-lub-fbi-udostepnili-klucze-deszyfrujace-wszystkie-ofiary/"/>
+        <updated>2021-08-28T17:39:55.143Z</updated>
+        <content type="html"><![CDATA[Jak donosi ekipa Bleepingcomputer, Rangarok w panice ~opuścił swój serwis publikujący informacje o ofiarach / wyciekach: Looking at the leak site, it seems like the gang did not plan on shutting down today, and just wiped everything and shut down their operation. Jednocześnie w tym serwisie udostępniono uniwersalnego dekryptora. Badacze…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wygrałeś 1000 zł w Loterii Narodowego Programu Szczepień! Potwierdź wygraną, podając przestępcom dane do konta bankowego… (Sekurak)]]></title>
+        <id>https://sekurak.pl/wygrales-1000-zl-w-loterii-narodowego-programu-szczepien-potwierdz-wygrana-podajac-przestepcom-dane-do-konta-bankowego/</id>
+        <link href="https://sekurak.pl/wygrales-1000-zl-w-loterii-narodowego-programu-szczepien-potwierdz-wygrana-podajac-przestepcom-dane-do-konta-bankowego/"/>
+        <updated>2021-08-28T17:39:55.144Z</updated>
+        <content type="html"><![CDATA[Kilka dni temu informowaliśmy Was o aresztowaniu grupy przestępczej, która, podszywając się pod dostawców energii elektrycznej, rozsyłała SMS-y przekierowujące do fałszywej bramki płatności wyłudzającej dane dostępowe do kont bankowych ofiar: Niestety, wizja szybkiego wzbogacenia się małym nakładem „pracy” zmotywowała innych cyberprzestępców do kontynuowania kampanii. Tym razem pretekstem stał się odbiór…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploit zero-click w iPhonie używany do infekcji Pegasusem (Sekurak)]]></title>
+        <id>https://sekurak.pl/exploit-zero-click-w-iphonie-uzywany-do-infekcji-pegasusem/</id>
+        <link href="https://sekurak.pl/exploit-zero-click-w-iphonie-uzywany-do-infekcji-pegasusem/"/>
+        <updated>2021-08-28T17:39:55.145Z</updated>
+        <content type="html"><![CDATA[Badacze z firmy Citizen Lab informują o wykryciu programu Pegasus zainstalowanego na urządzeniach iPhone dziewięciu aktywistów z Bahrajnu. Do infekcji doszło przy użyciu exploitów zero-click (czyli takich, które nie wymagają żadnej interakcji ze strony ofiary) na aplikację iMessage. Wykorzystano znaną od 2020 roku podatność KISMET oraz exploit FORCEDENTRY wykryty w…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nigeryjczyk próbował skłonić pracowników dużych firm do instalacji ransomware. Proponowana „pensja” – milion USD. (Sekurak)]]></title>
         <id>https://sekurak.pl/nigeryjczyk-probowal-sklonic-pracownikow-duzych-firm-do-instalacji-ransomware-proponowana-pensja-milion-usd/</id>
         <link href="https://sekurak.pl/nigeryjczyk-probowal-sklonic-pracownikow-duzych-firm-do-instalacji-ransomware-proponowana-pensja-milion-usd/"/>
@@ -443,33 +471,5 @@
         <link href="https://sekurak.pl/facebook-wprowadza-szyfrowanie-e2e-rozmow-glosowych-i-czatow-wideo-w-messengerze/"/>
         <updated>2021-08-16T17:42:08.446Z</updated>
         <content type="html"><![CDATA[Kilka dni temu dyrektor ds. zarządzania produktem (Messenger) Ruth Kricheli ogłosił dość ciekawe dla miłośników prywatności zmiany w komunikatorze Messenger: Pierwszą nowością jest szyfrowanie e2e (end-to-end) rozmów głosowych i wideo w Messengerze. W praktyce oznacza to, że nikt, w tym Facebook, nie powinien być w stanie podsłuchiwać treści naszych rozmów….]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dziesiątki milionów urządzeń Amazon Kindle z krytyczną podatnością; poprawka gotowa i instalowana automatycznie (Sekurak)]]></title>
-        <id>https://sekurak.pl/dziesiatki-milionow-urzadzen-amazon-kindle-z-krytyczna-podatnoscia-poprawka-gotowa-i-instalowana-automatycznie/</id>
-        <link href="https://sekurak.pl/dziesiatki-milionow-urzadzen-amazon-kindle-z-krytyczna-podatnoscia-poprawka-gotowa-i-instalowana-automatycznie/"/>
-        <updated>2021-08-14T05:34:32.734Z</updated>
-        <content type="html"><![CDATA[Researcherzy firmy Checkpoint wzięli jakiś czas temu pod lupę urządzenia Kindle firmy Amazon. Efekty ich pracy są bardzo ciekawe. Na podstawie ujawnionych podatności możliwe było przejęcie pełnej kontroli nad każdym tego typu urządzeniem. Po pobraniu na czytnik specjalnie spreparowanego e-booka (ileż to darmowych „okazji” krąży w sieci – tylko pobierać!)…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple wprowadza masową inwigilację swoich użytkowników pod pozorem ochrony dzieci (Sekurak)]]></title>
-        <id>https://sekurak.pl/apple-wprowadza-masowa-inwigilacje-swoich-uzytkownikow-pod-pozorem-ochrony-dzieci/</id>
-        <link href="https://sekurak.pl/apple-wprowadza-masowa-inwigilacje-swoich-uzytkownikow-pod-pozorem-ochrony-dzieci/"/>
-        <updated>2021-08-14T05:34:32.735Z</updated>
-        <content type="html"><![CDATA[Jeśli jesteście posiadaczami urządzeń z systemami iOS czy macOS, to prawdopodobnie jedną z wartości, którą sobie cenicie, stanowi prywatność. Szczyci się nią sama firma Apple: Niestety, ostatnia zapowiedź Apple’a nie rokuje zbyt dobrze w kontekście dbałości o prywatność użytkowników iOS’ów i macOS’ów: Pamiętacie próby przeforsowania ustaw o dodaniu furtek w…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wprowadzenie do bezpieczeństwa IT – zobacz spis treści nowej książki sekuraka! :) (Sekurak)]]></title>
-        <id>https://sekurak.pl/wprowadzenie-do-bezpieczenstwa-it-zobacz-spis-tresci-nowej-ksiazki-sekuraka/</id>
-        <link href="https://sekurak.pl/wprowadzenie-do-bezpieczenstwa-it-zobacz-spis-tresci-nowej-ksiazki-sekuraka/"/>
-        <updated>2021-08-14T05:34:32.737Z</updated>
-        <content type="html"><![CDATA[Po sukcesie pierwszej książki: Bezpieczeństwo aplikacji webowych (sprzedanych przeszło 16 000 sztuk), czas na drugą: Wprowadzenie do bezpieczeństwa IT. W założeniu książka kierowana jest do… wszystkich osób z IT :) i ma stanowić gładkie wprowadzenie do niemal każdego tematu, który można rozważać w ramach IT security. Przy czym nie ma…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak można było sobie dowolnie zwiększyć saldo portfela na platformie Steam? Krytyczna luka w Smart2Pay (Sekurak)]]></title>
-        <id>https://sekurak.pl/jak-mozna-bylo-sobie-dowolnie-zwiekszyc-saldo-portfela-na-platformie-steam-krytyczna-luka-w-smart2pay/</id>
-        <link href="https://sekurak.pl/jak-mozna-bylo-sobie-dowolnie-zwiekszyc-saldo-portfela-na-platformie-steam-krytyczna-luka-w-smart2pay/"/>
-        <updated>2021-08-12T17:39:37.494Z</updated>
-        <content type="html"><![CDATA[Steam to jedna z największych i najpopularniejszych platform do dystrybucji cyfrowej gier komputerowych, stworzona przez Valve Corporation w 2003 roku. Jeśli jesteś graczem, to prawdopodobnie korzystasz z tego serwisu na co dzień… Oczywiście za gry w większości przypadków przyjdzie nam zapłacić, i to niemało, bo często nawet ~ 200 PLN:…]]></content>
     </entry>
 </feed>

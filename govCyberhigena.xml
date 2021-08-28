@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gov.pl/web/baza-wiedzy/cyberbezpieczenstwo</id>
     <title>Cyberhigiena - dla kazdego</title>
-    <updated>2021-08-25T05:34:46.273Z</updated>
+    <updated>2021-08-28T17:39:55.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gov.pl/img/icons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Złośliwe oprogramowanie – co to takiego, jak się chronić?]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/zlosliwe-oprogramowanie--co-to-takiego-jak-sie-chronic</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/zlosliwe-oprogramowanie--co-to-takiego-jak-sie-chronic"/>
+        <updated>2021-08-28T17:39:37.937Z</updated>
+        <content type="html"><![CDATA[Cyberprzestępcy korzystają z różnych narzędzi, aby zainfekować a nawet przejąć kontrolę nad urządzeniami swoich ofiar. Jednym z takich narzędzi jest malware, czyli złośliwe oprogramowanie. Jak się przed nim chronić? Przeczytaj nasze porady.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zajrzyj na pocztę]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/zajrzyj-na-poczte</id>
@@ -67,12 +74,5 @@
         <link href="https://www.gov.pl/web/baza-wiedzy/bezpieczni-w-mediach-spolecznosciowych--praktyczne-wskazowki"/>
         <updated>2021-08-10T05:34:06.824Z</updated>
         <content type="html"><![CDATA[W poradniku znajdują się wskazówki jak unikać włamań na konta w mediach społecznościowych oraz inne porady dotyczące cyberbezpieczeństwa. (Styczeń 2021 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Media społecznościowe. Jak bezpiecznie z nich korzystać?]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/media-spolecznosciowe-jak-bezpiecznie-z-nich-korzystac</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/media-spolecznosciowe-jak-bezpiecznie-z-nich-korzystac"/>
-        <updated>2021-08-10T05:34:06.824Z</updated>
-        <content type="html"><![CDATA[Aby zarządzać swoimi cyfrowymi śladami, użyj ustawień prywatności na różnych platformach społecznościowych.]]></content>
     </entry>
 </feed>
