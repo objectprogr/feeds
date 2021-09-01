@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-08-31T17:41:07.948Z</updated>
+    <updated>2021-09-01T17:41:51.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ProxyToken, czyli podatność pozwalająca na obejście uwierzytelniania w MS Exchange]]></title>
+        <id>https://sekurak.pl/proxytoken-czyli-podatnosc-pozwalajaca-na-obejscie-uwierzytelniania-w-ms-exchange/</id>
+        <link href="https://sekurak.pl/proxytoken-czyli-podatnosc-pozwalajaca-na-obejscie-uwierzytelniania-w-ms-exchange/"/>
+        <updated>2021-09-01T17:41:51.116Z</updated>
+        <content type="html"><![CDATA[W marcu tego roku pisaliśmy o krytycznej podatności ProxyLogon (CVE-2021-26855), która pozwalała atakującemu na ominięcie uwierzytelniania i zdalne wykonanie kodu w Microsoft Exchange Server: Jak podkreślił badacz bezpieczeństwa Organge Tsai, wyżej wspomniana podatność to jedynie “wierzchołek góry lodowej”, ponieważ architektura MS Exchange stanowi nową powierzchnię ataku, o której badacz mówił…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Północnokoreańska grupa APT wykorzystuje exploit w Adobe Readerze do infekowania celów złośliwymi plikami PDF]]></title>
+        <id>https://sekurak.pl/polnocnokoreanska-grupa-apt-wykorzystuje-exploit-w-adobe-readerze-do-infekowania-celow-zlosliwymi-plikami-pdf/</id>
+        <link href="https://sekurak.pl/polnocnokoreanska-grupa-apt-wykorzystuje-exploit-w-adobe-readerze-do-infekowania-celow-zlosliwymi-plikami-pdf/"/>
+        <updated>2021-09-01T17:41:51.118Z</updated>
+        <content type="html"><![CDATA[Jak wynika z raportu firmy AhnLab, grupa APT (Thallium lub Kimsuky) związana z Koreą Północną zaczęła wykorzystywać podatność CVE-2020-9715 w Adobe Readerze do infekowania swoich ofiar złośliwym oprogramowaniem. W tym celu atakujący wysyłają ofierze (organizacje z Korei Południowej) z pozoru nieszkodliwy plik PDF: Otworzenie pliku w wersji Adobe Readera, która…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grupa ransomware RansomEXX zhakowała dostawcę oprogramowania układowego American Megatrends]]></title>
         <id>https://sekurak.pl/grupa-ransomware-ransomexx-zhakowala-dostawce-oprogramowania-ukladowego-american-megatrends/</id>
@@ -95,19 +109,5 @@
         <link href="https://sekurak.pl/energetyczne-angazujace-i-aktualne-szkolenie-cyberawareness-od-sekuraka/"/>
         <updated>2021-08-19T17:41:33.702Z</updated>
         <content type="html"><![CDATA[Obawiacie się, że Wasi pracownicy mogą paść ofiarą socjotechniki/phishingu? Może przeleją firmowe pieniądze na konto przestępców? Nieświadomie wpuszczą ransomware do Waszej sieci? Albo udostępnią poufne informacje firmowe nieznajomym? Co z bezpieczeństwem smartfonów? Jeśli intrygują Was tego typu pytania, zobaczcie na nasze szkolenie cyberawareness przeznaczone dla osób nietechnicznych: bezpieczny.sekurak.pl Szkolenie sami…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T-Mobile zhakowane – dane ponad 30 milionów klientów z USA są licytowane na forum cyberprzestępczym]]></title>
-        <id>https://sekurak.pl/t-mobile-zhakowane-dane-ponad-30-milionow-klientow-z-usa-sa-licytowane-na-forum-cyberprzestepczym/</id>
-        <link href="https://sekurak.pl/t-mobile-zhakowane-dane-ponad-30-milionow-klientow-z-usa-sa-licytowane-na-forum-cyberprzestepczym/"/>
-        <updated>2021-08-18T17:41:44.017Z</updated>
-        <content type="html"><![CDATA[O całym zajściu mogliśmy dowiedzieć się za sprawą oficjalnego oświadczenia, jakie firma T-Mobile zamieściła na swojej stronie internetowej: Z treści wypowiedzi wynika, że choć nieuprawniony dostęp do serwerów T-Mobile rzeczywiście miał miejsce, to firma nie ustaliła jeszcze, czy dane jej klientów zostały wykradzione.&nbsp; Niestety, jak informuje portal Vice, nielegalnie pozyskane…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Policja aresztowała trzech Gruzinów podszywających się pod dostawców energii elektrycznej. Przestępcy ukradli ponad 450 tys. zł]]></title>
-        <id>https://sekurak.pl/policja-aresztowala-trzech-gruzinow-podszywajacych-sie-pod-dostawcow-energii-elektrycznej-przestepcy-ukradli-ponad-450-tys-zl/</id>
-        <link href="https://sekurak.pl/policja-aresztowala-trzech-gruzinow-podszywajacych-sie-pod-dostawcow-energii-elektrycznej-przestepcy-ukradli-ponad-450-tys-zl/"/>
-        <updated>2021-08-18T17:41:44.018Z</updated>
-        <content type="html"><![CDATA[Jeśli śledzicie na bieżąco kampanie cyberprzestępcze wycelowane w Polskę, to na pewno zetknęliście się z SMS-ami od „PGE” czy „Taurona”: Policjantom z Biura do Walki z Cyberprzestępczością Komendy Głównej Policji udało się jednak zatrzymać trzech obywateli Gruzji, którzy, podszywając się pod dużych dostawców energii elektrycznej, wyłudzali dane umożliwiające logowanie do…]]></content>
     </entry>
 </feed>
