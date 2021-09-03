@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-09-01T17:41:51.879Z</updated>
+    <updated>2021-09-03T17:41:34.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Uwaga. Odbywa się masowe wykorzystywanie krytycznej podatności w Atlassian Confluence. Łatajcie ASAP!]]></title>
+        <id>https://sekurak.pl/uwaga-odbywa-sie-masowe-wykorzystywanie-krytycznej-podatnosci-w-atlassian-confluence-latajcie-asap/</id>
+        <link href="https://sekurak.pl/uwaga-odbywa-sie-masowe-wykorzystywanie-krytycznej-podatnosci-w-atlassian-confluence-latajcie-asap/"/>
+        <updated>2021-09-03T17:41:34.155Z</updated>
+        <content type="html"><![CDATA[O temacie donosi m.in. USCYBERCOM: Podatność prawdopodobnie może być wykorzystania bez uwierzytelnienia, a finalnie daje możliwość wykonywania poleceń w systemie operacyjnym (RCE): Nieco więcej o tej krytycznej luce (wycena 9.8/10 w skali CVSS) można znaleźć na stronie producenta. –ms]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talibowie mogą posiadać dane biometryczne Amerykanów]]></title>
+        <id>https://sekurak.pl/talibowie-moga-posiadac-dane-biometryczne-amerykanow/</id>
+        <link href="https://sekurak.pl/talibowie-moga-posiadac-dane-biometryczne-amerykanow/"/>
+        <updated>2021-09-03T17:41:34.155Z</updated>
+        <content type="html"><![CDATA[Z opisanych tutaj doniesień Agencji Reutera wynika, że talibowie mogą być w posiadaniu danych biometrycznych zebranych przez Amerykanów i dotyczących Afgańczyków, samych żołnierzy i sił koalicyjnych. Jak się okazuje, już po zamachach z 11 września 2001 roku dane biometryczne zaczęły być dla Amerykanów cennym zasobem, bo pozwalały na „śledzenie” celów….]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp z grzywną 225 milionów euro za naruszenie prywatności użytkowników]]></title>
+        <id>https://sekurak.pl/whatsapp-z-grzywna-225-milionow-euro-za-naruszenie-prywatnosci-uzytkownikow/</id>
+        <link href="https://sekurak.pl/whatsapp-z-grzywna-225-milionow-euro-za-naruszenie-prywatnosci-uzytkownikow/"/>
+        <updated>2021-09-03T17:41:34.156Z</updated>
+        <content type="html"><![CDATA[Irlandzka Komisja Ochrony Danych (Data Protection Commission) ogłosiła, że WhatsApp należący do Facebooka zostanie ukarany grzywną w wysokości 225 milionów euro w związku z naruszeniem prywatności użytkowników komunikatora: Według DPC WhatsApp niewłaściwe informował użytkowników, w jaki sposób ich dane będą wykorzystywane przez Facebooka. Z raportu Komisji wynika, że naruszone zostały…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Narzędzie do ukrywania oprogramowania malware w kartach graficznych]]></title>
+        <id>https://sekurak.pl/narzedzie-do-ukrywania-oprogramowania-malware-w-kartach-graficznych/</id>
+        <link href="https://sekurak.pl/narzedzie-do-ukrywania-oprogramowania-malware-w-kartach-graficznych/"/>
+        <updated>2021-09-03T17:41:34.160Z</updated>
+        <content type="html"><![CDATA[Na jednym z forów hakerskich redaktorzy BleepingComputer.com znaleźli takie ogłoszenie: Użytkownik oferuje PoC (czyli pewnie gotowy program) techniki pozwalającej na ukrycie złośliwego oprogramowania przed skanowaniem pamięci operacyjnej przez różne rozwiązania zabezpieczające. Nie podaje zbyt wielu szczegółów, ale ogólna zasada działania, jak widać, ogranicza się do alokacji przestrzeni adresowej w buforze…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[taliban.gov.af, czyli historia o tym, jak każdy mógł wykupić za 25 dolarów domenę rządową]]></title>
+        <id>https://sekurak.pl/taliban-gov-af-czyli-historia-o-tym-jak-kazdy-mogl-wykupic-za-25-dolarow-domene-rzadowa/</id>
+        <link href="https://sekurak.pl/taliban-gov-af-czyli-historia-o-tym-jak-kazdy-mogl-wykupic-za-25-dolarow-domene-rzadowa/"/>
+        <updated>2021-09-03T17:41:34.162Z</updated>
+        <content type="html"><![CDATA[Afganistan stał się ostatnio dość głośnym tematem w mediach po tym, jak talibowie błyskawicznie przejęli władzę w państwie, zmuszając z pozoru o wiele większe i lepiej uzbrojone siły afgańskiej armii oraz ich sojuszników do ewakuacji z kraju. Z sytuacji tej zdaje się doskonale zdawać sobie sprawę pewien żartowniś, któremu udało…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dzień programisty: zorganizuj u siebie praktyczny webinar od sekuraka z nagrodami :-)]]></title>
+        <id>https://sekurak.pl/dzien-programisty-zorganizuj-u-siebie-praktyczny-webinar-od-sekuraka-z-nagrodami/</id>
+        <link href="https://sekurak.pl/dzien-programisty-zorganizuj-u-siebie-praktyczny-webinar-od-sekuraka-z-nagrodami/"/>
+        <updated>2021-09-03T17:41:34.163Z</updated>
+        <content type="html"><![CDATA[Dzień programisty tradycyjnie obchodzony jest 256. dnia roku – w tym roku to 13. września. Jeśli chcielibyście z tej okazji zorganizować w firmie atrakcyjny event on-line z nagrodami, to zerknijcie jakie mamy tematy do zaproponowania: Dlaczego hackowanie aplikacji webowych jest proste? (i jak temu zapobiec) ~1.5h. Prowadzenie: Michał Sajdak.W trakcie…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ProxyToken, czyli podatność pozwalająca na obejście uwierzytelniania w MS Exchange]]></title>
         <id>https://sekurak.pl/proxytoken-czyli-podatnosc-pozwalajaca-na-obejscie-uwierzytelniania-w-ms-exchange/</id>
@@ -67,47 +109,5 @@
         <link href="https://sekurak.pl/nigeryjczyk-probowal-sklonic-pracownikow-duzych-firm-do-instalacji-ransomware-proponowana-pensja-milion-usd/"/>
         <updated>2021-08-24T05:34:32.996Z</updated>
         <content type="html"><![CDATA[Obywatel Nigerii próbował nakłonić pracowników różnych firm do instalacji na serwerach ransomware’a, który zaszyfrowałby dane i ostatecznie „poprosił” o okup. Plan mężczyzny okazał się jednak na tyle niedopracowany, że napisał on do kilku przedsiębiorstw, których poczta była chroniona przez Abnormal Security. Poniższa wiadomość zwróciła uwagę pracowników: Demonware to ransomware napisany…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firma Cloudflare odparła rekordowy atak DDoS (17,2 miliona zapytań na sekundę) na infrastrukturę swojego klienta]]></title>
-        <id>https://sekurak.pl/firma-cloudflare-odparla-rekordowy-atak-ddos-172-miliona-zapytan-na-sekunde-na-infrastrukture-swojego-klienta/</id>
-        <link href="https://sekurak.pl/firma-cloudflare-odparla-rekordowy-atak-ddos-172-miliona-zapytan-na-sekunde-na-infrastrukture-swojego-klienta/"/>
-        <updated>2021-08-24T05:34:32.996Z</updated>
-        <content type="html"><![CDATA[Przedsiębiorstwo Cloudflare poinformowało na swoim blogu o rekordowym ataku DDoS na infrastrukturę jednego ze swoich klientów, działających w sektorze finansowym. W szczytowym momencie botnet wysyłał ponad 17 milionów rps (zapytań na sekundę): Cloudflare twierdzi, że atakujący zastosowali wariant botnetu Mirai, składającego się z co najmniej 20 000 urządzeń IoT. Sporo…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japońska giełda kryptowalutowa Liquid zhakowana! Przestępcy ukradli ponad 90 milionów dolarów…]]></title>
-        <id>https://sekurak.pl/japonska-gielda-kryptowalutowa-liquid-zhakowana-przestepcy-ukradli-ponad-90-milionow-dolarow/</id>
-        <link href="https://sekurak.pl/japonska-gielda-kryptowalutowa-liquid-zhakowana-przestepcy-ukradli-ponad-90-milionow-dolarow/"/>
-        <updated>2021-08-24T05:34:32.996Z</updated>
-        <content type="html"><![CDATA[Jakiś czas temu mogliśmy być świadkami jednej z największych kradzieży kryptowalut (600 milionów dolarów) w historii – oczywiście mowa tu o incydencie z Poly Network: Koniec końców, historia zakończyła się happy endem – atakujący zwrócił skradzione środki, firma zaś postanowiła wynagrodzić go kwotą w wysokości 500 tysięcy dolarów oraz zaoferowała…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Łamanie hashy haseł w systemach Windows. Team Hashcat stanął do boju i złamał wszystkie hasła.]]></title>
-        <id>https://sekurak.pl/lamanie-hashy-hasel-w-systemach-windows-team-hachcat-stanal-do-boju-i-zlamal-wszystkie-hasla/</id>
-        <link href="https://sekurak.pl/lamanie-hashy-hasel-w-systemach-windows-team-hachcat-stanal-do-boju-i-zlamal-wszystkie-hasla/"/>
-        <updated>2021-08-24T05:34:32.997Z</updated>
-        <content type="html"><![CDATA[W ramach zawodów Crack Me If You Can, odbywających się podczas konferencji DEF CON 6-8 sierpnia, należało przeprowadzić łamanie haseł z różnych systemów. Zespół, pod nazwą Team Hashcat, odpowiedzialny za narzędzie hashcat (którego zastosowanie zostało omówione na SekurakTV), podzielił się swoim write-upem. W tym roku organizator (firma KoreLogic) zamiast listy…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortiWeb (WAF od Fortinet) z krytyczną luką OS Command Injection – można wykonywać dowolne polecenia systemowe jako root]]></title>
-        <id>https://sekurak.pl/fortiweb-waf-od-fortinet-z-krytyczna-luka-os-command-injection-mozna-wykonywac-dowolne-polecenia-systemowe-jako-root/</id>
-        <link href="https://sekurak.pl/fortiweb-waf-od-fortinet-z-krytyczna-luka-os-command-injection-mozna-wykonywac-dowolne-polecenia-systemowe-jako-root/"/>
-        <updated>2021-08-24T05:34:32.999Z</updated>
-        <content type="html"><![CDATA[Na wstępie mamy dla Was dobrą wiadomość – luka wymaga od atakującego uprzedniego uwierzytelnienia: Luka w interfejsie zarządzania FortiWeb (wersja 6.3.11 i wcześniejsze) umożliwia atakującemu wykonanie dowolnych poleceń systemowych jako root. Za całe zamieszanie odpowiedzialny jest następujący fragment kodu: int move_metafile(char *path,char *name){int iVar1;char buf [512];int nret;snprintf(buf,0x200,”%s/%s”,”/data/etc/saml/shibboleth/service_providers”,name);iVar1 = access(buf,0);if (iVar1…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wyciekły dane z sekretnej listy FBI, zawierającej ponad milion rekordów z informacjami o potencjalnych terrorystach]]></title>
-        <id>https://sekurak.pl/wyciekly-dane-z-sekretnej-listy-fbi-zawierajacej-ponad-milion-rekordow-z-informacjami-o-potencjalnych-terrorystach/</id>
-        <link href="https://sekurak.pl/wyciekly-dane-z-sekretnej-listy-fbi-zawierajacej-ponad-milion-rekordow-z-informacjami-o-potencjalnych-terrorystach/"/>
-        <updated>2021-08-19T17:41:33.700Z</updated>
-        <content type="html"><![CDATA[O całym zajściu mogliśmy dowiedzieć się za sprawą tweeta badacza bezpieczeństwa Boba Diachenki: Po atakach terrorystycznych z 11 września 2001 r. w Stanach Zjednoczonych utworzono TSC (Terrorist Screening Center), czyli wieloagencyjne centrum zarządzane przez FBI, którego głównym zadaniem jest uzupełnianie listy osób podejrzewanych o terroryzm i zarządzanie nią. Powyższe dane…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Energetyczne, angażujące i aktualne szkolenie cyberawareness od sekuraka]]></title>
-        <id>https://sekurak.pl/energetyczne-angazujace-i-aktualne-szkolenie-cyberawareness-od-sekuraka/</id>
-        <link href="https://sekurak.pl/energetyczne-angazujace-i-aktualne-szkolenie-cyberawareness-od-sekuraka/"/>
-        <updated>2021-08-19T17:41:33.702Z</updated>
-        <content type="html"><![CDATA[Obawiacie się, że Wasi pracownicy mogą paść ofiarą socjotechniki/phishingu? Może przeleją firmowe pieniądze na konto przestępców? Nieświadomie wpuszczą ransomware do Waszej sieci? Albo udostępnią poufne informacje firmowe nieznajomym? Co z bezpieczeństwem smartfonów? Jeśli intrygują Was tego typu pytania, zobaczcie na nasze szkolenie cyberawareness przeznaczone dla osób nietechnicznych: bezpieczny.sekurak.pl Szkolenie sami…]]></content>
     </entry>
 </feed>
