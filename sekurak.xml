@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-09-03T17:41:34.880Z</updated>
+    <updated>2021-09-07T05:34:53.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ProtonMail wydał adres IP aktywisty z Francji]]></title>
+        <id>https://sekurak.pl/protonmail-wydal-adres-ip-aktywisty-z-francji/</id>
+        <link href="https://sekurak.pl/protonmail-wydal-adres-ip-aktywisty-z-francji/"/>
+        <updated>2021-09-07T05:34:53.032Z</updated>
+        <content type="html"><![CDATA[Jak donosi portal “secoursrouge.org”, serwis ProtonMail miał wydać organom ścigania adres IP francuskiego aktywisty z ruchu “Youth for Climate” (Młodzieżowy Strajk Klimatyczny): Zastanówmy się najpierw, czy wydanie adresu IP przez Protona było faktycznie złamaniem “zasad” serwisu? Więcej na ten temat możemy znaleźć na podstronie protonmail.com/privacy-policy: Jak możemy przeczytać w polityce…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kod źródłowy ransomware’a Babuk wyciekł do sieci. Powód? „U developera wykryto raka płuc”]]></title>
+        <id>https://sekurak.pl/kod-zrodlowy-ransomwarea-babuk-wyciekl-do-sieci-powod-u-developera-wykryto-raka-pluc/</id>
+        <link href="https://sekurak.pl/kod-zrodlowy-ransomwarea-babuk-wyciekl-do-sieci-powod-u-developera-wykryto-raka-pluc/"/>
+        <updated>2021-09-07T05:34:53.034Z</updated>
+        <content type="html"><![CDATA[O Babuku zrobiło się głośno po udanym ataku na główną jednostkę policji w Waszyngtonie, w wyniku którego wykradziono i zaszyfrowano ponad 250 GB danych:&nbsp; Ta sama grupa, pod szyldem Payload.bin, opublikowała również kody źródłowe należące do CD Projekt Red: Z kolei jakiś czas temu jeden z (byłych?) operatorów grupy Babuk…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple pod wpływem krytyki opóźnia wprowadzenie masowej inwigilacji (skanowanie CSAM)]]></title>
+        <id>https://sekurak.pl/apple-pod-wplywem-krytyki-opoznia-wprowadzenie-masowej-inwigilacji-skanowanie-csam/</id>
+        <link href="https://sekurak.pl/apple-pod-wplywem-krytyki-opoznia-wprowadzenie-masowej-inwigilacji-skanowanie-csam/"/>
+        <updated>2021-09-07T05:34:53.035Z</updated>
+        <content type="html"><![CDATA[W sierpniu tego roku pisaliśmy o kontrowersyjnej zmianie, jaką Apple zamierza wprowadzić w wypadku urządzeń z systemami iOS i macOS. W dużym skrócie – firma zapowiedziała, że w celu ochrony dzieci uruchomi skanowanie „nieodpowiednich” treści znajdujących się w chmurze iCloud oraz bezpośrednio w urządzeniach użytkowników: W praktyce takie działanie może…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uwaga. Odbywa się masowe wykorzystywanie krytycznej podatności w Atlassian Confluence. Łatajcie ASAP!]]></title>
         <id>https://sekurak.pl/uwaga-odbywa-sie-masowe-wykorzystywanie-krytycznej-podatnosci-w-atlassian-confluence-latajcie-asap/</id>
@@ -88,26 +109,5 @@
         <link href="https://sekurak.pl/ekipe-ragnarok-ransomware-ruszylo-sumienie-lub-fbi-udostepnili-klucze-deszyfrujace-wszystkie-ofiary/"/>
         <updated>2021-08-28T17:39:55.143Z</updated>
         <content type="html"><![CDATA[Jak donosi ekipa Bleepingcomputer, Rangarok w panice ~opuścił swój serwis publikujący informacje o ofiarach / wyciekach: Looking at the leak site, it seems like the gang did not plan on shutting down today, and just wiped everything and shut down their operation. Jednocześnie w tym serwisie udostępniono uniwersalnego dekryptora. Badacze…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wygrałeś 1000 zł w Loterii Narodowego Programu Szczepień! Potwierdź wygraną, podając przestępcom dane do konta bankowego…]]></title>
-        <id>https://sekurak.pl/wygrales-1000-zl-w-loterii-narodowego-programu-szczepien-potwierdz-wygrana-podajac-przestepcom-dane-do-konta-bankowego/</id>
-        <link href="https://sekurak.pl/wygrales-1000-zl-w-loterii-narodowego-programu-szczepien-potwierdz-wygrana-podajac-przestepcom-dane-do-konta-bankowego/"/>
-        <updated>2021-08-28T17:39:55.144Z</updated>
-        <content type="html"><![CDATA[Kilka dni temu informowaliśmy Was o aresztowaniu grupy przestępczej, która, podszywając się pod dostawców energii elektrycznej, rozsyłała SMS-y przekierowujące do fałszywej bramki płatności wyłudzającej dane dostępowe do kont bankowych ofiar: Niestety, wizja szybkiego wzbogacenia się małym nakładem „pracy” zmotywowała innych cyberprzestępców do kontynuowania kampanii. Tym razem pretekstem stał się odbiór…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploit zero-click w iPhonie używany do infekcji Pegasusem]]></title>
-        <id>https://sekurak.pl/exploit-zero-click-w-iphonie-uzywany-do-infekcji-pegasusem/</id>
-        <link href="https://sekurak.pl/exploit-zero-click-w-iphonie-uzywany-do-infekcji-pegasusem/"/>
-        <updated>2021-08-28T17:39:55.145Z</updated>
-        <content type="html"><![CDATA[Badacze z firmy Citizen Lab informują o wykryciu programu Pegasus zainstalowanego na urządzeniach iPhone dziewięciu aktywistów z Bahrajnu. Do infekcji doszło przy użyciu exploitów zero-click (czyli takich, które nie wymagają żadnej interakcji ze strony ofiary) na aplikację iMessage. Wykorzystano znaną od 2020 roku podatność KISMET oraz exploit FORCEDENTRY wykryty w…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nigeryjczyk próbował skłonić pracowników dużych firm do instalacji ransomware. Proponowana „pensja” – milion USD.]]></title>
-        <id>https://sekurak.pl/nigeryjczyk-probowal-sklonic-pracownikow-duzych-firm-do-instalacji-ransomware-proponowana-pensja-milion-usd/</id>
-        <link href="https://sekurak.pl/nigeryjczyk-probowal-sklonic-pracownikow-duzych-firm-do-instalacji-ransomware-proponowana-pensja-milion-usd/"/>
-        <updated>2021-08-24T05:34:32.996Z</updated>
-        <content type="html"><![CDATA[Obywatel Nigerii próbował nakłonić pracowników różnych firm do instalacji na serwerach ransomware’a, który zaszyfrowałby dane i ostatecznie „poprosił” o okup. Plan mężczyzny okazał się jednak na tyle niedopracowany, że napisał on do kilku przedsiębiorstw, których poczta była chroniona przez Abnormal Security. Poniższa wiadomość zwróciła uwagę pracowników: Demonware to ransomware napisany…]]></content>
     </entry>
 </feed>
