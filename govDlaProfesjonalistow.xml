@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gov.pl/web/baza-wiedzy/dla-profesjonalistow</id>
     <title>Dla profesjonalistow</title>
-    <updated>2021-09-07T05:34:53.837Z</updated>
+    <updated>2021-09-08T17:41:44.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gov.pl/img/icons/favicon-16x16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Rekomendacje dla modelu „zero zaufania”]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/rekomendacje-zero-zaufania</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/rekomendacje-zero-zaufania"/>
+        <updated>2021-09-08T17:41:32.684Z</updated>
+        <content type="html"><![CDATA[Narodowe Standardy Cyberbezpieczeństwa]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Narodowe Standardy Cyberbezpieczeństwa]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/narodowe-standardy-cyberbezpieczenstwa</id>
@@ -67,12 +74,5 @@
         <link href="https://www.gov.pl/web/baza-wiedzy/poradnik--zglaszanie-incydentow-cyberbezpieczenstwa-przez-podmioty-sektora-ochrony-zdrowia-kwiecien-2020-r"/>
         <updated>2021-07-23T05:34:22.674Z</updated>
         <content type="html"><![CDATA[Poradnik informujący krok po kroku w jaki sposób i gdzie należy zgłaszać incydenty cyberbezpieczeństwa (Kwiecień 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poradnik – rekomendacje cyberbezpieczeństwa dla podmiotów sektora ochrony zdrowia]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/poradnik---rekomendacje-cyberbezpieczenstwa-dla-podmiotow-sektora-ochrony-zdrowia-kwiecien-2020-r</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/poradnik---rekomendacje-cyberbezpieczenstwa-dla-podmiotow-sektora-ochrony-zdrowia-kwiecien-2020-r"/>
-        <updated>2021-07-23T05:34:22.675Z</updated>
-        <content type="html"><![CDATA[Zestaw rekomendowanych minimalnych środków przeciwdziałających skutkom incydentu cyberbezpieczeństwa (Kwiecień 2020 r.)]]></content>
     </entry>
 </feed>

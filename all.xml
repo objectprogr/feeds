@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://objectprogr.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-07T05:34:53.858Z</updated>
+    <updated>2021-09-08T17:41:45.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wszystko o portalu samorzad.gov.pl - Poradnik PRCyber - 06 (Cyberbezpieczny samorzad)]]></title>
@@ -124,6 +124,13 @@
         <content type="html"><![CDATA[W poradniku znajdują się wskazówki jak unikać włamań na konta w mediach społecznościowych oraz inne porady dotyczące cyberbezpieczeństwa. (Styczeń 2021 r.)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rekomendacje dla modelu „zero zaufania” (Dla profesjonalistow)]]></title>
+        <id>https://www.gov.pl/web/baza-wiedzy/rekomendacje-zero-zaufania</id>
+        <link href="https://www.gov.pl/web/baza-wiedzy/rekomendacje-zero-zaufania"/>
+        <updated>2021-09-08T17:41:32.684Z</updated>
+        <content type="html"><![CDATA[Narodowe Standardy Cyberbezpieczeństwa]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Narodowe Standardy Cyberbezpieczeństwa (Dla profesjonalistow)]]></title>
         <id>https://www.gov.pl/web/baza-wiedzy/narodowe-standardy-cyberbezpieczenstwa</id>
         <link href="https://www.gov.pl/web/baza-wiedzy/narodowe-standardy-cyberbezpieczenstwa"/>
@@ -185,13 +192,6 @@
         <link href="https://www.gov.pl/web/baza-wiedzy/poradnik--zglaszanie-incydentow-cyberbezpieczenstwa-przez-podmioty-sektora-ochrony-zdrowia-kwiecien-2020-r"/>
         <updated>2021-07-23T05:34:22.674Z</updated>
         <content type="html"><![CDATA[Poradnik informujący krok po kroku w jaki sposób i gdzie należy zgłaszać incydenty cyberbezpieczeństwa (Kwiecień 2020 r.)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poradnik – rekomendacje cyberbezpieczeństwa dla podmiotów sektora ochrony zdrowia (Dla profesjonalistow)]]></title>
-        <id>https://www.gov.pl/web/baza-wiedzy/poradnik---rekomendacje-cyberbezpieczenstwa-dla-podmiotow-sektora-ochrony-zdrowia-kwiecien-2020-r</id>
-        <link href="https://www.gov.pl/web/baza-wiedzy/poradnik---rekomendacje-cyberbezpieczenstwa-dla-podmiotow-sektora-ochrony-zdrowia-kwiecien-2020-r"/>
-        <updated>2021-07-23T05:34:22.675Z</updated>
-        <content type="html"><![CDATA[Zestaw rekomendowanych minimalnych środków przeciwdziałających skutkom incydentu cyberbezpieczeństwa (Kwiecień 2020 r.)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[O algorytmach dla prawników (Informatyk zakladowu)]]></title>
@@ -368,6 +368,55 @@
  <div class="read-more-button-wrap"><a href="https://informatykzakladowy.pl/nik-o-slps-nie-osiagnieto-celow-calego-przedsiewziecia/#more-2361" class="more-link"><span class="faux-button">Czytaj dalej</span> <span class="screen-reader-text">„NIK o SLPS: Nie osiągnięto celów całego przedsięwzięcia”</span></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[McDonald’s UK: w mailach do uczestników gry znalazły się… loginy/hasła do baz danych (Sekurak)]]></title>
+        <id>https://sekurak.pl/mcdonald-uk-w-mailach-do-uczestnikow-gry-znalazly-sie-loginy-hasla-do-baz-danych/</id>
+        <link href="https://sekurak.pl/mcdonald-uk-w-mailach-do-uczestnikow-gry-znalazly-sie-loginy-hasla-do-baz-danych/"/>
+        <updated>2021-09-08T17:41:44.056Z</updated>
+        <content type="html"><![CDATA[Monopoly VIP to gra udostępniana klientom McDonalda w Wielkiej Brytanii. W skrócie można wpisać tam kod dostępny po zakupie produktów i dzięki temu wygrać nagrody. Część osób, która rzeczywiście je wygrała, dostała w informującym o fakcie e-mailu pewien bonus: dane logowania do produkcyjnej/stagingowej bazy danych: Hasło do bazy w treści…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bezpieczeństwo frontendu aplikacji webowych – zapraszamy na unikalne szkolenie Michała Bentkowskiego (Sekurak)]]></title>
+        <id>https://sekurak.pl/bezpieczenstwo-frontendu-aplikacji-webowych-zapraszamy-na-unikalne-szkolenie-michala-bentkowskiego/</id>
+        <link href="https://sekurak.pl/bezpieczenstwo-frontendu-aplikacji-webowych-zapraszamy-na-unikalne-szkolenie-michala-bentkowskiego/"/>
+        <updated>2021-09-08T17:41:44.059Z</updated>
+        <content type="html"><![CDATA[Jeśli interesują Was szkolenia dedykowane programistom/testerom/pentesterom to zapraszamy do odwiedzenia naszego nowego projektu: Securitum Web Lab (https://weblab.securitum.pl/). Bezpieczeństwo frontendu aplikacji webowych to jedno ze szkoleń, które tam Wam proponujemy. Prowadzi je Michał Bentkowski, topowy pentester i badacz bezpieczeństwa – który do samego Google zgłosił przeszło 20 podatności, za które otrzymał…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podatność w  samochodach marki Honda – wg badacza można sprytnym atakiem bezprzewodowo otworzyć samochód (Sekurak)]]></title>
+        <id>https://sekurak.pl/podatnosc-w-samochodach-marki-honda-wg-badacza-mozna-sprytnym-atakiem-bezprzewodowo-otworzyc-samochod/</id>
+        <link href="https://sekurak.pl/podatnosc-w-samochodach-marki-honda-wg-badacza-mozna-sprytnym-atakiem-bezprzewodowo-otworzyc-samochod/"/>
+        <updated>2021-09-08T17:41:44.060Z</updated>
+        <content type="html"><![CDATA[Całkiem ciekawy, chociaż nie nowy sposób zdalnego ataku na samochody marki Honda został opisany w tym miejscu. To tzw. replay attack, który polega na kilkukrotnym lub opóźnionym wysyłaniu poprawnych danych. Według autora prawdopodobnie działa on w wypadku wszystkich modeli marek Honda/Acura wyposażonych w tę funkcję: This attack seems to affect…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uwaga: podatność 0-day w Microsoft Office. Producent ostrzega o aktywnej eksploitacji! (Sekurak)]]></title>
+        <id>https://sekurak.pl/uwaga-podatnosc-0-day-w-microsoft-office-producent-ostrzega-o-aktywnej-eksploitacji/</id>
+        <link href="https://sekurak.pl/uwaga-podatnosc-0-day-w-microsoft-office-producent-ostrzega-o-aktywnej-eksploitacji/"/>
+        <updated>2021-09-08T17:41:44.062Z</updated>
+        <content type="html"><![CDATA[Mowa o CVE-2021-40444. Atakujący przygotowują odpowiednie pliki .docx które po otwarciu przez ofiarę umożliwiają przejęcie jej komputera. Microsoft opisuje to w ten sposób: An attacker could craft a malicious ActiveX control to be used by a Microsoft Office document that hosts the browser rendering engine. The attacker would then have…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aresztowano developera trojana bankowego TrickBot. Ucieczkę do Rosji uniemożliwiły lockdown i nieważny paszport… (Sekurak)]]></title>
+        <id>https://sekurak.pl/aresztowano-developera-trojana-bankowego-trickbot-ucieczke-do-rosji-uniemozliwily-lockdown-i-niewazny-paszport/</id>
+        <link href="https://sekurak.pl/aresztowano-developera-trojana-bankowego-trickbot-ucieczke-do-rosji-uniemozliwily-lockdown-i-niewazny-paszport/"/>
+        <updated>2021-09-08T17:41:44.067Z</updated>
+        <content type="html"><![CDATA[TrickBot został zauważony po raz pierwszy w październiku 2016 roku i miał on postać trojana bankowego. Z czasem złośliwe oprogramowanie wzbogacono o nowe moduły, takie jak np. „dropper”, którego główną rolą jest zapewnienie „tylnej furtki” dla innego złośliwego oprogramowania. Z funkcji tej korzystało między innymi Ryuk Ransomware, znane z ataków…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Co każdy administrator powinien wiedzieć o bezpieczeństwie Windows? Zapraszamy na praktyczny cykl szkoleń od sekuraka (Sekurak)]]></title>
+        <id>https://sekurak.pl/co-kazdy-administrator-powinien-wiedziec-o-bezpieczenstwie-windows-zapraszamy-na-praktyczny-cykl-szkolen-od-sekuraka/</id>
+        <link href="https://sekurak.pl/co-kazdy-administrator-powinien-wiedziec-o-bezpieczenstwie-windows-zapraszamy-na-praktyczny-cykl-szkolen-od-sekuraka/"/>
+        <updated>2021-09-08T17:41:44.072Z</updated>
+        <content type="html"><![CDATA[Znakiem rozpoznawczym Grześka Tworka (prowadzącego kurs o bezpieczeństwie Windows) jest maksimum praktyki, minimum teorii oraz rozległa wiedza z dziedziny bezpieczeństwa systemów windowsowych. Grzegorz w czasie ponaddwudziestoletniej kariery zawodowej zarządzał czterema zbudowanymi od podstaw zespołami ekspertów IT Security, napisał dziesiątki narzędzi, znajdował bugi w kodzie systemów Windows, jednych hackerów wsadzał do…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niemiecki rząd chce, aby producenci smartfonów wspierali swoje urządzenia przez minimum siedem lat (Sekurak)]]></title>
+        <id>https://sekurak.pl/niemiecki-rzad-chce-aby-producenci-smartfonow-wspierali-swoje-urzadzenia-przez-minimum-siedem-lat/</id>
+        <link href="https://sekurak.pl/niemiecki-rzad-chce-aby-producenci-smartfonow-wspierali-swoje-urzadzenia-przez-minimum-siedem-lat/"/>
+        <updated>2021-09-08T17:41:44.074Z</updated>
+        <content type="html"><![CDATA[Ten pomysł przedstawił niemiecki rząd w negocjacjach z Komisją Europejską. Aktualizacje systemów operacyjnych i wsparcie serwisowe dla smartfonów ma wynosić siedem lat, a w wypadku tabletów – pięć lat. Pomysł KE zakładał pomoc w obu tych aspektach przez pięć lat dla smartfonów i sześć lat odnośnie do tabletów. W dodatku…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ProtonMail wydał adres IP aktywisty z Francji (Sekurak)]]></title>
         <id>https://sekurak.pl/protonmail-wydal-adres-ip-aktywisty-z-francji/</id>
         <link href="https://sekurak.pl/protonmail-wydal-adres-ip-aktywisty-z-francji/"/>
@@ -422,54 +471,5 @@
         <link href="https://sekurak.pl/taliban-gov-af-czyli-historia-o-tym-jak-kazdy-mogl-wykupic-za-25-dolarow-domene-rzadowa/"/>
         <updated>2021-09-03T17:41:34.162Z</updated>
         <content type="html"><![CDATA[Afganistan stał się ostatnio dość głośnym tematem w mediach po tym, jak talibowie błyskawicznie przejęli władzę w państwie, zmuszając z pozoru o wiele większe i lepiej uzbrojone siły afgańskiej armii oraz ich sojuszników do ewakuacji z kraju. Z sytuacji tej zdaje się doskonale zdawać sobie sprawę pewien żartowniś, któremu udało…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dzień programisty: zorganizuj u siebie praktyczny webinar od sekuraka z nagrodami :-) (Sekurak)]]></title>
-        <id>https://sekurak.pl/dzien-programisty-zorganizuj-u-siebie-praktyczny-webinar-od-sekuraka-z-nagrodami/</id>
-        <link href="https://sekurak.pl/dzien-programisty-zorganizuj-u-siebie-praktyczny-webinar-od-sekuraka-z-nagrodami/"/>
-        <updated>2021-09-03T17:41:34.163Z</updated>
-        <content type="html"><![CDATA[Dzień programisty tradycyjnie obchodzony jest 256. dnia roku – w tym roku to 13. września. Jeśli chcielibyście z tej okazji zorganizować w firmie atrakcyjny event on-line z nagrodami, to zerknijcie jakie mamy tematy do zaproponowania: Dlaczego hackowanie aplikacji webowych jest proste? (i jak temu zapobiec) ~1.5h. Prowadzenie: Michał Sajdak.W trakcie…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ProxyToken, czyli podatność pozwalająca na obejście uwierzytelniania w MS Exchange (Sekurak)]]></title>
-        <id>https://sekurak.pl/proxytoken-czyli-podatnosc-pozwalajaca-na-obejscie-uwierzytelniania-w-ms-exchange/</id>
-        <link href="https://sekurak.pl/proxytoken-czyli-podatnosc-pozwalajaca-na-obejscie-uwierzytelniania-w-ms-exchange/"/>
-        <updated>2021-09-01T17:41:51.116Z</updated>
-        <content type="html"><![CDATA[W marcu tego roku pisaliśmy o krytycznej podatności ProxyLogon (CVE-2021-26855), która pozwalała atakującemu na ominięcie uwierzytelniania i zdalne wykonanie kodu w Microsoft Exchange Server: Jak podkreślił badacz bezpieczeństwa Organge Tsai, wyżej wspomniana podatność to jedynie “wierzchołek góry lodowej”, ponieważ architektura MS Exchange stanowi nową powierzchnię ataku, o której badacz mówił…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Północnokoreańska grupa APT wykorzystuje exploit w Adobe Readerze do infekowania celów złośliwymi plikami PDF (Sekurak)]]></title>
-        <id>https://sekurak.pl/polnocnokoreanska-grupa-apt-wykorzystuje-exploit-w-adobe-readerze-do-infekowania-celow-zlosliwymi-plikami-pdf/</id>
-        <link href="https://sekurak.pl/polnocnokoreanska-grupa-apt-wykorzystuje-exploit-w-adobe-readerze-do-infekowania-celow-zlosliwymi-plikami-pdf/"/>
-        <updated>2021-09-01T17:41:51.118Z</updated>
-        <content type="html"><![CDATA[Jak wynika z raportu firmy AhnLab, grupa APT (Thallium lub Kimsuky) związana z Koreą Północną zaczęła wykorzystywać podatność CVE-2020-9715 w Adobe Readerze do infekowania swoich ofiar złośliwym oprogramowaniem. W tym celu atakujący wysyłają ofierze (organizacje z Korei Południowej) z pozoru nieszkodliwy plik PDF: Otworzenie pliku w wersji Adobe Readera, która…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grupa ransomware RansomEXX zhakowała dostawcę oprogramowania układowego American Megatrends (Sekurak)]]></title>
-        <id>https://sekurak.pl/grupa-ransomware-ransomexx-zhakowala-dostawce-oprogramowania-ukladowego-american-megatrends/</id>
-        <link href="https://sekurak.pl/grupa-ransomware-ransomexx-zhakowala-dostawce-oprogramowania-ukladowego-american-megatrends/"/>
-        <updated>2021-08-31T17:41:07.210Z</updated>
-        <content type="html"><![CDATA[AMI (American Megatrends International LLC, dawniej American Megatrends Inc.) to międzynarodowe przedsiębiorstwo zajmujące się między innymi produkcją sprzętu komputerowego i dostarczaniem oprogramowania układowego. W Polsce firma znana jest dzięki systemowi BIOS ich autorstwa: Niestety American Megatrends stało się, zaraz obok firmy Gigabyte, kolejną ofiarą grupy ransomware RansomEXX: Atakujący prawdopodobnie nie…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Badacze znaleźli krytyczną lukę w zabezpieczeniach Azure Cosmos DB. Microsoft wysyła do użytkowników e-maile z ostrzeżeniami (Sekurak)]]></title>
-        <id>https://sekurak.pl/badacze-znalezli-krytyczna-luke-w-zabezpieczeniach-azure-cosmos-db-microsoft-wysyla-do-uzytkownikow-e-maile-z-ostrzezeniami/</id>
-        <link href="https://sekurak.pl/badacze-znalezli-krytyczna-luke-w-zabezpieczeniach-azure-cosmos-db-microsoft-wysyla-do-uzytkownikow-e-maile-z-ostrzezeniami/"/>
-        <updated>2021-08-31T17:41:07.210Z</updated>
-        <content type="html"><![CDATA[O całym zajściu mogliśmy dowiedzieć się za sprawą raportu od zespołu Wiz Research:&nbsp; Usługa Azure Cosmos DB to w pełni zarządzana usługa bazy danych NoSQL umożliwiająca tworzenie nowoczesnych aplikacji: Luka znaleziona przez badaczy umożliwiała atakującemu uzyskanie pełnego dostępu (odczyt, zapis, usuwanie) do instancji Cosmos DB innych klientów bez uprzedniej autoryzacji….]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kuba: rząd przepchnął ustawę cenzurującą Internet w kraju. Od teraz krytyka reżimu to „cyberterroryzm”. (Sekurak)]]></title>
-        <id>https://sekurak.pl/kuba-rzad-przepchnal-ustawe-cenzurujaca-internet-w-kraju-od-teraz-krytyka-rezimu-to-cyberterroryzm/</id>
-        <link href="https://sekurak.pl/kuba-rzad-przepchnal-ustawe-cenzurujaca-internet-w-kraju-od-teraz-krytyka-rezimu-to-cyberterroryzm/"/>
-        <updated>2021-08-28T17:39:55.143Z</updated>
-        <content type="html"><![CDATA[W lipcu informowaliśmy was o blackoucie Internetu i blokadzie mediów społecznościowych w trakcie antyrządowych protestów na Kubie: Tym razem reżim poszedł o krok dalej, uchwalając nowe przepisy, pozwalające na ograniczanie wolność wypowiedzi w Internecie. Dodatkowo rząd Kuby wprowadził jednoznaczny zapis, który zmusza dostawców usług internetowych do zgłaszania wszelkich incydentów bezpieczeństwa…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ekipę Ragnarok ransomware ruszyło sumienie (lub FBI ;) – udostępnili klucze deszyfrujące wszystkie ofiary (Sekurak)]]></title>
-        <id>https://sekurak.pl/ekipe-ragnarok-ransomware-ruszylo-sumienie-lub-fbi-udostepnili-klucze-deszyfrujace-wszystkie-ofiary/</id>
-        <link href="https://sekurak.pl/ekipe-ragnarok-ransomware-ruszylo-sumienie-lub-fbi-udostepnili-klucze-deszyfrujace-wszystkie-ofiary/"/>
-        <updated>2021-08-28T17:39:55.143Z</updated>
-        <content type="html"><![CDATA[Jak donosi ekipa Bleepingcomputer, Rangarok w panice ~opuścił swój serwis publikujący informacje o ofiarach / wyciekach: Looking at the leak site, it seems like the gang did not plan on shutting down today, and just wiped everything and shut down their operation. Jednocześnie w tym serwisie udostępniono uniwersalnego dekryptora. Badacze…]]></content>
     </entry>
 </feed>
