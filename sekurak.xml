@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sekurak.pl/?cat=7,3</id>
     <title>Sekurak</title>
-    <updated>2021-09-09T05:34:58.322Z</updated>
+    <updated>2021-09-09T17:41:18.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sekurak.pl/wp-content/themes/Sekuraq/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Zdalne wykonanie kodu w Burp Suite, czyli jak zhakować hakera]]></title>
+        <id>https://sekurak.pl/zdalne-wykonanie-kodu-w-burp-suite-czyli-jak-zhakowac-hakera/</id>
+        <link href="https://sekurak.pl/zdalne-wykonanie-kodu-w-burp-suite-czyli-jak-zhakowac-hakera/"/>
+        <updated>2021-09-09T17:41:17.551Z</updated>
+        <content type="html"><![CDATA[Burp Suite to popularne narzędzie pozwalające na przeprowadzanie testów bezpieczeństwa aplikacji internetowych. Więcej na temat tego oprogramowania pisaliśmy w artykule z 2014 roku. Tymczasem badacze bezpieczeństwa z Noah Lab odkryli podatność, która pozwala na zdalne wykonanie kodu na urządzeniu użytkownika Burp Suite: Luka dotyczy wykorzystywania przez oprogramowanie bezokienkowej wersji przeglądarki…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OWASP Top 10 – edycja 2021. Idą duże zmiany.]]></title>
+        <id>https://sekurak.pl/owasp-top-10-edycja-2021-ida-duze-zmiany/</id>
+        <link href="https://sekurak.pl/owasp-top-10-edycja-2021-ida-duze-zmiany/"/>
+        <updated>2021-09-09T17:41:17.553Z</updated>
+        <content type="html"><![CDATA[OWASP Top Ten to często pierwszy dokument polecany osobom, które chcą bezboleśnie rozpocząć swoją przygodę z bezpieczeństwem aplikacji webowych. To 10 najistotniejszych kategorii problemów bezpieczeństwa w aplikacjach webowych: The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[McDonald’s UK: w mailach do uczestników gry znalazły się… loginy/hasła do baz danych]]></title>
         <id>https://sekurak.pl/mcdonald-uk-w-mailach-do-uczestnikow-gry-znalazly-sie-loginy-hasla-do-baz-danych/</id>
@@ -95,19 +109,5 @@
         <link href="https://sekurak.pl/whatsapp-z-grzywna-225-milionow-euro-za-naruszenie-prywatnosci-uzytkownikow/"/>
         <updated>2021-09-03T17:41:34.156Z</updated>
         <content type="html"><![CDATA[Irlandzka Komisja Ochrony Danych (Data Protection Commission) ogłosiła, że WhatsApp należący do Facebooka zostanie ukarany grzywną w wysokości 225 milionów euro w związku z naruszeniem prywatności użytkowników komunikatora: Według DPC WhatsApp niewłaściwe informował użytkowników, w jaki sposób ich dane będą wykorzystywane przez Facebooka. Z raportu Komisji wynika, że naruszone zostały…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Narzędzie do ukrywania oprogramowania malware w kartach graficznych]]></title>
-        <id>https://sekurak.pl/narzedzie-do-ukrywania-oprogramowania-malware-w-kartach-graficznych/</id>
-        <link href="https://sekurak.pl/narzedzie-do-ukrywania-oprogramowania-malware-w-kartach-graficznych/"/>
-        <updated>2021-09-03T17:41:34.160Z</updated>
-        <content type="html"><![CDATA[Na jednym z forów hakerskich redaktorzy BleepingComputer.com znaleźli takie ogłoszenie: Użytkownik oferuje PoC (czyli pewnie gotowy program) techniki pozwalającej na ukrycie złośliwego oprogramowania przed skanowaniem pamięci operacyjnej przez różne rozwiązania zabezpieczające. Nie podaje zbyt wielu szczegółów, ale ogólna zasada działania, jak widać, ogranicza się do alokacji przestrzeni adresowej w buforze…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[taliban.gov.af, czyli historia o tym, jak każdy mógł wykupić za 25 dolarów domenę rządową]]></title>
-        <id>https://sekurak.pl/taliban-gov-af-czyli-historia-o-tym-jak-kazdy-mogl-wykupic-za-25-dolarow-domene-rzadowa/</id>
-        <link href="https://sekurak.pl/taliban-gov-af-czyli-historia-o-tym-jak-kazdy-mogl-wykupic-za-25-dolarow-domene-rzadowa/"/>
-        <updated>2021-09-03T17:41:34.162Z</updated>
-        <content type="html"><![CDATA[Afganistan stał się ostatnio dość głośnym tematem w mediach po tym, jak talibowie błyskawicznie przejęli władzę w państwie, zmuszając z pozoru o wiele większe i lepiej uzbrojone siły afgańskiej armii oraz ich sojuszników do ewakuacji z kraju. Z sytuacji tej zdaje się doskonale zdawać sobie sprawę pewien żartowniś, któremu udało…]]></content>
     </entry>
 </feed>
